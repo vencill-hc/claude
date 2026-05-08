@@ -3,7 +3,7 @@
 # Usage:
 #   make install                       # full bootstrap on a fresh machine
 #   make gstack                        # clone gstack as a sibling repo
-#   make activate PROFILES="core pipelines"
+#   make activate PROFILES="core gdu"
 #   make list                          # list available profiles
 #   make show                          # show currently active
 
@@ -19,8 +19,8 @@ help:
 	@echo "Claude Code setup"
 	@echo ""
 	@echo "  make install                            full bootstrap"
-	@echo "  make gstack                             clone gstack repo (only needed for the 'gstack' profile)"
-	@echo "  make activate PROFILES=\"core pipelines\"  activate one or more profiles"
+	@echo "  make gstack                             clone gstack repo (only needed for the 'dev' profile)"
+	@echo "  make activate PROFILES=\"core gdu\"       activate one or more profiles"
 	@echo "  make list                               list profiles"
 	@echo "  make show                               show currently active profiles"
 	@echo ""

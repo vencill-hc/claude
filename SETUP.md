@@ -22,7 +22,7 @@ make install
 This will:
 
 1. Create `~/.claude/{skills,agents,commands}/` if missing
-2. Clone [`garrytan/gstack`](https://github.com/garrytan/gstack) to `~/Documents/git/gstack` (sibling repo — needed for the `gstack` profile)
+2. Clone [`garrytan/gstack`](https://github.com/garrytan/gstack) to `~/Documents/git/gstack` (sibling repo — needed for the `dev` profile)
 3. Activate the default profile (`core`)
 
 To use the `claude-profile` alias, add this to your shell rc (or rely on the dotfiles repo to set it):
@@ -35,10 +35,10 @@ alias claude-profile="node ~/Documents/git/claude/activate-profile.js"
 
 Skills, agents, and commands live in this repo as the source of truth. `activate-profile.js` clears `~/.claude/{skills,agents,commands}/` of symlinks, then symlinks back only the entries listed in the profile(s) you select. Multiple profiles can be active at once and merge.
 
-`profiles/<name>/skills/<skill>` is a symlink pointing back into `skills/<skill>` (or, for the `gstack` profile, into the sibling `~/Documents/git/gstack/gstack/<skill>` repo). To add a skill to a profile:
+`profiles/<name>/skills/<skill>` is a symlink pointing back into `skills/<skill>` (or, for the `dev` profile, into the sibling `~/Documents/git/gstack/gstack/<skill>` repo). To add a skill to a profile:
 
 ```bash
-cd profiles/pipelines/skills
+cd profiles/gdu/skills
 ln -s ../../../skills/<skill-name> .
 ```
 
@@ -54,17 +54,17 @@ mkdir -p profiles/<name>/{skills,agents,commands}
 ```bash
 make list                                 # see available profiles
 make show                                 # see currently active
-make activate PROFILES="core pipelines"   # activate
-claude-profile core gstack                # same thing, via alias
+make activate PROFILES="core gdu"         # activate
+claude-profile core dev                   # same thing, via alias
 ```
 
-The active profile list is written to `~/.claude/.active-profiles` and read by the statusline (configured in the dotfiles repo) to render `[core|pipelines]`.
+The active profile list is written to `~/.claude/.active-profiles` and read by the statusline (configured in the dotfiles repo) to render `[core|gdu]`.
 
 ## Caveats
 
 - `~/.claude/skills/`, `~/.claude/agents/`, `~/.claude/commands/` are **managed**. Anything dropped there ad-hoc gets wiped on the next `make activate`. Add new skills to `skills/` in this repo and symlink into a profile instead.
 - Plugin-managed skills (anything from `~/.claude/plugins/`, e.g. `superpowers`, `code-simplifier`) and slash commands in `commands/` are NOT profile-managed — they stay always-on regardless of active profile.
-- `gstack` is a separate repo (cloned to `~/Documents/git/gstack`). The `gstack` profile symlinks point at `~/Documents/git/gstack/gstack/<skill>/`. If gstack moves or its internal layout changes, those symlinks break.
+- `gstack` is a separate repo (cloned to `~/Documents/git/gstack`). The `dev` profile symlinks point at `~/Documents/git/gstack/gstack/<skill>/`. If gstack moves or its internal layout changes, those symlinks break.
 
 ## Reset
 
