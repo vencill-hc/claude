@@ -44,7 +44,7 @@ Ingestion → Binding → Labeling
 (Layers)    (Entities)  (Computed properties)
 ```
 
-1. **Ingestion**: Reads raw source data, transforms to Layers, diffs against extant via DeltaDatasets, emits Upsert/Discard events to PubSub
+1. **Ingestion**: Reads raw source data, transforms to Layers, filters DSR-scrubbed/suppressed layers, diffs against extant via DeltaDatasets, emits Upsert/Discard events to PubSub. A single source can emit multiple **related** layers in one run (e.g. a parent `InvestmentLayer` and a child `InvestmentPartnerLayer`) — see `references/multi_layer_ingestion.md`.
 2. **Binding**: Groups Layers into Entities by matching on bindable fields (names, slugs, domains, etc.)
 3. **Labeling**: Computes derived properties (highlights, primary employment, industries, cached avatars/logos)
 
@@ -58,6 +58,8 @@ Each stage has both **batch** and **streaming** variants.
 
 See CLAUDE.md quick reference for `make tests`, `make lint`, `make format`, `make dump_schemas`, `make console`, `make deps`, and DB commands (`make db_setup`, `make db_migrate`, `make db_console`).
 
+Delegate `make format` / `make lint` / `make tests` runs to a Sonnet sub-agent per `references/test_lint_runner_agent.md` instead of running them in the main thread; the sub-agent returns a concise pass/fail summary with only anomalies.
+
 ## Domain Concepts (Brief)
 
 - **Layer**: A single source's view of an entity. Multiple layers from different sources can describe the same real-world entity.
@@ -67,15 +69,6 @@ See CLAUDE.md quick reference for `make tests`, `make lint`, `make format`, `mak
 - **DeltaDatasets**: The core diffing transform that compares new data against existing data and emits upsert/discard decisions.
 - **Events**: The output of pipelines — typed PubSub messages that trigger downstream processing.
 
-## Local `.claude/` Resources (Always Available in This Repo)
-
-The repo ships authoritative guides in `.claude/`. Read these before writing code — do not rely on summaries here.
-
-- **`.claude/architecture.md`** — Implementation patterns: Pydantic v2 gotchas, Beam pickling, DoFn lifecycle, CoGroupByKey, `beam.Reshuffle()`, PubSub sink semantics, adding new fields (with Alembic migrations), adding new entity types, CI/CD.
-- **`.claude/conventions.md`** — Code style rules: `import typing as t`, `t.cast()` usage, naming (`TransformXxxToYyyEvents`, `GenerateXxx`), 120-char line length, conventional commits.
-- **`.claude/tech_stack.md`** — Exact versions: Python 3.11, Apache Beam 2.71.0, Pydantic v2, ruff + pyright.
-- **`.claude/agents/test-lint-runner.md`** — Haiku sub-agent for running `make format`, `make lint`, `make tests` with concise pass/fail summaries. Delegate to it instead of running these in the main thread.
-
 ## Reference Files
 
 For detailed documentation, see:
@@ -83,3 +76,8 @@ For detailed documentation, see:
 - `references/data_types.md` — Full Pydantic model hierarchy, nested types, field docs, enum membership
 - `references/pipeline_patterns.md` — How to add pipelines, transforms, tests; DeltaDatasets pattern
 - `references/infrastructure.md` — GCP setup, deployment, pipeline options, streaming patterns
+- `references/binding_input_contracts.md` — `XxxLayerForBinding` pattern. **Read this** when touching any `src/pipelines/bind/` code or adding fields to an Entity Layer that should participate in binding.
+- `references/labeling_input_contracts.md` — `XxxLayerForLabeling` pattern (sibling of binding contracts). **Read this** when touching any `src/pipelines/label/` code or adding a labeler-written field. Covers the read+write field invariant and the lossless discard-event splat.
+- `references/multi_layer_ingestion.md` — Ingesting two **related** layers from one source. **Read this** when a pipeline emits a parent + child layer (e.g. `InvestmentLayer` + `InvestmentPartnerLayer`). Covers parent-child invariants, synthesizing layers for schema parity, validate-with-data existence checks, and the `crunchbase_updated_at` idempotency footgun.
+- `references/dsr_filtering.md` — DSR (Data Subject Request) scrubbing/suppression. **Read this** when adding DSR compliance to an ingestion pipeline or ingesting person data. Covers `FilterDsrScrubbedLayers` (extant-marked) vs `FilterDsrSuppressed*` (pre-emptive), HMAC digests, and where filtering slots in (after layer generation, before `DeltaDatasets`).
+- `references/test_lint_runner_agent.md` — sub-agent spec for running format/lint/tests. **Read this** before running any make-based verification; delegate to a Sonnet sub-agent instead of running in the main thread.
