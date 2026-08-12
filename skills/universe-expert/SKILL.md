@@ -69,6 +69,10 @@ Delegate `make format` / `make lint` / `make tests` runs to a Sonnet sub-agent p
 - **DeltaDatasets**: The core diffing transform that compares new data against existing data and emits upsert/discard decisions.
 - **Events**: The output of pipelines — typed PubSub messages that trigger downstream processing.
 
+## Misc Notes
+
+- **Job-title synonyms live in two unconnected places, running opposite directions.** Pipelines side: `JOB_TITLE_NORMALIZATION_SYNONYMS` (`src/utils/string_validator_utils.py:47`, 16 entries, directional long→short "chief financial officer" → "cfo") feeds `normalize_job_title`; actual CFO≡long-form equivalence is implicit per-parser (seniority `_NORMALIZE_SUBS` regexes collapse both to a `cxo` token in `src/utils/seniority_utils.py:83-108`; job function enumerates both spellings as keys in `src/utils/employment_utils.py:14`). Rails side (`data-universe-rails`): bidirectional OpenSearch `synonym_graph` equivalence groups at query time only (`packs/search/app/services/search/analysis/job_title_synonyms.rb`, wired as `search_analyzer` in `packs/search/app/public/search/person.rb` and `employment_job_title.rb`). Both repos store titles verbatim at ingestion/write; normalization happens only at label/bind time (pipelines) or query time (rails). The two lists share no file or generated artifact — they can drift silently (rails list already lacks CISO/CHRO/CPO and the VP/SVP pair; typeahead subfields get no synonym expansion; its `updateable: true` flag is inert — no `_reload_search_analyzers` caller, so edits need a full index rebuild).
+
 ## Reference Files
 
 For detailed documentation, see:
@@ -81,3 +85,4 @@ For detailed documentation, see:
 - `references/multi_layer_ingestion.md` — Ingesting two **related** layers from one source. **Read this** when a pipeline emits a parent + child layer (e.g. `InvestmentLayer` + `InvestmentPartnerLayer`). Covers parent-child invariants, synthesizing layers for schema parity, validate-with-data existence checks, and the `crunchbase_updated_at` idempotency footgun.
 - `references/dsr_filtering.md` — DSR (Data Subject Request) scrubbing/suppression. **Read this** when adding DSR compliance to an ingestion pipeline or ingesting person data. Covers `FilterDsrScrubbedLayers` (extant-marked) vs `FilterDsrSuppressed*` (pre-emptive), HMAC digests, and where filtering slots in (after layer generation, before `DeltaDatasets`).
 - `references/test_lint_runner_agent.md` — sub-agent spec for running format/lint/tests. **Read this** before running any make-based verification; delegate to a Sonnet sub-agent instead of running in the main thread.
+- `references/bq_live_schema.md` — how the materialized BigQuery tables differ from the Pydantic models (JSON columns, no is_primary, layer-table provenance, raw MixRank staging tables + scan-cost gotchas). **Read this** before writing SQL against `data_universe` or `data_universe_mixrank`. Dated snapshot with refresh queries embedded; verify column lists before relying on them.
