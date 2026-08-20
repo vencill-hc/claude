@@ -21,7 +21,7 @@ Drafting fresh, write with all three internalized. Revising existing text, run t
 - Register collision is allowed. Formal syntax and a casual aside may share a paragraph. The collision is the signature.
 - One metaphor maximum, and only where the audience is steeped in its context. Unexplained metaphor in a doc for the uninitiated is a wall; cut it or explain it.
 - Her typos are grain. Never autocorrect prose she wrote; never flag her spelling.
-- Typography: minimal bold (never to lead a list item), sentence-case headings only when a document is long enough to navigate, tables for changes and comparisons, no em-dashes ever, no emoji in shipped prose.
+- Typography: minimal bold (never to lead a list item), title-case headings free of commas and other punctuation (ruled 2026-08-19, supersedes the earlier sentence-case guidance; see banned-tells.md, comma-qualified headings) and only when a document is long enough to navigate, tables for changes and comparisons, no em-dashes ever, no emoji in shipped prose.
 - PR descriptions keep the house structure: brief, tabular, one field per row, no editorial typography. This skill governs the sentences inside that structure.
 
 ## References

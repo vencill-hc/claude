@@ -101,3 +101,19 @@ Sentence case headings. No emoji in shipped prose.
 ## Evasive passive
 
 Passive voice that hides the actor ("mistakes were made", "it was decided"). Name the actor unless the actor genuinely doesn't matter.
+
+## Hanging transitive verbs
+
+Appended 2026-08-19, flagged on the taxonomy report. A sentence ending on a transitive verb with no object: "recruiter usage governs", "they inform; they do not decide". Technically correct, but it leaves the reader waiting for the object to resolve. Give the verb its object, or recast so the sentence ends on a noun. Genuine intransitives are fine ("the mass relocates or decomposes").
+
+Before: "Where an external taxonomy and recruiter usage conflict, recruiter usage governs."
+After: "Where an external taxonomy and recruiter usage conflict, the vocabulary follows recruiter usage."
+
+## Comma-qualified headings
+
+Appended 2026-08-19, flagged on the taxonomy report. The "Thing, Qualified" heading: "Criteria, Applied in Order". Commas and punctuation rarely belong in a title or heading; fold the qualifier into the section's first line or cut it. Reference parentheticals like a PR number are fine.
+
+Before: "## Criteria, applied in order"
+After: "## Criteria" with "The criteria are applied in order." as the section's first line.
+
+Her ruling on case, same date, superseding the "Title Case headings" line in the humanizer adoption above: headings and titles ARE title case. Sentence-case headings read as indie-blogger affect, not paper convention.
