@@ -98,9 +98,44 @@ Sentence case headings. No emoji in shipped prose.
 
 "I hope this helps", "feel free to", "as of my last update", knowledge-cutoff disclaimers. These never ship.
 
+## Parenthetical example-stacking
+
+Load-bearing examples or definitions crammed into running prose as serial parentheticals. One parenthetical aside is a voice move (a coinage minted in passing); a stack of them carrying the actual content is a list wearing a trenchcoat. When two or more items each need an example, break them into bullets, one item per line, example after the dash.
+
+Before: "alpha-2 and alpha-3 are the ISO codes ("CA" / "CAN" for Canada); an exonym is one language's name for a place in another ("Turkey" for Türkiye, "Munich" for München); diacritic stripping normalizes accents ("Canadá" → "canada")."
+
+After:
+- alpha-2 / alpha-3 — the ISO 3166-1 country codes. "CA" and "CAN" for Canada.
+- exonym — one language's name for a place in another. "Turkey" for Türkiye, "Munich" for München.
+- diacritic stripping — accents normalized to bare ASCII before lookup, so "Canadá" becomes "canada".
+
 ## Evasive passive
 
-Passive voice that hides the actor ("mistakes were made", "it was decided"). Name the actor unless the actor genuinely doesn't matter.
+Passive voice that hides an actor who matters ("mistakes were made", "it was decided"). Name the actor when naming it adds information.
+
+Not banned: methodological passive, the paper-abstract register where the actor genuinely doesn't matter and convention foregrounds the method or result ("the filings are disclosed to the SEC", "more research is needed", "the set is forced unique on (exch, symbol)"). This is a feature of the abstract end of the register dial, not a tell. The test: does naming the actor add information? If no, passive is correct and often better. See the methodological-exposition passage in exemplars.md.
+
+## Semicolon-stacked ordered lists
+
+Sequential or ranked items (steps, gates, preconditions, anything introduced as "in order") packed into one sentence and joined by semicolons. Semicolons carry no ordinality: the reader can't count the gates, and can't tell where the list stops and the next point begins. When items are ordered, render a numbered markdown list, one per line. A genuinely separate point that follows the list stays its own paragraph, not one more clause on the run.
+
+Before: "Run gates, in order: this must not run until the full address stack (through #490) is merged and deployed; rails-side partial-merge semantics (addresses=None clears, unset fields untouched) verified against the upsert handler; local dry run needs the TEMP_LOCATION forwarding fix for DirectRunner (currently only applied on Dataflow in run_pipeline.py). Expected volume at run time: ~82% of MixRank orgs upsert once (measured in #490), so run off-peak and watch downstream capacity."
+
+After:
+
+Run gates, in order:
+1. this must not run until the full address stack (through #490) is merged and deployed
+2. rails-side partial-merge semantics (addresses=None clears, unset fields untouched) verified against the upsert handler
+3. local dry run needs the TEMP_LOCATION forwarding fix for DirectRunner (currently only applied on Dataflow in run_pipeline.py)
+
+Expected volume at run time: ~82% of MixRank orgs upsert once (measured in #490), so run off-peak and watch downstream capacity.
+
+## Generic coinage verbs
+
+Appended 2026-08-11, flagged on the SUP-420 PR body. A verb coined for one mechanism spreading to every nearby claim: "reads" describing what a matcher does (`pr` reads principal, propietario, profesor) is close to literal and survives; "reads" reused to mean "is labeled" is ornament on a factual claim. Her ruling: any time "reads" is used to mean "is labeled", it is incorrect. Coinage is rarely useful when the coined word is generic, with as many possible readings as "read". Results get plain verbs.
+
+Before: "General Manager reads Management now, not Business Development."
+After: "General Manager is labeled Management now, not Business Development."
 
 ## Hanging transitive verbs
 

@@ -57,9 +57,16 @@ PATTERNS = [
 ]
 
 
+# Provenance footers (the 🤖 generated-with and 🦋 revised-by lines) are disclosure,
+# not prose; exempt from the emoji rule. See the pr-body skill, footer conventions.
+PROVENANCE_FOOTER = re.compile(r"^\s*>?\s*[\U0001F916\U0001F98B]")
+
+
 def scan(name, text):
     findings = []
     for lineno, line in enumerate(text.splitlines(), 1):
+        if PROVENANCE_FOOTER.match(line):
+            continue
         for pname, rx in PATTERNS:
             for m in rx.finditer(line):
                 snippet = m.group(0)[:60]

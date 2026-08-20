@@ -14,6 +14,8 @@ Her articulation, on why a lead-in needs a paragraph behind it:
 
 Every opening is a promise and everything after it is payoff or breach. Edit from the reader's side of the contract: the reader owes the piece nothing.
 
+Which is why a piece never opens on metadata. A PR that leads with "Resolves SUP-124" has spent its first and most-read line on a ticket number, and a ticket number promises the reader nothing. Lead with the bug, the cost, or the shape of the fix; the substance is the hook. Ticket ids are citations, not headlines. Footer them.
+
 ## Form must match mass
 
 > A dropcap into a single sentence is, like, meaningless.
@@ -37,3 +39,30 @@ The "earn the seat" test, applied at this pass to structure: sections that exist
 ## Judge the whole
 
 Clusters, not sentences, in editing as in tell-detection. A draft is judged as a shape, promise, payoff, exit, and a piece where every individual sentence survives can still fail as a shape. When it does, restructure before polishing; polish on a bad shape is wasted.
+
+## Standalone test for audience-facing deliverables (added 2026-07-15)
+
+Flagged on the seniority evaluation memo. Session-internal vocabulary leaked into a
+document the audience reads cold: rubric decision ids ("D6"), matcher tier codenames
+("token_set"), corpus tier slang ("silver pass"), taxonomy acronyms used without
+introduction (ISCO, SFIA, ESCO). The reader contract: every term either arrives
+defined or does not appear. Internal codenames get translated to what they mean, not
+footnoted.
+
+Worse than the jargon: provenance inflation. A drafted intuition-first query list was
+presented as "representative recruiter searches", which claims customer evidence that
+does not exist. Data whose provenance is a draft, an assumption, or the team's own
+intuition is labeled as exactly that, in the sentence where it is used, or it reads as
+a fabricated citation the moment anyone asks where it came from.
+
+## PR bodies (added 2026-08-11, moved same day)
+
+The rulings from her SUP-420 edit live in the pr-body skill, which owns the form:
+skeleton, cut rules, provenance carve-out, footers. One note stays here because it
+touches the standalone test above: the standalone test governs documents an audience
+reads cold; PR-body numbers ride on the thread and tooling the reviewer can reach, and
+carry no in-body methodology. The parenthetical attitude, though, is general prose law,
+not PR law: if it's not important enough to be a main-text sentence, cut it. A short
+"e.g." aside is fine; supporting examples that break the flow of the prose get bullets,
+charts, or supporting figures, and a precision caveat that changes no decision
+compresses to notation ("~10.26%").

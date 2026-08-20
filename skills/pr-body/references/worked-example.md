@@ -1,5 +1,7 @@
 # Worked example: PR description
 
+Moved from the editorialize skill 2026-08-11 when PR bodies split into their own skill; the three passes it references are editorialize's.
+
 A markdown-structured artifact through the three passes. The stage-0 draft is structurally faithful to a real shipped PR (headers, bullet patterns, provenance paragraph, footer) with the domain fictionalized; the markdown shapes and tells are the specimen, the pipeline names are invented.
 
 The lesson differs from the paragraph example: real shipped output is often nearly clean at the language level, so humanize is close to a no-op, editorial does the heavy structural lift, and voice is a light final glaze. The passes do different amounts of work depending on the artifact; that variance is normal.
@@ -66,5 +68,6 @@ In a house-structured PR the voice lives in verb choice and the rare aside, neve
 ## What to notice
 
 - Pass effort inverted versus the paragraph example: humanize 0 edits, editorial heavy, voice light. The artifact dictates the distribution.
+- The re-lands sentence survives editorial because it scopes the review (which commits are actually in front of the reviewer), not because process content is welcome. Diligence assurance ("full suite green at every commit") would have been cut. SKILL.md states the predicate.
 - The footer survived two passes that flag it, because both deferred the same question to the author. Hygiene never overrides disclosure.
 - Editorial enforced house structure without touching texture; the texture that existed at stage 0 ("Re-lands", "hand-rolled") is still present at stage 3.
