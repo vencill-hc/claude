@@ -264,3 +264,29 @@ _ = records | "Write to BQ" >> WriteToBQ(
 ```
 
 Note: WriteToBQ automatically skips writes in `read_only` or `test_mode`.
+
+## QuickDedupe / Latest.PerKey Determinism Gotcha
+
+`QuickDedupe(key_lambda, window_size=None)` with no `dedupe_fn` falls through to
+`beam.combiners.Latest.PerKey()` (`src/transforms/quick_dedupe_transform.py:48-51`).
+"Latest" compares element *event timestamps* — but in a batch pipeline whose source
+never assigns them (file/BQ reads without `TimestampedValue`), every element carries
+`MIN_TIMESTAMP`, and `LatestCombineFn` resolves ties by arrival order (bundle/worker
+scheduling). Three consequences:
+
+1. **Tie-break is nondeterministic across runs.** If two same-key elements differ in
+   any field, the survivor can flip per run. When the dedupe key is a synthesized
+   natural key that *excludes* content fields (e.g. a `source_unique_id` hash), the
+   downstream upsert comparator sees a "change" on every flip → perpetual event churn.
+2. **ParDo outputs inherit the input element's timestamp**, so duplicates emitted from
+   one input row always tie — streaming timestamps wouldn't help those.
+3. `window_size=None` puts the combine in the global window, which only fires in
+   batch; it's a batch-only signature (streaming callers must window first).
+
+**Rule:** whenever the dedupe key doesn't cover the full element content, pass an
+explicit deterministic `dedupe_fn` (e.g. max over a canonical serialization). Only
+skip it when key == full content, where any winner is identical.
+
+Empirical demo (elements print `Timestamp(-9223372036854.775)`; tied-timestamp winner
+follows feed order): run a `beam.Create | FlatMap(fn, ts=beam.DoFn.TimestampParam)`
+pipeline and call `LatestCombineFn().add_input` with equal timestamps in both orders.

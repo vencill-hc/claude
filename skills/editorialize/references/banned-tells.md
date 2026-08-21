@@ -152,3 +152,10 @@ Before: "## Criteria, applied in order"
 After: "## Criteria" with "The criteria are applied in order." as the section's first line.
 
 Her ruling on case, same date, superseding the "Title Case headings" line in the humanizer adoption above: headings and titles ARE title case. Sentence-case headings read as indie-blogger affect, not paper convention.
+
+## Dangling conversational pronouns
+
+Appended 2026-08-20, flagged on the Function Labeling Answers doc. In shared reply docs, "I did X" and "you counted Y" are dangling pronouns: who's who gets lost once the doc circulates past the two people in the conversation. Hanging yous are also empty and come across as accusatory. Answers state facts in passive or agentless form; quoted questions keep their original pronouns since the format attributes them.
+
+Before: "Your 544 is a correct count of a stale artifact. I'll regenerate the workbook."
+After: "The 544 is a correct count of a stale artifact. The workbook will be regenerated from the current spec."

@@ -86,6 +86,19 @@ Gotchas (cost ~$600 of avoided scans on DAT-47):
   connection_count, certifications, publications, patents, awards, courses, volunteering,
   profile-level company_name/title.
 
+## Industry provenance (verified 2026-08-18/20, DAT-55 follow-on)
+
+- `organizations.industries` JSON items are `{value, type}` where **`type` is the source
+  taxonomy** (`crunchbase`, `crunchbase_investor`, `linkedin`, `linkedin_code`, `pdl`,
+  `apollo`, `data_universe`) — enum at `src/data_types/organization_types.py:69`. There is
+  no `source` key; the type IS the provenance.
+- Whole-universe Crunchbase floor: **10.65%** of 53,379,688 orgs had any
+  crunchbase/crunchbase_investor industry (measured 2026-08-18). Priority-set coverage
+  should sit far above this; near-floor numbers mean the match join failed, not coverage.
+- Priority-company measurement kit (domain-first match + per-index rollup) lives in workpod
+  `reference-data/vvencill-priority-companies-refresh/` (`bq-coverage-query.sql` +
+  `priority_companies_v2.csv` from local psql `ref_index_companies`, refreshed 2026-08-20).
+
 ## BQ usage notes (generic but earned here)
 
 - `HAVING COUNT(DISTINCT person_id) = 1` with `ANY_VALUE(person_id) AS person_id` in the

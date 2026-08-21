@@ -66,3 +66,7 @@ not PR law: if it's not important enough to be a main-text sentence, cut it. A s
 "e.g." aside is fine; supporting examples that break the flow of the prose get bullets,
 charts, or supporting figures, and a precision caveat that changes no decision
 compresses to notation ("~10.26%").
+
+## Function values are double-quoted (2026-08-20)
+
+In taxonomy-facing prose, any referenced job function value reads in double quotes ("HR management", "Sales") so the value name separates from running text; keywords keep code style so the two vocabularies stay visually distinct. Flagged on the Function Labeling Answers doc.
