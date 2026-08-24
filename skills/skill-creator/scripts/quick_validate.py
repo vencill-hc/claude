@@ -1,6 +1,13 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.9"
+# dependencies = ["pyyaml"]
+# ///
 """
 Quick validation script for skills - minimal version
+
+Self-provides pyyaml via PEP 723 inline metadata: run as ./quick_validate.py
+or `uv run quick_validate.py` (system `python3` lacks yaml).
 """
 
 import sys

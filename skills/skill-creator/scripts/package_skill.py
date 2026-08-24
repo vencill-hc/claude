@@ -1,13 +1,18 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.9"
+# dependencies = ["pyyaml"]
+# ///
 """
 Skill Packager - Creates a distributable .skill file of a skill folder
 
-Usage:
-    python utils/package_skill.py <path/to/skill-folder> [output-directory]
+Usage (self-provides pyyaml via PEP 723 inline metadata; system python3 lacks yaml):
+    ./package_skill.py <path/to/skill-folder> [output-directory]
+    uv run package_skill.py <path/to/skill-folder> [output-directory]
 
 Example:
-    python utils/package_skill.py skills/public/my-skill
-    python utils/package_skill.py skills/public/my-skill ./dist
+    ./package_skill.py skills/public/my-skill
+    ./package_skill.py skills/public/my-skill ./dist
 """
 
 import sys

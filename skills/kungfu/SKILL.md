@@ -1,4 +1,5 @@
 ---
+name: kungfu
 description: Perform a "look back and look forward" gap analysis on recent work. Identifies patterns that should become skills, analyzes remaining work, and automatically generates new skills for future sessions.
 ---
 
