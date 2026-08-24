@@ -1,6 +1,6 @@
 ---
 name: external-review-reply
-description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds) about GDU taxonomies, workbooks, or counts. Use when a thread doc or shared doc carries numbered questions about labels, keywords, mappings, counts that don't reconcile, or workbook methodology. Triggers - "answer these questions", "working through this doc", "Zain's questions", "question set", "the counts don't reconcile", "rebuild the workbook".
+description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds) about GDU taxonomies, workbooks, or counts. Use when a thread doc or shared doc carries numbered questions about labels, keywords, mappings, counts that don't reconcile, or workbook methodology. Triggers - "answer these questions", "working through this doc", "Zain's questions", "question set", "the counts don't reconcile". Not for regenerating the workbook itself (taxonomy-workbook-regen) or Drive upload mechanics (drive-deliverables).
 ---
 
 # External Review Reply
@@ -41,7 +41,7 @@ front, in the reply: it explains half the list.
    into the workpod thread (auto-locate the repo, self-checking asserts, CSV outputs
    next to the script). Anything prod-shaped becomes a drafted .sql + runner staged for
    a consent gate (section below).
-7. **Draft the reply via the editorialize skill** and stage it in the thread as
+7. **Draft the reply via the editorialize skill** (staging/versioning mechanics: `drive-deliverables`; if the answers require a workbook rebuild, that is `taxonomy-workbook-regen`'s procedure) and stage it in the thread as
    `<reviewer>-reply-<date>.md`. House format (ruled on the function answers doc, v2-v5):
    interview format, questions bold+italic when staged as a Doc; answers factual and
    agentless, no I/you; plain meaning attached to every number; Title Case headings;
