@@ -1,6 +1,6 @@
 ---
 name: universe-expert
-description: Codebase map and development guide for the data-universe-pipelines repo. Use when working on pipelines, layers, beam transforms, bindings, ingestion, labeling, data universe entities (person, organization, employment, location), or specific pipeline sources. Trigger phrases - "add a pipeline", "new entity type", "beam transform", "DeltaDataset", "binding pipeline", "ingestion pipeline", "add a field", "new source", "pipeline options", "PubSub sink", "Dataflow pipeline". Also covers measuring a parser/taxonomy change's prod blast radius - "how many People/employments are affected", "blast radius", "measure the relabel" (references/relabel_blast_radius.md). Do NOT use for crunchbase data queries or company research - use crunchbase-analyzer instead. Do NOT use for mixrank people queries or workforce analysis - use mixrank-analyzer instead.
+description: Codebase map and dev guide for the data-universe-pipelines repo - pipelines, layers, bindings, ingestion, labeling, entities (person, organization, employment, location). Triggers - "add a pipeline", "new entity type", "beam transform", "DeltaDataset", "binding pipeline", "ingestion pipeline", "add a field", "new source", "pipeline options", "PubSub sink", "Dataflow pipeline". Also prod blast-radius measurement - "how many People/employments are affected", "blast radius", "measure the relabel". NOT for crunchbase queries (crunchbase-analyzer) or mixrank people/workforce queries (mixrank-analyzer).
 ---
 
 # Data Universe Pipelines — Codebase Map

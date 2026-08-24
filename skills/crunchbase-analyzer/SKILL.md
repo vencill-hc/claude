@@ -1,14 +1,12 @@
 ---
 name: crunchbase-analyzer
 description: >
-  Analyze Crunchbase company, investor, funding, people, and acquisition data in a local
-  PostgreSQL database (~15.5M rows, 16 tables). Use when asking questions about companies,
-  investors, funding rounds, board members, IPOs, acquisitions, jobs, degrees, events, or funds.
-  Triggers: "crunchbase", "company data", "investor data", "funding data", "board members",
-  "who invested in", "how much funding", "IPO data", "acquisition data", "talent flow",
-  "co-investors", "board overlap", "funding trends", "investor portfolio", "competitive landscape",
-  "distribution analysis", "employee count", "category analysis", "education background",
-  "career history", "fund size", "market map".
+  Analyze Crunchbase data in a local PostgreSQL database - companies, investors,
+  funding rounds, board members, IPOs, acquisitions, jobs, degrees, events, funds.
+  Triggers: "crunchbase", "who invested in", "how much funding", "talent flow",
+  "co-investors", "board overlap", "funding trends", "investor portfolio",
+  "competitive landscape", "market map", "distribution analysis", "category analysis",
+  "employee count", "education background", "career history", "fund size".
 ---
 
 # Crunchbase Analyzer

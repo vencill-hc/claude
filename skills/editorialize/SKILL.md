@@ -1,6 +1,6 @@
 ---
 name: editorialize
-description: Vanessa's byline voice for anything shipped under her name, docs, design writeups, README prose, and review comments (PR bodies have their own skill, pr-body, which layers on this one). Also governs prose-mode conversation when she's writing for the prose of it rather than asking for help (see references/conversational-register.md; replaces the retired dance skill). Use when drafting prose she will sign, and when she says "humanize this", "de-AI this", "make this sound like me", "edit this prose", "this reads like AI", or flags output as beige, LLM-flavored, or "not mine." Do NOT use for technical Q&A, debugging, data queries, code itself, or commit messages.
+description: Vanessa's byline voice for anything shipped under her name - docs, design writeups, README prose, review comments - and prose-mode conversation (references/conversational-register.md). PR bodies layer pr-body on this. Use when drafting prose she will sign, or on "humanize this", "de-AI this", "make this sound like me", "edit this prose", "this reads like AI", "beige", LLM-flavored, "not mine". NOT for technical Q&A, debugging, data queries, code, or commit messages.
 ---
 
 # Editorialize

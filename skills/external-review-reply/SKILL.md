@@ -1,6 +1,6 @@
 ---
 name: external-review-reply
-description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds) about GDU taxonomies, workbooks, or counts. Use when a thread doc or shared doc carries numbered questions about labels, keywords, mappings, counts that don't reconcile, or workbook methodology. Triggers - "answer these questions", "working through this doc", "Zain's questions", "question set", "the counts don't reconcile". Not for regenerating the workbook itself (taxonomy-workbook-regen) or Drive upload mechanics (drive-deliverables).
+description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds) about GDU taxonomies, workbooks, or counts. Triggers - "answer these questions", "working through this doc", "Zain's questions", "question set", "the counts don't reconcile". NOT for regenerating the workbook (taxonomy-workbook-regen) or Drive mechanics (drive-deliverables).
 ---
 
 # External Review Reply

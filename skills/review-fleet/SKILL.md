@@ -1,6 +1,6 @@
 ---
 name: review-fleet
-description: Run a batched agent fleet to judge a large list of items against a rubric (mapping edges, label assignments, taxonomy rows, classification queues), with waves, mechanical verification, optional independent second pass, and a confidence-routed human queue. Use when facing 200+ judgment calls that one human can't sit through: "review every mapping", "classify all N rows", "have agents judge this list", "second-pass review". Not for code review (pr-code-review) or single-item judgments.
+description: Batch-judge 200+ items against a rubric with an agent fleet (mapping edges, label assignments, taxonomy rows, classification queues). Triggers - "review every mapping", "classify all N rows", "have agents judge this list", "second-pass review". NOT for code review (pr-code-review) or single-item judgments.
 ---
 
 # Review fleet
