@@ -4,9 +4,11 @@
 Exact affected-population counts for parser/taxonomy changes in
 `data-universe-pipelines`, measured against `gdulabs-production`. Built and
 validated 2026-08-19 (swap: 294.56M People / 682.85M employments; #540 delta:
-65.79M / 90.91M). The harness lives in `scripts/job_function_volume/` on the
-taxonomy-swap branch (until folded: workpod thread
-`role-ontology-overhaul/threads/vvencill-job-function-taxonomy/people-affected-2026-08-19/harness.patch`).
+65.79M / 90.91M). The harness lives in `job_function_volume/` in the
+`vencill-hc/measurement-tools` repo (local: `~/Documents/git/measurement-tools`;
+migrated out of the pipelines repo 2026-08-24). It imports the parser from a
+pipelines checkout via `DU_PIPELINES_SRC` (see that repo's CLAUDE.md); run the
+commands below from the measurement-tools root.
 
 ## The method (why it's shaped this way)
 
@@ -32,7 +34,7 @@ new-vs-extant layers, so identical re-parses emit nothing.
 ```bash
 # input: the titles export (workpod/assets/titles.ndjson.gz, or regenerate
 # with export_titles.py — 94GB scan)
-uv run python scripts/job_function_volume/estimate_affected_people.py \
+uv run python job_function_volume/estimate_affected_people.py \
     --exact ~/Documents/git/workpod/assets/titles.ndjson.gz
 # cheap companions: --buckets (SQL-only bounds), --sample (1-in-1000 person
 # hash), --person-layers (rows a relabel CREATES — usually tiny; creation
@@ -45,12 +47,12 @@ Never simulate an old parser from memory or from a frozen copy of uncertain
 vintage — run each revision's REAL code from its own worktree:
 
 ```bash
-git worktree add --detach /tmp/wt-before <base-rev>
-git worktree add --detach /tmp/wt-after  <pr-head>
-uv run python scripts/job_function_volume/classify_titles_at_rev.py \
+git -C ~/Documents/git/data-universe-pipelines worktree add --detach /tmp/wt-before <base-rev>
+git -C ~/Documents/git/data-universe-pipelines worktree add --detach /tmp/wt-after  <pr-head>
+uv run python job_function_volume/classify_titles_at_rev.py \
     --src /tmp/wt-before/src --titles <export> --out before.ndjson.gz
 # ... same for after, then:
-uv run python scripts/job_function_volume/delta_affected_people.py \
+uv run python job_function_volume/delta_affected_people.py \
     --before before.ndjson.gz --after after.ndjson.gz --table delta_<pr>_titles
 ```
 
