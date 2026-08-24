@@ -1,7 +1,3 @@
----
-name: relabel-blast-radius
-description: Measure exactly how many employments/People a job-function parser or taxonomy change touches in gdulabs-production, and what a relabel would create. Use when asked "how many People/employments are affected", "blast radius", "what does this PR change in prod", "measure the relabel", or for a per-PR delta on a parser change in data-universe-pipelines. Not for local-corpus coverage stats (volume_accounting.py handles those without prod).
----
 
 # Relabel Blast Radius
 
