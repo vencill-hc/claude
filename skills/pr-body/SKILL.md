@@ -22,7 +22,7 @@ Headers are part of the form: `### Summary` (opening, causes, class table, total
 
 Sections that don't apply to a given PR are skipped, not padded; a feature PR may have no root causes and no measured delta, and its skeleton collapses to opening, table, footer.
 
-Footnotes (`[^1]`, GitHub renders them) are the home for a verified caveat that would otherwise be a parenthetical sentence: the marker rides on the number, the explanation sits above the footer. She likes a good footnote.
+Footnotes (`[^1]`, GitHub renders them) are the home for a verified caveat that would otherwise be a parenthetical sentence: the marker rides on the number, the explanation sits above the footer. She likes a good footnote. One topic per footnote: a footnote covering two things (why rows are zero AND where the numbers came from) gets split, each marker on the sentence or table cell it explains. Footnotes are ancillary depth only, never the place for a claim the body needs. Unfamiliar proper nouns (a vendor category like `Tizen`) get a context clue where first introduced.
 
 Numbers appear once. Summing or decomposing the table is not repetition; re-narrating the same figures in different phrasing is, and a re-presentation that is vaguely or subtly different from the first makes the body harder to read, not more persuasive.
 
