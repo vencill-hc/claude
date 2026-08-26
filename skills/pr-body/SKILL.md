@@ -24,6 +24,8 @@ Sections that don't apply to a given PR are skipped, not padded; a feature PR ma
 
 Footnotes (`[^1]`, GitHub renders them) are the home for a verified caveat that would otherwise be a parenthetical sentence: the marker rides on the number, the explanation sits above the footer. She likes a good footnote. One topic per footnote: a footnote covering two things (why rows are zero AND where the numbers came from) gets split, each marker on the sentence or table cell it explains. Footnotes are ancillary depth only, never the place for a claim the body needs. Unfamiliar proper nouns (a vendor category like `Tizen`) get a context clue where first introduced.
 
+For a mapping/labeling PR the collapsed per-row impact table carries a "Why removed" (or "Why added") column: one short reason per row, the Opus judge's one-line rationale by default, her own note prefixed `VV:` when she wrote one. Reviewers read the reason next to the number.
+
 Numbers appear once. Summing or decomposing the table is not repetition; re-narrating the same figures in different phrasing is, and a re-presentation that is vaguely or subtly different from the first makes the body harder to read, not more persuasive.
 
 ## What gets cut
