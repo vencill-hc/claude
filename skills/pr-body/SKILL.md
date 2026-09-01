@@ -44,7 +44,9 @@ Also cut:
 
 ## Provenance
 
-In-body numbers ride on the thread and the measurement tooling the reviewer can reach; they do not need a methodology sentence. This is the PR carve-out from editorialize's standalone test, which governs documents an audience reads cold. The line that cannot be crossed: a number in the table is a measurement. If it is a guess or a draft, it does not go in the table.
+In-body numbers need no methodology sentence. This is the PR carve-out from editorialize's standalone test, which governs documents an audience reads cold. The line that cannot be crossed: a number in the table is a measurement. If it is a guess or a draft, it does not go in the table.
+
+The workpod is her private notebook, not a shared reference: never cite it in a body, name a thread, or point reviewers at files inside it (ruled 2026-09-01, extracted from her edit direction on #569). Numbers stand on their own; anything a reviewer must be able to reach lives in the repo, the PR, or the ticket. The workpod copy of a draft is staging, and its pointers get stripped before upload.
 
 ## Footer conventions
 
