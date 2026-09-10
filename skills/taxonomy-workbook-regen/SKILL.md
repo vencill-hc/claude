@@ -25,7 +25,8 @@ Regenerate `job-function-taxonomy.xlsx` from the live spec and prove every tab a
    - `diff_workbook_vs_spec.py` — workbook keys vs spec keys 1:1. Expected noise: 5 band-marker strings on the spec side, the 16 removed keys as deliberate workbook rows.
    - `verify_workbook_part2.py` — exact invariants: 113 function values, 20 hatches, Volumes AND Migration each sum to the corpus total (1,423,915,893) with diff 0.
    - `verify_workbook_part3.py` — vocabulary currency: no pre-rename value names in Volumes/Migration, current carve-out keys present in Keywords. Update its key/name lists as the spec evolves.
-6. Restore the main clone to `main`.
+6. **Pin the revision in the workbook.** The Start-here tab states the spec commit and the branch the workbook was built from. Returned verdicts are only meaningful against that pin.
+7. Restore the main clone to `main`.
 
 ## Trust the Closing Invariant, Not String Grep
 
@@ -46,3 +47,18 @@ See the `drive-deliverables` skill for connector constraints. Workbook specifics
 - Any doc that says "the regenerated export is coming" (answer docs, PR bodies) must be updated to link the sheet — stale forward references caused a v4/v5 churn once.
 - The design doc's measured-outcome section (§12) drifts when volumes are re-measured; flag the deltas for Vanessa to rule on rather than editing figures silently.
 - Log the regen (run number, spec commit, key counts) as a dated line in the thread's plan.md.
+
+## When Verdicts Come Back: Reconcile Before Applying
+
+Main moves while the reviewer works. On 2026-09-09 the industry reconciliation found 127
+mappings EZ had marked Keep that our own DAT-55 cleanups had removed between the 21 Aug
+workbook build and her review; nobody had checked the keeps, only the removals. Before
+applying any returned round:
+
+- Load the spec/dictionaries at the pinned build revision, at the revision just before the
+  last applied PR, and at current main; state every reviewed row against all three.
+- Reconcile KEEP verdicts as well as removals and re-maps. A keep on an edge we have since
+  removed is a conflict that goes to VV, then into the change log with a reason, never
+  silently past.
+- Pattern to reuse: `industry_delta.py` in workpod `dat-59/threads/vvencill-ez-function-closeout`
+  (three-revision edge states, session-ruling join, status per row).
