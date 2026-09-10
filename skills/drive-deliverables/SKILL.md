@@ -13,6 +13,8 @@ Mechanics for shipping deliverables through the claude.ai Google Drive connector
 2. **Creation-time formatting works.** `create_file` with `contentMimeType: text/html` converts to a real Google Doc: headings, bold/italic, `<code>`, tables, links, inline CSS. xlsx uploads convert to Sheets the same way.
 3. **Large binary uploads are blocked.** The permission classifier denies big base64 payloads (a ~290KB xlsx died this way, in a subagent too). Vanessa drags the file into Drive and sends the URL; then retitle it via `update_file`.
 4. **Reading big files:** `read_file_content` results over the token cap land in a tool-results file — `jq -r '.fileContent'` + grep it, don't re-read.
+5. **Pulling a whole Sheet as CSV:** `read_file_content` returns sample rows only. Use `download_file_content` with `exportMimeType: text/csv`; the result's `content` is base64 (first tab only). Decode from the tool-results file: `jq -r .content <result.json> | base64 -D > sheet.csv` (macOS flag is `-D`). Snapshot it into the workpod thread with a dated name before analysing.
+6. **No row appends to an existing Sheet** (follows from limit 1). When new rows must join a sheet VV edits by hand, generate a paste-ready xlsx/csv in the sheet's exact column order (openpyxl data validation survives the paste) and let her paste; never regenerate the whole sheet over her edits.
 
 ## Versioning Protocol
 
