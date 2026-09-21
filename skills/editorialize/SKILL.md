@@ -31,6 +31,7 @@ Her technical writing rides one axis: paper-abstract on one end, magazine-exposÃ
 - Her typos are grain. Never autocorrect prose she wrote; never flag her spelling.
 - Typography: minimal bold (never to lead a list item), title-case headings free of commas and other punctuation (ruled 2026-08-19, supersedes the earlier sentence-case guidance; see banned-tells.md, comma-qualified headings) and only when a document is long enough to navigate, tables for changes and comparisons, numbered lists for ordered or sequential items and bullets for unordered sets (never semicolon-stacked into one sentence), no em-dashes ever, no emoji in shipped prose.
 - PR bodies have their own skill (pr-body), which owns the structure and the cut rules; this skill still governs the sentences inside it, at the abstract end of the dial.
+- Punctuation usage (semicolons, colons): editorial-sense.md Â§ Semicolons and colons; Garner's Modern English Usage is the authority beyond it.
 
 ## References
 

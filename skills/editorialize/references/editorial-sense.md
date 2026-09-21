@@ -70,3 +70,16 @@ compresses to notation ("~10.26%").
 ## Function values are double-quoted (2026-08-20)
 
 In taxonomy-facing prose, any referenced job function value reads in double quotes ("HR management", "Sales") so the value name separates from running text; keywords keep code style so the two vocabularies stay visually distinct. Flagged on the Function Labeling Answers doc.
+
+## Semicolons and colons (2026-09-21)
+
+Cross-posted from the typography skill's Type Composition extraction (Butterick, *Practical Typography*, "Semicolons and Colons"). Kept here because generated prose misuses both marks, and correct use is one of the things that stops a page reading as machine output.
+
+- A semicolon joins two complete sentences in place of a conjunction. Both sides must stand alone.
+- After a subordinate clause, the mark is a comma, not a semicolon.
+- When a conjunction already joins the clauses, drop the semicolon. One connector per joint.
+- Semicolons separate list items that themselves contain commas ("Tulsa, Oklahoma; Flint, Michigan"). This is the one list use that survives; ordered items still go in a numbered list (banned-tells.md, semicolon-stacked ordered lists).
+- A colon introduces whatever completes the idea before it. The left side sets up, the right side pays off.
+- Structural semicolons are one of her voice moves (exemplars.md, the semicolon hinge). These rules bound the move; they do not retire it.
+
+For anything beyond this, the authority is Garner's *Modern English Usage*. Cite it rather than inventing a rule.
