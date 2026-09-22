@@ -64,7 +64,7 @@ Fonts:
 | PDF, docx, letters, papers, résumés | documents.md preset, then layout.md; composition for the text; formatting and fonts on demand | Everything plus page breaks, widows, embedding. |
 | Slides | composition, formatting, documents.md (presentation preset) | Size held constant, black background in a dark room, no centering, text-first layout. |
 | Code, code blocks, monospace | composition.md (code exceptions), fonts.md (monospace picks) | Straight quotes and backticks stay; no programming ligatures; tabular figures. |
-| Data visualizations, dashboards, number tables | visuals.md, then css.md figure block | Title, labels, tick text, legend, caption, number columns. The book has no rule for subtitles, axis labels or annotation placement; visuals.md says so rather than inventing one. |
+| Data visualizations, dashboards, number tables | visuals.md, then css.md figure block | Title, labels, tick text, legend, caption, number columns. The book has no rule for subtitles, axis labels, annotations or legends; visuals.md fills those from Datawrapper, the Urban Institute, the UK Government Analysis Function and the ONS, each marked as not Butterick’s. |
 
 ## Workflow
 
@@ -76,7 +76,7 @@ Fonts:
 
 ## Handoffs
 
-- editorialize owns voice, structure, and usage (semicolons, colons, Garner). pr-body owns PR skeletons. This skill owns characters and layout beneath both.
+- editorialize owns voice, structure, and usage (semicolons, colons, Garner). pr-body owns PR skeletons and points here for characters. This skill owns characters and layout beneath both.
 - visual-design-foundations owns UI design tokens and type scales for product interfaces. css.md is a document starter, not a token system, and Butterick rejects modular heading scales outright.
 - artifact-design owns the artifact page contract (title, theming, CDN allowlist, phone width). css.md slots inside it.
 - Never fetch practicaltypography.com pages into a document; cite the book by name and link the page.
@@ -88,6 +88,6 @@ Fonts:
 - references/layout.md: alignment, indents and paragraph space, line spacing and length, margins, hyphenation, block quotes, lists, tables, rules, widows, keep-with-next, columns, grids, styles, the nine maxims.
 - references/fonts.md: system-font tiers, free fonts worth using, alternatives-to-X table, monospace picks, licensing and identification.
 - references/documents.md: presets for research paper, letter, business card, résumé, slide deck, website, email, PDF export and font embedding, screen-only documents, printers and paper.
-- references/visuals.md: chart typography by part, number tables, gridlines, color text, projected figures, and the honest list of parts the book never covers.
+- references/visuals.md: chart typography by part, number tables, gridlines, color text, projected figures, plus a sourced extension (Datawrapper, Urban Institute, Government Analysis Function, ONS) for the parts the book never covers.
 - references/css.md: the starter stylesheet with the four tokens, heading and paragraph rules, figure block, and the CSS-property crosswalk.
 - scripts/typo-check.py: optional report-only scan for the character rules, with scripts/test_typo_check.py (plain asserts, `python3 test_typo_check.py`).

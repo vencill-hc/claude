@@ -93,10 +93,10 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums lining-nu
 ```css
 figure { margin: 1.2em 0; }
 figure .title { font-weight: 700; font-size: 1.05em; margin: 0 0 0.3em; text-align: left; }
-figure .subtitle { color: var(--ink-soft); margin: 0 0 0.6em; }              /* one level below the title, by space not size */
+figure .subtitle { color: var(--ink-soft); margin: 0 0 0.6em; font-size: 0.9em; }   /* one step below the title; Urban ratio ≈ 0.8 of title */
 figure .axis, figure .tick, figure .legend {
   font-variant-numeric: tabular-nums lining-nums;                 /* digits align; lining beside caps */
-  font-size: 0.8em;                                               /* floor ≈ 6–8 pt equivalent; below 9 pt add letter-spacing */
+  font-size: 0.8em;                                               /* ≈ 0.6 of the title (Urban ratio); never below 12 px (Datawrapper) */
   letter-spacing: 0.01em;
 }
 figure .label-caps { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75em; }

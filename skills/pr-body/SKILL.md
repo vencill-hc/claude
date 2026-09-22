@@ -9,6 +9,8 @@ The body carries the review: what changed, why, and what moved. Reviewers read i
 
 A body she has already touched on GitHub is edited surgically from the live text (`gh pr view --json body`), never regenerated.
 
+Characters follow the typography skill: curly quotes, real dashes and ellipses, one space after a sentence, real symbols. Identifiers, commands, paths and values stay in code spans, where straight quotes are syntax rather than prose. That skill's `scripts/typo-check.py` reports the character habits with line numbers when a second look is wanted; it never rewrites.
+
 ## The skeleton, in order
 
 Headers are part of the form: `### Summary` (opening, causes, class table, total), `### Impact` (the collapsed per-row table when there is one), `### Notes` (named movements, exclusions), then `---` and a `Tags:` line. Skip a header whose section is empty.
