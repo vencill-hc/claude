@@ -32,7 +32,7 @@ Never in print. It is the typewriter’s only emphasis, drawn as a rule across t
 
 - Three levels at most, two if possible. Deeper hierarchies stop being navigable. (headings)
 - Space above and below carries a heading, with less below than above so it binds to its text. Then, if needed, bold. Size rises slightly: 12 pt body, 12.5 or 13 pt heading, not 14 or 15. A bold heading may even drop half a point below body size. (headings, space-above-and-below)
-- Not all caps, not Title Case, not underlined, not centered. Not derived from a modular scale; size headings by eye. (headings)
+- Not all caps, not underlined, not centered. Not derived from a modular scale; size headings by eye. The book also says not Title Case; the house ruling of 2026-08-19 (editorialize, banned-tells.md, comma-qualified headings) sets headings and titles in Title Case, and it wins. (headings)
 - No hyphenation in headings; keep-lines-together and keep-with-next on. Indent at most two levels regardless of heading depth. (headings)
 - Numbered hierarchies use tiered decimals (1, 1.1, 1.1.1). Never roman numerals, romanettes, or letters, which blur past F and confuse i with 9. Let the tool generate them (`<ol>`, CSS counters). (hierarchical-headings)
 

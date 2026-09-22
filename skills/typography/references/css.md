@@ -54,7 +54,7 @@ blockquote { margin: 0.6em 2em; font-size: 0.95em; line-height: 1.3; }   /* 2–
 h1, h2, h3 {
   font-family: inherit;               /* same font; a second font is optional and must have one job */
   font-weight: 700;                   /* bold is optional; if used, size may drop half a point */
-  text-align: left;                   /* never centered, never all caps, never underlined, never Title Case */
+  text-align: left;                   /* never centered, never all caps, never underlined; Title Case per the house ruling */
   hyphens: none;
   break-after: avoid;                 /* keep-with-next */
   margin: 1.6em 0 0.5em;              /* space carries the heading; less below than above */

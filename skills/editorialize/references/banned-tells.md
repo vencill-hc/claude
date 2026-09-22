@@ -94,6 +94,8 @@ Trailing clauses that fake depth: "highlighting the importance of", "underscorin
 
 Sentence case headings. No emoji in shipped prose.
 
+Superseded on case, 2026-08-19 (see comma-qualified headings below): headings and titles are Title Case. The emoji half stands. The typography and pr-body skills carry the same ruling.
+
 ## Chatbot correspondence
 
 "I hope this helps", "feel free to", "as of my last update", knowledge-cutoff disclaimers. These never ship.

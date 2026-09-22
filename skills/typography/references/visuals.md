@@ -9,7 +9,7 @@ The four body-text decisions govern the figure’s text too. Screen body 15–25
 ## By chart part
 
 ### Title
-- Space above and below carries it, not size. Rise in half-point steps over body, not a 200% jump. Left-aligned; center only a short title and break its lines by hand. Not all caps unless under one line, not underlined, not Title Case. (headings, point-size, centered-text, all-caps)
+- Space above and below carries it, not size. Rise in half-point steps over body, not a 200% jump. Left-aligned; center only a short title and break its lines by hand. Not all caps unless under one line, not underlined. Title Case, per the house ruling. (headings, point-size, centered-text, all-caps)
 - A rule, if any, sits above the title to close the previous section, never beneath it. (rules-and-borders)
 - Nested titles number as 1, 1.1, 1.1.1; never roman numerals or letters. (hierarchical-headings)
 
@@ -76,7 +76,7 @@ Sources:
 ### Subtitle
 
 - One step below the title in size and weight (Urban: 16 px italic under a 20 px title). It carries the precise version of the claim the title makes colloquially: units, population, period. (Muth, Urban Institute)
-- Sentence case. Urban sets titles in Title Case and figure numbers in all caps; Butterick and Muth both reject Title Case, and this skill follows them. (Muth, Urban Institute; conflict noted)
+- Title Case for the title and subtitle, matching Urban and the house ruling of 2026-08-19; Butterick and Muth prefer sentence case and are overruled on case only. Urban’s all-caps figure numbers are not adopted. (Muth, Urban Institute; conflict noted)
 
 ### Axis labels and tick labels
 
@@ -117,4 +117,4 @@ Sources:
 
 color says printed body text is black, no exceptions; presentations starts projected text at 50% gray; color allows dark gray on screen. All three hold, by medium: paper, projector, screen.
 
-Across sources: Urban sets chart titles in Title Case; Butterick and Muth reject it; this skill uses sentence case. Butterick is neutral between serif and sans on screen; the three chart sources all say sans for figures; this skill sets figure text in a sans. Butterick tolerates a legend’s bullets going; the chart sources go further and drop the legend itself when labels can sit on the data.
+Across sources: Urban sets chart titles in Title Case, Butterick and Muth reject it, and the house ruling sides with Urban, so this skill sets titles in Title Case. Butterick is neutral between serif and sans on screen; the three chart sources all say sans for figures; this skill sets figure text in a sans. Butterick tolerates a legend’s bullets going; the chart sources go further and drop the legend itself when labels can sit on the data.

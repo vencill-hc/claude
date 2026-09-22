@@ -39,7 +39,7 @@ Emphasis:
 - Bold *or* italic, never both, and as little as possible. Never a whole paragraph in either.
 - Never underline. Web links are the one tolerated case; this skill keeps a thin underline on links for accessibility even though the book allows dropping it, and formatting.md and css.md defer to this sentence. Never all caps beyond one line; letterspace caps and small caps 5–12%.
 - Real small caps or none. Kerning always on.
-- Headings: at most three levels, ideally two. Space above and below carries them; size rises in half-point steps, not by a multiple. Not centered, not underlined, not all caps, not Title Case.
+- Headings: at most three levels, ideally two. Space above and below carries them; size rises in half-point steps, not by a multiple. Not centered, not underlined, not all caps. Headings and titles are Title Case, the house ruling of 2026-08-19 shared with editorialize and pr-body; Butterick prefers sentence case and is overruled on this one point.
 
 Layout:
 - Left-align. Center only a short title or a name on a card. Justify only with hyphenation on, and only in real layout software.
