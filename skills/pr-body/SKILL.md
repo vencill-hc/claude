@@ -1,6 +1,6 @@
 ---
 name: pr-body
-description: "Use when drafting or revising a pull request description: 'write the PR body', 'draft the PR description', a finished branch needs its PR opened, or a body already live on GitHub needs editing. Not for review comments, commit messages, or general prose (editorialize governs those)."
+description: "Use when drafting or revising a pull request description or title: 'write the PR body', 'draft the PR description', a finished branch needs its PR opened, or a body already live on GitHub needs editing. Not for review comments, commit messages, or general prose (editorialize governs those)."
 ---
 
 # PR body
@@ -10,6 +10,10 @@ The body carries the review: what changed, why, and what moved. Reviewers read i
 A body she has already touched on GitHub is edited surgically from the live text (`gh pr view --json body`), never regenerated.
 
 Characters follow the typography skill: curly quotes, real dashes and ellipses, one space after a sentence, real symbols. Identifiers, commands, paths and values stay in code spans, where straight quotes are syntax rather than prose. That skill's `scripts/typo-check.py` reports the character habits with line numbers when a second look is wanted; it never rewrites.
+
+## The title
+
+`[TICKET-n] Title Case Description`: the ticket in square brackets first, then a title-case noun phrase naming the change, no conventional-commit prefix, no trailing ticket or parenthetical. `[DAT-68] Headcount Vote for Allowlisted Organizations`, not `feat(label): headcount vote for allowlisted organizations (DAT-68)`. Commit messages keep their own convention; the title is the reviewer-facing name (ruled 2026-09-22 on #602). Two tickets join with a slash inside one bracket, `[SUP-420/SUP-539]`.
 
 ## The skeleton, in order
 

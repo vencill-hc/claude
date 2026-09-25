@@ -40,7 +40,7 @@ All in `data-universe-pipelines` on the spec branch, one commit:
 4. `test/utils/test_employment_utils.py` — one `test_<name>_carve_out` with raw-title assertions both ways: every leadership shape → new function, the mass shapes → old function. Include synonym-rewritten forms ("Vice President, X", "Senior Vice President of X").
 5. `docs/job_function_taxonomy.md` — one row in the `## Keyword rulings` table (band | `key` | function | rationale). Drift tests check the keyword is real; one family-head row is enough.
 
-Run: `make tests TESTS="test/utils/test_job_function_taxonomy.py test/utils/test_employment_utils.py test/scripts/test_job_function_volume.py"`.
+Run: `make tests TESTS="test/utils/test_job_function_taxonomy.py test/utils/test_employment_utils.py "`. (The volume test moved to measurement-tools with the fast path, 2026-09-09.)
 
 ## 4. Aftermath
 
