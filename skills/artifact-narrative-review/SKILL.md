@@ -114,6 +114,27 @@ Follow `editorialize` and `pr-body` as loaded. Common tells inside artifacts:
 - **"Side by Side", "at a glance", "one-stop", "dashboard-style"** in a title or lede. All chart-vendor language.
 - **Private-notebook references.** Source notes like "from this ticket’s working notes" point a shared artifact at the workpod. Name the method, not the notebook (see the workpod-never-cited-outward memory).
 - **Two vocabularies for one concept.** If both systems group keys into bands, both say "band"; keep the value names (Band 3, ROLE) as the distinguishing layer.
+- **Text volume.** If the first full version reads as two to three times too much prose, run the copy pass (5b) before polishing sentences; polish on a shape that is mostly redundant is wasted.
+
+### 5b. Copy pass: sharpen, don't strip
+
+First drafts of an artifact carry two to three times the text the page needs. The fix is not deletion; it is sharpening, so that only the concepts the visuals depend on are surfaced, and every sentence left trains the reader to look at the figure with the right lens. Her articulation (2026-09-25, Compound Title Walk, ~20 copy edits after the editorialize pass): "the solution isn't to just remove text, it's to sharpen the ideas so only the relevant concepts are surfaced and highlighted, to make sure the reader is trained to view the visuals with the right lens."
+
+Run it as questions over every string a reader sees, including captions, notes, badges, popups and figure headers:
+
+- **Does this sentence teach the reader how to read the figure, or describe what the figure already shows?** Keep the first, cut the second. "A red × marks a match the loop never reaches" describes; the × is self-evident. "All matches are considered and the highest priority match wins" is the mechanism the figure exists to show; keep that and nothing else.
+- **State the mechanism, not the picture.** "The topmost pill wins" narrates pixels. "The lookup stops at the first match it reaches" and "all matches are considered and the highest priority match wins" name what the system does. The insightful sentence is the one that would survive if the figure were redrawn.
+- **Is the comparison already visible?** Two columns side by side make "main returns X for this title" redundant; the reader can look left. Comparison sentences survive only where they carry a concept the eye can't get from the layout ("First Match Wins gets this right only because 'executive assistant' sits in Band 2 and 'cfo' in Band 3").
+- **Does the note apply to this example?** A note that is true of the system in general ("the feature branch proposes two more cleanup rules") belongs on the examples that trigger it, not under every one. Conditional notes, derived from the data, or cut.
+- **Is this provenance for the reader or for the author?** Trace-sourcing footers ("traces come from running X at commit time") and closing paragraphs that restate the page's thesis are author reassurance. Cut; the sources live in the thread.
+- **Name once, then reuse.** The intro establishes the names ("First Match Wins", "Collect and Rank") and every heading, badge, caption, popup and ribbon label uses exactly those names afterward. Working names ("main", "the prototype") do not leak past the intro. Acronyms only if established first, and then only if the full names get cumbersome; she declined them here.
+- **Use the page's own vocabulary; a new term is a cost.** "Leader word" and "C-suite head" were coined mid-page when ROLE, DOMAIN and HEAD already existed. Every concept gets one name, drawn from the set the figure labels already use. Watch for words that collide with an established meaning on the same page ("strip" as a visualization word next to "strip" as a normalization step).
+- **Precise verbs.** "Absorbs" was an image; "supersedes" is the rule. Prefer the verb that states the mechanism over the one that evokes it.
+- **Anchor every example caption to its example.** "In this example <b>Title</b> demonstrates …" beats a floating "What this shows". The same caption can be reiterated under the output step, because it is the summary of what differs, and that is the sentence the reader should leave with.
+- **Labels are plain words.** Badges say "production", "proposed", "shared utils", not filenames; verdicts say "correct" and "should be X", not "matches the wanted label".
+- **Quote keywords in prose.** In running text a keyword reads in double quotes ("cfo"); band and function names stay bare. Code style is for the figure and the tables.
+
+The pass is done when the only prose left is the intro (problem, the named approaches, the call to action), one caption per figure stating its mechanism, one anchored sentence per example, and notes that appear only where the data makes them true.
 
 ### 6. Legibility and polish
 

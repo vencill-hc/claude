@@ -83,3 +83,11 @@ Cross-posted from the typography skill's Type Composition extraction (Butterick,
 - Structural semicolons are one of her voice moves (exemplars.md, the semicolon hinge). These rules bound the move; they do not retire it.
 
 For anything beyond this, the authority is Garner's *Modern English Usage*. Cite it rather than inventing a rule.
+
+## Sharpen, don't strip (2026-09-25)
+
+Flagged on the Compound Title Walk artifact, after ~20 copy edits on a page that had already been editorialized. Her scoping:
+
+> Often the first draft of an artifact has much much much too much text, but the solution isn't to just remove text, it's to sharpen the ideas so only the relevant concepts are surfaced and highlighted, to make sure the reader is trained to view the visuals with the right lens
+
+Deletion is the wrong tool because it leaves the surviving sentences unchanged, and the surviving sentences were usually describing the visual rather than teaching how to read it. The pass is: for each sentence, name the concept it exists to surface; if the figure or the layout already surfaces it, the sentence goes; if not, rewrite the sentence until it states the mechanism in the page's own vocabulary and nothing else. What remains is the lens. The concrete checks live in artifact-narrative-review § 5b; the reader contract above (every opening a promise) is the same law applied to a page where the figures are the payoff.

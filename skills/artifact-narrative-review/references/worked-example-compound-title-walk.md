@@ -23,6 +23,22 @@ Sources lived in the thread's `title-walk/` folder: `trace_main.py` and `trace_f
 15. **Clickable floor.** Proportional band heights with a 10% minimum for any clickable band; the true count stays in the label. Bars doubled in width for the same reason.
 16. **Polish passes last.** Editorialize caught five "X, not Y" reframes, comma headings, and a leaked "this ticket's working notes" reference. Typography raised body to 16px, dropped Arial from the fallback, capped the caption measure at 40em, and set filename badges in real lowercase.
 
+## The copy arc (2026-09-25)
+
+After the editorialize and typography passes the page still carried too much text. Her twenty-odd edits, in order, are the seed of the copy pass (SKILL.md § 5b):
+
+1. "What this shows" → "In this example **Title** demonstrates …"; the caption anchors to its example.
+2. "an assistant title absorbs the leader word it serves" → "'executive assistant' supersedes 'cfo', the ROLE keyword for the executive it supports". Precise verb; the page's own vocabulary; keywords quoted.
+3. The two-cleanup-rules note shows only on the examples that trigger a rule (a parenthetical, a "to the" tail).
+4. Trace-sourcing footers under both columns: cut.
+5. The band footnote's two closing paragraphs (the thesis, the compound-key count): cut; both live in the compare popup and the compound tags.
+6. Figure captions cut to two sentences; "strip" removed (collides with normalization's strip); the red × no longer described.
+7. "The first surviving match wins" → "All matches are considered and the highest priority match wins": the mechanism, not the picture. "loop" → "lookup" everywhere the code isn't quoted.
+8. "matches the wanted label" → "correct"; "wanted X" → "should be X".
+9. The prototype output's "main returns X" / "same label as main": cut, the columns are side by side; the example caption reiterated there instead.
+10. Intro rewritten by her: the problem (priority order is brittle), the two approaches named, the call to action. Headings, badges, captions, popups and ribbon renamed to the established names; acronyms considered and declined.
+11. Badges: "production", "proposed", "shared utils", not filenames.
+
 ## Process lessons
 
 - A narrative review after the first full version would have batched items 5, 11, 12 and the notebook leak instead of discovering them one turn at a time.
