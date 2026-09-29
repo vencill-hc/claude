@@ -100,6 +100,17 @@ Explainer figures that walk a rule through examples add these. Seed: the DAT-68 
 - **Name the cases.** Examples get letters (A, B, C) in their headings so the summary chart, the Punnett square and the totals can point back at them. Dropping the letters in a rewrite broke every later cross-reference.
 - **A rule over two yes/no conditions is a 2×2 grid.** "Which records vote" (headcount × mapped industry) read at a glance as a Punnett square; three cards in a row did not.
 
+Timeline and before/after pages add these. Seed: Six Months of GDU Labels, 2026-09-29; its iterations are in references/worked-example-six-months-timeline.md.
+
+- **A label change shows the records behind it.** Value-to-value arrows (Engineering → Software engineering) read as renaming. Put the most-held real titles or real companies on the figure, run through the real code at both revisions.
+- **A split of one list into another is one entity at a time.** Sankeys of the top moves, many-slice sunbursts and grids of stacked split bars all failed. One old value fanning out to its new values, picked by chip or rotated on a timer, with detail in a synced panel, held. Keep sunbursts for two-level questions with under about ten slices.
+- **Removals show the whole population.** Never fade edges out or cap at a top-N. One mark per removed item, shaded by reach, reason on hover.
+- **Match the figure to the mechanism, row by row.** An overlap figure (substring grid) goes only on rows where two keys overlap or a key swallows a word; other rows render plain.
+- **Names sit outside the marks.** Circle and region labels inside a Venn got covered by the chips placed in it; long label lists in non-wrapping pills squeezed the row's title to one letter per line. Check every figure at the longest real content.
+- **Color encodes the page's argument.** Per-branch identity colors were reverted; the argued states (moved, kept its name, gone) stayed. Color a second axis only when it is the relationship the figure exists to show.
+- **Carousels are bare feature frames.** No heading or prose; the change first (subject, large arrow, result), centered against the card it serves, highlighting the matching mark in that card.
+- **Scroll-driven Before/Today needs smoothing.** Hysteresis between the two thresholds, each figure locked to its taller state's height, a crossfade for re-rendered figures, a click that pins the reader's choice, and a flip that starts early.
+
 ### 5. Voice and style pass
 
 Follow `editorialize` and `pr-body` as loaded. Common tells inside artifacts:
