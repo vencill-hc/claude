@@ -6,10 +6,7 @@ description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds
 # External Review Reply
 
 Answering a numbered question set from a PM or client reviewer about GDU taxonomy
-artifacts (workbooks, review sheets, keyword maps, count claims). Ran twice at full
-cost before this skill existed: the function-labeling set (2026-08-20) and the
-industry-labeling set (2026-08-21). Both sessions independently rediscovered the same
-arc; this skill is that arc.
+artifacts (workbooks, review sheets, keyword maps, count claims).
 
 ## The Core Insight
 
@@ -41,7 +38,7 @@ front, in the reply: it explains half the list.
    into the workpod thread (auto-locate the repo, self-checking asserts, CSV outputs
    next to the script). Anything prod-shaped becomes a drafted .sql + runner staged for
    a consent gate (section below).
-7. **Draft the reply via the editorialize skill** (staging/versioning mechanics: `drive-deliverables`; if the answers require a workbook rebuild, that is `taxonomy-workbook-regen`'s procedure) and stage it in the thread as
+7. **Draft the reply via the editorialize skill** (staging/versioning mechanics: `drive-deliverables`; if the answers require a workbook rebuild, that is the `taxonomy-workbook-regen` skill in measurement-tools) and stage it in the thread as
    `<reviewer>-reply-<date>.md`. House format (ruled on the function answers doc, v2-v5):
    interview format, questions bold+italic when staged as a Doc; answers factual and
    agentless, no I/you; plain meaning attached to every number; Title Case headings;
@@ -80,7 +77,8 @@ knows). "MixRank vs Crunchbase" means LINKEDIN-typed vs CRUNCHBASE-typed claims.
 
 ## Consented Prod Runs
 
-- SDK clients only (`google.cloud.bigquery`), never gcloud/bq CLI.
+- Scripted runs use SDK clients (`google.cloud.bigquery`); the `bq` CLI only through the
+  `bigquery` skill and its guardrails; never gcloud.
 - Runner script in the thread, modeled on `blast_radius.py`: dry-run is the default
   and prints the bytes estimate; `--execute` gates the real run; `maximum_bytes_billed`
   guard; results written as CSV next to the script.

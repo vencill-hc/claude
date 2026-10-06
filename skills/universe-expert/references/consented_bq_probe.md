@@ -1,7 +1,7 @@
 # Consented BQ probe — the house pattern for one-off prod measurements
 
 Read this before writing any ad-hoc script that touches `gdulabs-production`.
-Prod access is SDK-only (never gsutil/gcloud/bq CLI) and consent is per-run,
+Scripted prod access is SDK-only (the `bq` CLI only through the `bigquery` skill; never gsutil/gcloud) and consent is per-run,
 per invocation, no carry-forward. Three scripts built to this shape on DAT-55
 (2026-08-18) are the worked examples:
 `workpod/projects/dat-55/threads/vvencill-dat-55-industry-labeling-investigation/`

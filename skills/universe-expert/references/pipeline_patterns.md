@@ -268,7 +268,7 @@ Note: WriteToBQ automatically skips writes in `read_only` or `test_mode`.
 ## QuickDedupe / Latest.PerKey Determinism Gotcha
 
 `QuickDedupe(key_lambda, window_size=None)` with no `dedupe_fn` falls through to
-`beam.combiners.Latest.PerKey()` (`src/transforms/quick_dedupe_transform.py:48-51`).
+`beam.combiners.Latest.PerKey()` (the no-`dedupe_fn` branch in `src/transforms/quick_dedupe_transform.py`).
 "Latest" compares element *event timestamps* — but in a batch pipeline whose source
 never assigns them (file/BQ reads without `TimestampedValue`), every element carries
 `MIN_TIMESTAMP`, and `LatestCombineFn` resolves ties by arrival order (bundle/worker

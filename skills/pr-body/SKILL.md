@@ -41,8 +41,6 @@ The test for process content: does it scope what the reviewer reviews, or assure
 Also cut:
 
 - How the candidate list was produced. LLM judges, confidence tiers, fleet passes, "kept after review" lists: all process. The reviewer needs to know a human ruled each row, nothing about the funnel before it.
-Also cut:
-
 - Hedging. Genuine uncertainty about code performance is called out directly, or fixed before the review phase. A precision caveat that changes no decision compresses to notation: "~10.26%", not a parenthetical sentence about double-counting.
 - Parentheticals not important enough to be a main-text sentence. A short "e.g." aside is fine; examples that break the flow of the prose become bullets, charts, or supporting figures.
 - Interpretation paragraphs that re-narrate the table. If a paragraph adds no fact the table lacks, it goes.

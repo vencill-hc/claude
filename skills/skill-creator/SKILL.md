@@ -89,6 +89,7 @@ Documentation and reference material intended to be loaded as needed into contex
 - **Benefits**: Keeps SKILL.md lean, loaded only when Claude determines it's needed
 - **Best practice**: If files are large (>10k words), include grep search patterns in SKILL.md
 - **Avoid duplication**: Information should live in either SKILL.md or references files, not both. Prefer references files for detailed information unless it's truly core to the skill—this keeps SKILL.md lean while making information discoverable without hogging the context window. Keep only essential procedural instructions and workflow guidance in SKILL.md; move detailed reference material, schemas, and examples to references files.
+- **Point at code by symbol, not line number**: write `relabel_ids_subquery` in `src/sources/bigquery_source.py`, not `bigquery_source.py:34`. Line numbers go stale with the next commit to the file, and counts of entries go stale with the next entry. Where a line number genuinely helps, say which revision it was read at so a reader knows to re-locate it by symbol.
 
 ##### Assets (`assets/`)
 

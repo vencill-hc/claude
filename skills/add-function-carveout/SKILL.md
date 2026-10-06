@@ -44,6 +44,6 @@ Run: `make tests TESTS="test/utils/test_job_function_taxonomy.py test/utils/test
 
 ## 4. Aftermath
 
-- Re-run volume accounting and regenerate the workbook (see `taxonomy-workbook-regen`) — a carve-out makes every existing measurement stale.
+- Re-run volume accounting and regenerate the workbook (the `taxonomy-workbook-regen` skill in measurement-tools) — a carve-out makes every existing measurement stale.
 - Attribution will come in below the psql measurement (first-match-wins: titles carrying an earlier-matching token never reach the new keys). Expected, not a bug — say so when reporting.
 - Do not push without Vanessa's review. Vocabulary judgment gets its own commit/PR shape, separate from mechanical fixes.

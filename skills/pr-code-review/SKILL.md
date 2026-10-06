@@ -45,28 +45,27 @@ This skill implements an 8-step comprehensive review:
    - Agent #5: Code comment compliance
 
 5. **Score all issues** (parallel Haiku agents)
-   - Each issue gets 0-100 confidence score
+   - Each issue gets a 0-5 confidence score
    - Use standardized rubric
    - Verify CLAUDE.md citations
 
 6. **Filter issues**
-   - Keep only issues with score >= 80
+   - Keep only issues with score >= 4
    - Skip review if no high-confidence issues
 
 7. **Re-verify eligibility** (Haiku agent)
    - Ensure PR is still open and not already reviewed
 
-8. **Post review comment** (gh command)
-   - Format with issue descriptions
-   - Include file links with full SHA
-   - Add feedback footer
+8. **Draft the review comment** and hand over the `gh` command
+   - Format with issue descriptions and file links with full SHA
+   - Never run it: comments under her identity are posted by her (CLAUDE.md)
 
 ## Instructions
 
 ### Step 1: Create todo list
 
 ```
-Use TodoWrite to create tracking list:
+Keep a running checklist of the eight steps (the harness task list if it has one):
 - Check PR eligibility
 - Find CLAUDE.md files
 - Get PR summary
@@ -116,7 +115,7 @@ Use: gh pr view {number}
 
 ### Step 5: Launch 5 parallel review agents
 
-**IMPORTANT**: Launch all 5 agents in parallel (single message, multiple Task calls).
+Launch all 5 agents in parallel (single message, multiple Agent calls).
 
 #### Agent #1: CLAUDE.md Compliance (Sonnet)
 ```
@@ -225,7 +224,7 @@ Return: score (0-5) and 1-2 sentence explanation.
 4. If not eligible: STOP
 ```
 
-### Step 8: Post review comment
+### Step 8: Draft the review comment
 
 Get PR head commit SHA:
 ```bash
@@ -270,7 +269,7 @@ Requirements:
 - Include 1+ lines of context around issue
 ```
 
-Post with:
+Hand over, do not run:
 ```bash
 gh pr comment {number} --body "{formatted_comment}"
 ```
@@ -310,7 +309,7 @@ Assistant: [Checks eligibility, finds incomplete description, skips with explana
 
 1. **Always use parallel agents** where possible (Steps 5 and 6)
 2. **Trust agent scores** - they do deep analysis
-3. **Skip low-confidence issues** - only report score >= 80
+3. **Skip low-confidence issues** - only report score >= 4
 4. **Verify eligibility twice** - before and after scoring
 5. **Use full SHA in links** - required for GitHub rendering
 6. **Keep comments brief** - focus on high-impact issues
@@ -330,12 +329,10 @@ Assistant: [Checks eligibility, finds incomplete description, skips with explana
 
 - GitHub CLI (`gh`) installed and authenticated
 - Access to repository
-- Ability to post comments on PRs
 
 ## Tool usage
 
-- **Task tool**: Launch all Haiku and Sonnet agents
-- **TodoWrite**: Track progress through 8 steps
+- **Agent tool**: Launch all Haiku and Sonnet agents
 - **Bash (gh)**: Interact with GitHub (no WebFetch)
 - **Read**: Access CLAUDE.md files if needed
 
@@ -346,14 +343,14 @@ After completing review:
 ```
 ✓ Reviewed PR #{number}
 - Found {N} high-confidence issues (score >= 4)
-- Posted review comment: {URL}
+- Drafted the review comment; command handed over
 ```
 
 Or:
 ```
 ✓ Reviewed PR #{number}
 - No issues found
-- Posted approval comment: {URL}
+- Drafted the no-issues comment; command handed over
 ```
 
 Or:

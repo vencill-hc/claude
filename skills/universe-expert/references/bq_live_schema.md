@@ -90,7 +90,7 @@ Gotchas (cost ~$600 of avoided scans on DAT-47):
 
 - `organizations.industries` JSON items are `{value, type}` where **`type` is the source
   taxonomy** (`crunchbase`, `crunchbase_investor`, `linkedin`, `linkedin_code`, `pdl`,
-  `apollo`, `data_universe`) — enum at `src/data_types/organization_types.py:69`. There is
+  `apollo`, `data_universe`) — enum `OrganizationLayerIndustry.IndustryType` in `src/data_types/organization_types.py`. There is
   no `source` key; the type IS the provenance.
 - Whole-universe Crunchbase floor: **10.65%** of 53,379,688 orgs had any
   crunchbase/crunchbase_investor industry (measured 2026-08-18). Priority-set coverage

@@ -6,9 +6,7 @@ description: Perform a "look back and look forward" gap analysis on recent work.
 # Kung Fu: Retro → Skills → Backlog
 
 Retrospective over recent work: find repeating patterns worth a skill, correct
-skills that misfired, and queue tooling/process fixes. De-templated 2026-08-24
-(the original carried Entity4/NetSuite boilerplate from a foreign project);
-this is the process as actually practiced here. Outputs land in the claude
+skills that misfired, and queue tooling/process fixes. Outputs land in the claude
 skills repo and the workpod `kungfu-backlog` thread — never in ad-hoc files or
 new projects.
 
@@ -40,8 +38,7 @@ orders the recommendations.
 1. **Skills**: create/update under `~/Documents/git/claude/skills/<name>/`,
    symlink from `~/.claude/skills/`, add to the gdu profile if domain-scoped,
    commit. Before creating, read the neighboring skills a new one would
-   border and rule out overlap (see the 2026-08-24 dedup pass in the
-   kungfu-backlog decisions log for what happens otherwise).
+   border and rule out overlap; a near-duplicate costs two skills' worth of drift.
 2. **Rules-of-working corrections** → auto-memory (`feedback`/`project`
    types), cross-linked.
 3. **Tooling/process recommendations** → APPEND as checklist items to the
