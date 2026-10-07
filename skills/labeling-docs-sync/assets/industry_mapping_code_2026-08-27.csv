@@ -1,0 +1,2812 @@
+source,source_industry,gdu_industry
+Crunchbase,3D Printing,3D Technology
+Crunchbase,3D Printing,Manufacturing
+Crunchbase,3D Printing,Technology
+Crunchbase,3D Technology,3D Technology
+Crunchbase,3D Technology,Hardware
+Crunchbase,3D Technology,Software
+Crunchbase,3D Technology,Technology
+Crunchbase,A/B Testing,Data and Analytics
+Crunchbase,Accounting,Financial Services
+Crunchbase,Accounting,Professional Services
+Crunchbase,Ad Exchange,Advertising
+Crunchbase,Ad Exchange,AdTech
+Crunchbase,Ad Network,Advertising
+Crunchbase,Ad Network,AdTech
+Crunchbase,Ad Retargeting,Advertising
+Crunchbase,Ad Retargeting,AdTech
+Crunchbase,Ad Server,Advertising
+Crunchbase,Ad Server,AdTech
+Crunchbase,Ad Targeting,Advertising
+Crunchbase,Ad Targeting,AdTech
+Crunchbase,Addiction Treatment,Healthcare
+Crunchbase,Adult,Community and Lifestyle
+Crunchbase,Advanced Materials,Manufacturing
+Crunchbase,Advanced Materials,Science and Engineering
+Crunchbase,Advanced Materials,Industrials
+Crunchbase,Adventure Travel,Travel and Tourism
+Crunchbase,Advertising,Advertising
+Crunchbase,Advertising Platforms,Advertising
+Crunchbase,Advertising Platforms,AdTech
+Crunchbase,Advertising Platforms,Sales and Marketing
+Crunchbase,Advice,Coaching
+Crunchbase,Advocacy,Advocacy & Interest
+Crunchbase,Aerospace,Air and Space
+Crunchbase,Aerospace,Science and Engineering
+Crunchbase,Affiliate Marketing,Marketing
+Crunchbase,Affiliate Marketing,MarTech
+Crunchbase,Affiliate Marketing,Sales and Marketing
+Crunchbase,Agriculture,Agriculture and Farming
+Crunchbase,AgTech,Agriculture and Farming
+Crunchbase,AgTech,AgriTech
+Crunchbase,Air Transportation,Air and Space
+Crunchbase,Air Transportation,Transportation
+Crunchbase,Alternative Medicine,Healthcare
+Crunchbase,Alternative Protein,Food and Beverage
+Crunchbase,Alumni,Education
+Crunchbase,Alumni,Community and Lifestyle
+Crunchbase,American Football,Media and Entertainment
+Crunchbase,American Football,Sports
+Crunchbase,Amusement Park and Arcade,Travel and Tourism
+Crunchbase,Amusement Park and Arcade,Media and Entertainment
+Crunchbase,Analytics,Technology
+Crunchbase,Analytics,Data and Analytics
+Crunchbase,Android,Technology
+Crunchbase,Android,Mobile
+Crunchbase,Android,Software
+Crunchbase,Android,Platforms
+Crunchbase,Angel Investment,Financial Services
+Crunchbase,Angel Investment,Lending and Investments
+Crunchbase,Angel Investment,Angel and Venture Capital (VC)
+Crunchbase,Animal Feed,Agriculture and Farming
+Crunchbase,Animation,Media and Entertainment
+Crunchbase,Animation,Technology
+Crunchbase,App Discovery,Technology
+Crunchbase,App Discovery,Apps
+Crunchbase,App Discovery,Software
+Crunchbase,App Discovery,Sales and Marketing
+Crunchbase,App Discovery,MarTech
+Crunchbase,App Discovery,Mobile
+Crunchbase,App Marketing,Sales and Marketing
+Crunchbase,App Marketing,MarTech
+Crunchbase,Apparel,Retail
+Crunchbase,Apparel,Apparel & Fashion
+Crunchbase,Apparel,Clothing and Apparel
+Crunchbase,Apparel,Consumer Products and CPG
+Crunchbase,Apparel,Business to Consumer (B2C)
+Crunchbase,Application Performance Management,Technology
+Crunchbase,Application Performance Management,Software
+Crunchbase,Application Performance Management,Data and Analytics
+Crunchbase,Application Specific Integrated Circuit (ASIC),Technology
+Crunchbase,Application Specific Integrated Circuit (ASIC),Hardware
+Crunchbase,Apps,Technology
+Crunchbase,Apps,Mobile
+Crunchbase,Apps,Apps
+Crunchbase,Apps,Software
+Crunchbase,Aquaculture,Agriculture and Farming
+Crunchbase,Architecture,"Architecture, Engineering, Construction"
+Crunchbase,Architecture,Real Estate
+Crunchbase,Archiving Service,Administrative Services
+Crunchbase,Archiving Service,Software
+Crunchbase,Archiving Service,Technology
+Crunchbase,Art,Art & Culture
+Crunchbase,Art,Media and Entertainment
+Crunchbase,Artificial Intelligence (AI),Artificial Intelligence (AI)
+Crunchbase,Artificial Intelligence (AI),Technology
+Crunchbase,Artificial Intelligence (AI),Software
+Crunchbase,Artificial Intelligence (AI),Hardware
+Crunchbase,Asset Management,Financial Services
+Crunchbase,Assisted Living,Healthcare
+Crunchbase,Assistive Technology,Healthcare
+Crunchbase,Assistive Technology,HealthTech
+Crunchbase,Association,Advocacy & Interest
+Crunchbase,Auctions,Business to Business (B2B)
+Crunchbase,Auctions,Commerce and Shopping
+Crunchbase,Audio,Music and Audio
+Crunchbase,Audio,Media and Entertainment
+Crunchbase,Audio Recording and Production,Music and Audio
+Crunchbase,Audio Recording and Production,Media and Entertainment
+Crunchbase,Audio/Visual Equipment,Music and Audio
+Crunchbase,Audio/Visual Equipment,Media and Entertainment
+Crunchbase,Audiobooks,Music and Audio
+Crunchbase,Audiobooks,Media and Entertainment
+Crunchbase,Audiobooks,Books and Magazines
+Crunchbase,Audiobooks,Business to Consumer (B2C)
+Crunchbase,Augmented Reality,Technology
+Crunchbase,Augmented Reality,Hardware
+Crunchbase,Augmented Reality,Spatial Computing
+Crunchbase,Augmented Reality,Software
+Crunchbase,Auto Insurance,Financial Services
+Crunchbase,Auto Insurance,Insurance
+Crunchbase,Auto Insurance,Auto
+Crunchbase,Automotive,Auto
+Crunchbase,Automotive,Transportation
+Crunchbase,Autonomous Vehicles,Self Driving Cars
+Crunchbase,Autonomous Vehicles,Transportation
+Crunchbase,Autonomous Vehicles,Auto
+Crunchbase,Autonomous Vehicles,Technology
+Crunchbase,B2B,Business to Business (B2B)
+Crunchbase,B2B,Software as a Service (SaaS)
+Crunchbase,B2C,Business to Consumer (B2C)
+Crunchbase,Baby,Home
+Crunchbase,Baby,Community and Lifestyle
+Crunchbase,Baby,Consumer Products and CPG
+Crunchbase,Baby,Business to Consumer (B2C)
+Crunchbase,Bakery,Food and Beverage
+Crunchbase,Bakery,Business to Consumer (B2C)
+Crunchbase,Banking,Financial Services
+Crunchbase,Banking,Lending and Investments
+Crunchbase,Baseball,Sports
+Crunchbase,Basketball,Sports
+Crunchbase,Battery,Manufacturing
+Crunchbase,Battery,Energy
+Crunchbase,Battery,Battery
+Crunchbase,Beauty,Consumer Products and CPG
+Crunchbase,Beauty,Business to Consumer (B2C)
+Crunchbase,Big Data,Technology
+Crunchbase,Big Data,Data and Analytics
+Crunchbase,Billing,Payments
+Crunchbase,Billing,Software
+Crunchbase,Billing,FinTech
+Crunchbase,Biofuel,Petroleum and Coal
+Crunchbase,Biofuel,Energy
+Crunchbase,Biofuel,Sustainability
+Crunchbase,Bioinformatics,Healthcare
+Crunchbase,Bioinformatics,Biotechnology
+Crunchbase,Bioinformatics,Science and Engineering
+Crunchbase,Bioinformatics,HealthTech
+Crunchbase,Biomass Energy,Organics
+Crunchbase,Biomass Energy,Energy
+Crunchbase,Biomass Energy,Sustainability
+Crunchbase,Biometrics,Privacy and Security
+Crunchbase,Biometrics,Biotechnology
+Crunchbase,Biometrics,Science and Engineering
+Crunchbase,Biometrics,Technology
+Crunchbase,Biopharma,Healthcare
+Crunchbase,Biopharma,Biotechnology
+Crunchbase,Biopharma,Science and Engineering
+Crunchbase,Biopharma,Pharma
+Crunchbase,Biotechnology,Biotechnology
+Crunchbase,Bitcoin,Financial Services
+Crunchbase,Bitcoin,Payments
+Crunchbase,Bitcoin,Software
+Crunchbase,Bitcoin,Cryptocurrency
+Crunchbase,Blockchain,Technology
+Crunchbase,Blockchain,Blockchain
+Crunchbase,Blogging Platforms,Media and Entertainment
+Crunchbase,Blogging Platforms,Content and Publishing
+Crunchbase,Boating,Ocean Technology
+Crunchbase,Boating,Sports
+Crunchbase,Bookkeeping and Payroll,Accounting
+Crunchbase,Bookkeeping and Payroll,Administrative Services
+Crunchbase,Bookkeeping and Payroll,Business to Business (B2B)
+Crunchbase,Books,Media and Entertainment
+Crunchbase,Books,Books and Magazines
+Crunchbase,Books,Business to Consumer (B2C)
+Crunchbase,Brand Marketing,Sales and Marketing
+Crunchbase,Brewing,Alcohol
+Crunchbase,Brewing,Food and Beverage
+Crunchbase,Broadcasting,Media and Entertainment
+Crunchbase,Broadcasting,Video
+Crunchbase,Browser Extensions,Internet Services
+Crunchbase,Browser Extensions,Software
+Crunchbase,Building Maintenance,Real Estate
+Crunchbase,Building Material,"Architecture, Engineering, Construction"
+Crunchbase,Building Material,Real Estate
+Crunchbase,Business Development,Professional Services
+Crunchbase,Business Information Systems,Technology
+Crunchbase,Business Information Systems,Information Technology
+Crunchbase,Business Intelligence,Data and Analytics
+Crunchbase,Business Intelligence,Technology
+Crunchbase,Business Intelligence,Software
+Crunchbase,Business Intelligence,Software as a Service (SaaS)
+Crunchbase,Business Process Automation (BPA),Professional Services
+Crunchbase,Business Travel,Travel and Tourism
+Crunchbase,CAD,"Architecture, Engineering, Construction"
+Crunchbase,CAD,Design & Consumer Experience
+Crunchbase,CAD,Software
+Crunchbase,Call Center,Customer Support
+Crunchbase,Call Center,Administrative Services
+Crunchbase,Cannabis,Cannabis
+Crunchbase,Cannabis,Community and Lifestyle
+Crunchbase,Cannabis,Food and Beverage
+Crunchbase,Car Sharing,On-Demand
+Crunchbase,Car Sharing,Transportation
+Crunchbase,Car Sharing,Marketplace
+Crunchbase,Car Sharing,Sharing Economy
+Crunchbase,Car Sharing,Business to Consumer (B2C)
+Crunchbase,Carbon Capture,Energy
+Crunchbase,Carbon Capture,Climate Tech
+Crunchbase,Carbon Capture,Sustainability
+Crunchbase,Card and Board Games,Media and Entertainment
+Crunchbase,Card and Board Games,Consumer Products and CPG
+Crunchbase,Card and Board Games,Business to Consumer (B2C)
+Crunchbase,Career Planning,Professional Services
+Crunchbase,Career Planning,Coaching
+Crunchbase,Casino,Media and Entertainment
+Crunchbase,Casino,Gaming
+Crunchbase,Casino,Travel and Tourism
+Crunchbase,Casino,Business to Consumer (B2C)
+Crunchbase,Casual Games,Media and Entertainment
+Crunchbase,Casual Games,Consumer Products and CPG
+Crunchbase,Casual Games,Business to Consumer (B2C)
+Crunchbase,Catering,Bars and Restaurants
+Crunchbase,Catering,Food and Beverage
+Crunchbase,Cause Marketing,Sales and Marketing
+Crunchbase,Celebrity,Influencers
+Crunchbase,Celebrity,Media and Entertainment
+Crunchbase,Charging Infrastructure,Energy
+Crunchbase,Charging Infrastructure,Climate Tech
+Crunchbase,Charging Infrastructure,Electric Vehicles (EV)
+Crunchbase,Charity,Advocacy & Interest
+Crunchbase,Charter Schools,Education
+Crunchbase,Chatbot,Artificial Intelligence (AI)
+Crunchbase,Chatbot,Software
+Crunchbase,Chemical,Science and Engineering
+Crunchbase,Chemical Engineering,Science and Engineering
+Crunchbase,Child Care,Home
+Crunchbase,Child Care,Community and Lifestyle
+Crunchbase,Children,Home
+Crunchbase,Children,Community and Lifestyle
+Crunchbase,CivicTech,GovTech
+Crunchbase,CivicTech,Government and Military
+Crunchbase,CivicTech,Information Technology
+Crunchbase,CivicTech,Technology
+Crunchbase,Civil Engineering,"Architecture, Engineering, Construction"
+Crunchbase,Civil Engineering,Science and Engineering
+Crunchbase,Classifieds,Commerce and Shopping
+Crunchbase,Clean Energy,Energy
+Crunchbase,Clean Energy,Climate Tech
+Crunchbase,Clean Energy,Sustainability
+Crunchbase,Cleaning Products,Consumer Products and CPG
+Crunchbase,CleanTech,Energy
+Crunchbase,CleanTech,Climate Tech
+Crunchbase,CleanTech,Sustainability
+Crunchbase,Clinical Trials,Healthcare
+Crunchbase,Cloud Computing,Technology
+Crunchbase,Cloud Computing,Cloud Services
+Crunchbase,Cloud Computing,Internet Services
+Crunchbase,Cloud Data Services,Technology
+Crunchbase,Cloud Data Services,Cloud Services
+Crunchbase,Cloud Data Services,Information Technology
+Crunchbase,Cloud Data Services,Internet Services
+Crunchbase,Cloud Data Services,Data and Analytics
+Crunchbase,Cloud Infrastructure,Technology
+Crunchbase,Cloud Infrastructure,Cloud Services
+Crunchbase,Cloud Infrastructure,Hardware
+Crunchbase,Cloud Infrastructure,Internet Services
+Crunchbase,Cloud Management,Technology
+Crunchbase,Cloud Management,Cloud Services
+Crunchbase,Cloud Management,Information Technology
+Crunchbase,Cloud Management,Internet Services
+Crunchbase,Cloud Management,Software
+Crunchbase,Cloud Security,Technology
+Crunchbase,Cloud Security,Cloud Services
+Crunchbase,Cloud Security,Information Technology
+Crunchbase,Cloud Security,Privacy and Security
+Crunchbase,Cloud Storage,Technology
+Crunchbase,Cloud Storage,Cloud Services
+Crunchbase,Cloud Storage,Internet Services
+Crunchbase,CMS,Media and Entertainment
+Crunchbase,CMS,Content and Publishing
+Crunchbase,CMS,Information Technology
+Crunchbase,CMS,Software
+Crunchbase,Coffee,Food and Beverage
+Crunchbase,Coffee,Consumer Products and CPG
+Crunchbase,Coffee,Business to Consumer (B2C)
+Crunchbase,Collaboration,Technology
+Crunchbase,Collaborative Consumption,Sharing Economy
+Crunchbase,Collectibles,Consumer Products and CPG
+Crunchbase,Collectibles,Commerce and Shopping
+Crunchbase,Collection Agency,Administrative Services
+Crunchbase,College Recruiting,Education
+Crunchbase,College Recruiting,Administrative Services
+Crunchbase,College Recruiting,Higher Education
+Crunchbase,Comics,Books and Magazines
+Crunchbase,Comics,Media and Entertainment
+Crunchbase,Commercial,Professional Services
+Crunchbase,Commercial Insurance,Financial Services
+Crunchbase,Commercial Insurance,Insurance
+Crunchbase,Commercial Lending,Financial Services
+Crunchbase,Commercial Lending,Lending and Investments
+Crunchbase,Commercial Real Estate,Real Estate
+Crunchbase,Communication Hardware,Technology
+Crunchbase,Communication Hardware,Hardware
+Crunchbase,Communications Infrastructure,Technology
+Crunchbase,Communications Infrastructure,Hardware
+Crunchbase,Communications Infrastructure,Messaging and Telecommunications
+Crunchbase,Communities,Community and Lifestyle
+Crunchbase,Compliance,Professional Services
+Crunchbase,Computer,Technology
+Crunchbase,Computer,Consumer Electronics
+Crunchbase,Computer,Hardware
+Crunchbase,Computer Vision,Artificial Intelligence (AI)
+Crunchbase,Computer Vision,Hardware
+Crunchbase,Computer Vision,Software
+Crunchbase,Computer Vision,Technology
+Crunchbase,Concerts,Events
+Crunchbase,Concerts,Media and Entertainment
+Crunchbase,Concerts,Music and Audio
+Crunchbase,Confectionery,Food and Beverage
+Crunchbase,Confectionery,Consumer Products and CPG
+Crunchbase,Confectionery,Business to Consumer (B2C)
+Crunchbase,Console Games,Media and Entertainment
+Crunchbase,Console Games,Gaming
+Crunchbase,Construction,"Architecture, Engineering, Construction"
+Crunchbase,Construction,Real Estate
+Crunchbase,Consulting,Professional Services
+Crunchbase,Consulting,Business Consulting
+Crunchbase,Consumer,Business to Consumer (B2C)
+Crunchbase,Consumer Applications,Business to Consumer (B2C)
+Crunchbase,Consumer Applications,Apps
+Crunchbase,Consumer Applications,Software
+Crunchbase,Consumer Electronics,Business to Consumer (B2C)
+Crunchbase,Consumer Electronics,Consumer Electronics
+Crunchbase,Consumer Electronics,Hardware
+Crunchbase,Consumer Goods,Consumer Products and CPG
+Crunchbase,Consumer Goods,Business to Consumer (B2C)
+Crunchbase,Consumer Lending,Financial Services
+Crunchbase,Consumer Lending,Lending and Investments
+Crunchbase,Consumer Lending,Business to Consumer (B2C)
+Crunchbase,Consumer Research,Professional Services
+Crunchbase,Consumer Research,Data and Analytics
+Crunchbase,Consumer Research,Design & Consumer Experience
+Crunchbase,Consumer Research,Business to Consumer (B2C)
+Crunchbase,Consumer Reviews,Media and Entertainment
+Crunchbase,Consumer Reviews,Commerce and Shopping
+Crunchbase,Consumer Reviews,Internet Services
+Crunchbase,Consumer Reviews,Business to Consumer (B2C)
+Crunchbase,Consumer Software,Technology
+Crunchbase,Consumer Software,Software
+Crunchbase,Consumer Software,Business to Consumer (B2C)
+Crunchbase,Contact Management,Technology
+Crunchbase,Contact Management,Information Technology
+Crunchbase,Contact Management,Software
+Crunchbase,Content,Content and Publishing
+Crunchbase,Content,Media and Entertainment
+Crunchbase,Content Creators,Content and Publishing
+Crunchbase,Content Creators,Media and Entertainment
+Crunchbase,Content Delivery Network,Technology
+Crunchbase,Content Delivery Network,Content and Publishing
+Crunchbase,Content Discovery,Advertising
+Crunchbase,Content Discovery,Content and Publishing
+Crunchbase,Content Discovery,Media and Entertainment
+Crunchbase,Content Marketing,MarTech
+Crunchbase,Content Marketing,Sales and Marketing
+Crunchbase,Content Syndication,Content and Publishing
+Crunchbase,Content Syndication,Media and Entertainment
+Crunchbase,Contests,Events
+Crunchbase,Continuing Education,Education
+Crunchbase,Continuing Education,Higher Education
+Crunchbase,Cooking,Food and Beverage
+Crunchbase,Copywriting,Media and Entertainment
+Crunchbase,Corporate Training,Administrative Services
+Crunchbase,Corporate Training,Education
+Crunchbase,Corrections Facilities,Government and Military
+Crunchbase,Corrections Facilities,Privacy and Security
+Crunchbase,Cosmetic Surgery,Healthcare
+Crunchbase,Cosmetics,Retail
+Crunchbase,Cosmetics,Consumer Products and CPG
+Crunchbase,Cosmetics,Business to Consumer (B2C)
+Crunchbase,Coupons,Commerce and Shopping
+Crunchbase,Courier Service,Logistics
+Crunchbase,Courier Service,Administrative Services
+Crunchbase,Courier Service,Transportation
+Crunchbase,Coworking,Real Estate
+Crunchbase,Craft Beer,Alcohol
+Crunchbase,Craft Beer,Food and Beverage
+Crunchbase,Craft Beer,Business to Consumer (B2C)
+Crunchbase,Creative Agency,Content and Publishing
+Crunchbase,Creative Agency,Media and Entertainment
+Crunchbase,Creative Agency,Advertising
+Crunchbase,Credit,Financial Services
+Crunchbase,Credit,Lending and Investments
+Crunchbase,Credit Bureau,Financial Services
+Crunchbase,Credit Cards,Financial Services
+Crunchbase,Credit Cards,Lending and Investments
+Crunchbase,Credit Cards,Payments
+Crunchbase,Cricket,Sports
+Crunchbase,CRM,Technology
+Crunchbase,CRM,Information Technology
+Crunchbase,CRM,Sales and Marketing
+Crunchbase,CRM,Software
+Crunchbase,Crowdfunding,Financial Services
+Crunchbase,Crowdsourcing,Consumer Services
+Crunchbase,Crowdsourcing,Technology
+Crunchbase,Crowdsourcing,Platforms
+Crunchbase,Cryptocurrency,Financial Services
+Crunchbase,Cryptocurrency,Payments
+Crunchbase,Cryptocurrency,Software
+Crunchbase,Cryptocurrency,Cryptocurrency
+Crunchbase,Customer Service,Professional Services
+Crunchbase,Customer Service,Customer Support
+Crunchbase,Cyber Security,Technology
+Crunchbase,Cyber Security,Information Technology
+Crunchbase,Cyber Security,Privacy and Security
+Crunchbase,Cyber Security,Digital Security
+Crunchbase,Cycling,Sports
+Crunchbase,Dairy,Food and Beverage
+Crunchbase,Dairy,Business to Consumer (B2C)
+Crunchbase,Darknet,Internet Services
+Crunchbase,Data Center,Technology
+Crunchbase,Data Center,Hardware
+Crunchbase,Data Center,Information Technology
+Crunchbase,Data Center,Data and Analytics
+Crunchbase,Data Center Automation,Technology
+Crunchbase,Data Center Automation,Hardware
+Crunchbase,Data Center Automation,Information Technology
+Crunchbase,Data Center Automation,Software
+Crunchbase,Data Center Automation,Data and Analytics
+Crunchbase,Data Collection and Labeling,Technology
+Crunchbase,Data Collection and Labeling,Data and Analytics
+Crunchbase,Data Collection and Labeling,Software
+Crunchbase,Data Governance,Technology
+Crunchbase,Data Governance,Data and Analytics
+Crunchbase,Data Governance,Software
+Crunchbase,Data Integration,Technology
+Crunchbase,Data Integration,Data and Analytics
+Crunchbase,Data Integration,Information Technology
+Crunchbase,Data Integration,Software
+Crunchbase,Data Management,Technology
+Crunchbase,Data Management,Data and Analytics
+Crunchbase,Data Management,Software
+Crunchbase,Data Mining,Technology
+Crunchbase,Data Mining,Data and Analytics
+Crunchbase,Data Mining,Information Technology
+Crunchbase,Data Mining,Software
+Crunchbase,Data Storage,Technology
+Crunchbase,Data Storage,Hardware
+Crunchbase,Data Storage,Software
+Crunchbase,Data Storage,Data and Analytics
+Crunchbase,Data Visualization,Technology
+Crunchbase,Data Visualization,Data and Analytics
+Crunchbase,Data Visualization,Design & Consumer Experience
+Crunchbase,Data Visualization,Information Technology
+Crunchbase,Data Visualization,Software
+Crunchbase,Database,Technology
+Crunchbase,Database,Data and Analytics
+Crunchbase,Database,Software
+Crunchbase,Dating,Community and Lifestyle
+Crunchbase,Debit Cards,Financial Services
+Crunchbase,Debit Cards,Payments
+Crunchbase,Debt Collections,Administrative Services
+Crunchbase,Debt Collections,Financial Services
+Crunchbase,Decentralized Finance (DeFi),Technology
+Crunchbase,Decentralized Finance (DeFi),Blockchain
+Crunchbase,Delivery,Logistics
+Crunchbase,Delivery,Administrative Services
+Crunchbase,Delivery Service,Logistics
+Crunchbase,Delivery Service,Technology
+Crunchbase,Delivery Service,e-commerce
+Crunchbase,Delivery Service,Software
+Crunchbase,Delivery Service,Food and Beverage
+Crunchbase,Dental,Healthcare
+Crunchbase,Desktop Apps,Technology
+Crunchbase,Desktop Apps,Software
+Crunchbase,Desktop Apps,Apps
+Crunchbase,Developer APIs,Technology
+Crunchbase,Developer APIs,Software
+Crunchbase,Developer Platform,Technology
+Crunchbase,Developer Platform,Software
+Crunchbase,Developer Tools,Technology
+Crunchbase,Developer Tools,Software
+Crunchbase,DevOps,Technology
+Crunchbase,Diabetes,Healthcare
+Crunchbase,Dietary Supplements,"Wellness, Nutrition and Fitness"
+Crunchbase,Dietary Supplements,Food and Beverage
+Crunchbase,Dietary Supplements,Community and Lifestyle
+Crunchbase,Digital Entertainment,Media and Entertainment
+Crunchbase,Digital Marketing,Sales and Marketing
+Crunchbase,Digital Media,Media and Entertainment
+Crunchbase,Digital Signage,Sales and Marketing
+Crunchbase,Direct Marketing,Sales and Marketing
+Crunchbase,Direct Sales,Sales and Marketing
+Crunchbase,Distillery,Alcohol
+Crunchbase,Distillery,Food and Beverage
+Crunchbase,Distillery,Business to Consumer (B2C)
+Crunchbase,Diving,Sports
+Crunchbase,DIY,Consumer Products and CPG
+Crunchbase,Document Management,Information Technology
+Crunchbase,Document Management,Software
+Crunchbase,Document Management,Technology
+Crunchbase,Document Preparation,Administrative Services
+Crunchbase,Domain Registrar,Internet Services
+Crunchbase,DRM,Content and Publishing
+Crunchbase,DRM,Media and Entertainment
+Crunchbase,DRM,Privacy and Security
+Crunchbase,Drone Management,Technology
+Crunchbase,Drone Management,Hardware
+Crunchbase,Drone Management,New Markets
+Crunchbase,Drones,Technology
+Crunchbase,Drones,Consumer Electronics
+Crunchbase,Drones,Hardware
+Crunchbase,Drones,New Markets
+Crunchbase,DSP,Technology
+Crunchbase,DSP,Hardware
+Crunchbase,E-Commerce,e-commerce
+Crunchbase,E-Commerce,Commerce and Shopping
+Crunchbase,E-Commerce Platforms,e-commerce
+Crunchbase,E-Commerce Platforms,Commerce and Shopping
+Crunchbase,E-Commerce Platforms,Internet Services
+Crunchbase,E-Commerce Platforms,Retail
+Crunchbase,E-Learning,Education
+Crunchbase,E-Learning,Software
+Crunchbase,E-Learning,EdTech
+Crunchbase,E-Learning,Technology
+Crunchbase,E-Signature,Information Technology
+Crunchbase,E-Signature,Privacy and Security
+Crunchbase,E-Signature,Technology
+Crunchbase,E-Signature,Software
+Crunchbase,EBooks,Content and Publishing
+Crunchbase,EBooks,Media and Entertainment
+Crunchbase,EBooks,Technology
+Crunchbase,Ediscovery,Professional Services
+Crunchbase,Ediscovery,Internet Services
+Crunchbase,Ediscovery,Technology
+Crunchbase,EdTech,Education
+Crunchbase,EdTech,EdTech
+Crunchbase,EdTech,Technology
+Crunchbase,Education,Education
+Crunchbase,Edutainment,Education
+Crunchbase,Edutainment,Media and Entertainment
+Crunchbase,Elder Care,Healthcare
+Crunchbase,Elderly,Healthcare
+Crunchbase,Elderly,Community and Lifestyle
+Crunchbase,Electric Vehicle,Electric Vehicles (EV)
+Crunchbase,Electric Vehicle,Transportation
+Crunchbase,Electric Vehicle,Auto
+Crunchbase,Electrical Distribution,Energy
+Crunchbase,Electrical Distribution,Utilities
+Crunchbase,Electronic Design Automation (EDA),Technology
+Crunchbase,Electronic Design Automation (EDA),Semiconductor
+Crunchbase,Electronic Design Automation (EDA),Hardware
+Crunchbase,Electronic Design Automation (EDA),Software
+Crunchbase,Electronic Health Record (EHR),Healthcare
+Crunchbase,Electronic Health Record (EHR),HealthTech
+Crunchbase,Electronics,Technology
+Crunchbase,Electronics,Consumer Electronics
+Crunchbase,Electronics,Hardware
+Crunchbase,Email,Technology
+Crunchbase,Email,Information Technology
+Crunchbase,Email,Internet Services
+Crunchbase,Email,Messaging and Telecommunications
+Crunchbase,Email Marketing,Sales and Marketing
+Crunchbase,Email Marketing,Messaging and Telecommunications
+Crunchbase,Embedded Software,Technology
+Crunchbase,Embedded Software,Software
+Crunchbase,Embedded Systems,Technology
+Crunchbase,Embedded Systems,Hardware
+Crunchbase,Embedded Systems,Science and Engineering
+Crunchbase,Embedded Systems,Software
+Crunchbase,Emergency Medicine,Healthcare
+Crunchbase,Emergency Medicine,Hospitals
+Crunchbase,Emergency Medicine,Providers
+Crunchbase,Emerging Markets,New Markets
+Crunchbase,Employee Benefits,Administrative Services
+Crunchbase,Employee Benefits,Healthcare
+Crunchbase,Employment,Professional Services
+Crunchbase,Energy,Energy
+Crunchbase,Energy Efficiency,Energy
+Crunchbase,Energy Efficiency,Sustainability
+Crunchbase,Energy Management,Energy
+Crunchbase,Energy Storage,Energy
+Crunchbase,Enterprise,Enterprise Software
+Crunchbase,Enterprise,Software
+Crunchbase,Enterprise,Technology
+Crunchbase,Enterprise Applications,Enterprise Software
+Crunchbase,Enterprise Applications,Apps
+Crunchbase,Enterprise Applications,Software
+Crunchbase,Enterprise Applications,Technology
+Crunchbase,Enterprise Resource Planning (ERP),Technology
+Crunchbase,Enterprise Resource Planning (ERP),Software
+Crunchbase,Enterprise Resource Planning (ERP),Administrative Services
+Crunchbase,Enterprise Resource Planning (ERP),Human Resources
+Crunchbase,Enterprise Software,Enterprise Software
+Crunchbase,Enterprise Software,Software
+Crunchbase,Enterprise Software,Business to Business (B2B)
+Crunchbase,Environmental Consulting,"Architecture, Engineering, Construction"
+Crunchbase,Environmental Consulting,Professional Services
+Crunchbase,Environmental Engineering,"Architecture, Engineering, Construction"
+Crunchbase,Environmental Engineering,Science and Engineering
+Crunchbase,Environmental Engineering,Sustainability
+Crunchbase,Equestrian,Sports
+Crunchbase,eSports,Sports
+Crunchbase,eSports,Technology
+Crunchbase,Ethereum,Technology
+Crunchbase,Ethereum,Blockchain
+Crunchbase,Event Management,Events
+Crunchbase,Event Management,Media and Entertainment
+Crunchbase,Event Promotion,Events
+Crunchbase,Event Promotion,Media and Entertainment
+Crunchbase,Event Promotion,Sales and Marketing
+Crunchbase,Events,Events
+Crunchbase,Events,Media and Entertainment
+Crunchbase,Extermination Service,Home
+Crunchbase,Extermination Service,Administrative Services
+Crunchbase,Eyewear,Healthcare
+Crunchbase,Eyewear,Consumer Products and CPG
+Crunchbase,Facebook,Media and Entertainment
+Crunchbase,Facebook,Platforms
+Crunchbase,Facebook,Social Media
+Crunchbase,Facebook,Business to Consumer (B2C)
+Crunchbase,Facial Recognition,Technology
+Crunchbase,Facial Recognition,Data and Analytics
+Crunchbase,Facial Recognition,Software
+Crunchbase,Facial Recognition,Privacy and Security
+Crunchbase,Facilities Support Services,Administrative Services
+Crunchbase,Facility Management,Real Estate
+Crunchbase,Facility Management,Logistics
+Crunchbase,Family,Home
+Crunchbase,Family,Community and Lifestyle
+Crunchbase,Fantasy Sports,Gaming
+Crunchbase,Fantasy Sports,Sports
+Crunchbase,Fantasy Sports,Business to Consumer (B2C)
+Crunchbase,Farmers Market,Food and Beverage
+Crunchbase,Farming,Agriculture and Farming
+Crunchbase,Fashion,Apparel & Fashion
+Crunchbase,Fashion,Clothing and Apparel
+Crunchbase,Fashion,Design & Consumer Experience
+Crunchbase,Fashion,Business to Consumer (B2C)
+Crunchbase,Fast-Moving Consumer Goods,Consumer Products and CPG
+Crunchbase,Ferry Service,Transportation
+Crunchbase,Fertility,Healthcare
+Crunchbase,Fertility,Women's Health
+Crunchbase,Field Support,Professional Services
+Crunchbase,Field Support,Technology
+Crunchbase,Field-Programmable Gate Array (FPGA),Technology
+Crunchbase,Field-Programmable Gate Array (FPGA),Hardware
+Crunchbase,Field-Programmable Gate Array (FPGA),Semiconductor
+Crunchbase,File Sharing,Technology
+Crunchbase,File Sharing,Software
+Crunchbase,Film,Media and Entertainment
+Crunchbase,Film,Video
+Crunchbase,Film Distribution,Media and Entertainment
+Crunchbase,Film Distribution,Video
+Crunchbase,Film Production,Media and Entertainment
+Crunchbase,Film Production,Video
+Crunchbase,Finance,Financial Services
+Crunchbase,Financial Exchanges,Financial Services
+Crunchbase,Financial Exchanges,Lending and Investments
+Crunchbase,Financial Services,Financial Services
+Crunchbase,FinTech,Financial Services
+Crunchbase,FinTech,FinTech
+Crunchbase,FinTech,Technology
+Crunchbase,First Aid,Healthcare
+Crunchbase,Fitness,"Wellness, Nutrition and Fitness"
+Crunchbase,Fitness,Sports
+Crunchbase,Fitness,Community and Lifestyle
+Crunchbase,Flash Sale,Retail
+Crunchbase,Flash Sale,Commerce and Shopping
+Crunchbase,Flash Storage,Technology
+Crunchbase,Flash Storage,Hardware
+Crunchbase,Fleet Management,Logistics
+Crunchbase,Fleet Management,Transportation
+Crunchbase,Flowers,Consumer Products and CPG
+Crunchbase,Flowers,Business to Consumer (B2C)
+Crunchbase,Food and Beverage,Food and Beverage
+Crunchbase,Food Delivery,On-Demand
+Crunchbase,Food Delivery,Food and Beverage
+Crunchbase,Food Delivery,Transportation
+Crunchbase,Food Processing,Food and Beverage
+Crunchbase,Food Trucks,Bars and Restaurants
+Crunchbase,Food Trucks,Food and Beverage
+Crunchbase,Food Trucks,Business to Consumer (B2C)
+Crunchbase,Foreign Exchange Trading,Financial Services
+Crunchbase,Forestry,Agriculture and Farming
+Crunchbase,Fossil Fuels,Energy
+Crunchbase,Fossil Fuels,Natural Resources
+Crunchbase,Foundries,Manufacturing
+Crunchbase,Franchise,Consumer Products and CPG
+Crunchbase,Fraud Detection,Financial Services
+Crunchbase,Fraud Detection,Payments
+Crunchbase,Fraud Detection,Privacy and Security
+Crunchbase,Freelance,Professional Services
+Crunchbase,Freelance,Business Consulting
+Crunchbase,Freemium,Software as a Service (SaaS)
+Crunchbase,Freemium,Software
+Crunchbase,Freemium,Technology
+Crunchbase,Freight Service,Logistics
+Crunchbase,Freight Service,Transportation
+Crunchbase,Fruit,Food and Beverage
+Crunchbase,Fuel,Energy
+Crunchbase,Fuel Cell,Energy
+Crunchbase,Funding Platform,Financial Services
+Crunchbase,Funding Platform,Lending and Investments
+Crunchbase,Funding Platform,FinTech
+Crunchbase,Funerals,Community and Lifestyle
+Crunchbase,Funerals,Healthcare
+Crunchbase,Furniture,Home
+Crunchbase,Furniture,Consumer Products and CPG
+Crunchbase,Gambling,Media and Entertainment
+Crunchbase,Gambling,Gaming
+Crunchbase,Gambling,Business to Consumer (B2C)
+Crunchbase,Gamification,Software
+Crunchbase,Gamification,Gamify-Engagement
+Crunchbase,Gaming,Media and Entertainment
+Crunchbase,Gaming,Gaming
+Crunchbase,Gaming,Business to Consumer (B2C)
+Crunchbase,Generation Y,Demographic
+Crunchbase,Generation Z,Demographic
+Crunchbase,Generative AI,Artificial Intelligence (AI)
+Crunchbase,Generative AI,Software
+Crunchbase,Generative AI,Technology
+Crunchbase,Genetics,Healthcare
+Crunchbase,Genetics,Biotechnology
+Crunchbase,Geospatial,Technology
+Crunchbase,Geospatial,Data and Analytics
+Crunchbase,Geospatial,Navigation and Mapping
+Crunchbase,Geothermal Energy,Energy
+Crunchbase,Geothermal Energy,Sustainability
+Crunchbase,Gift,Consumer Products and CPG
+Crunchbase,Gift,Commerce and Shopping
+Crunchbase,Gift,Business to Consumer (B2C)
+Crunchbase,Gift Card,Consumer Products and CPG
+Crunchbase,Gift Card,Commerce and Shopping
+Crunchbase,Gift Card,Business to Consumer (B2C)
+Crunchbase,Gift Exchange,Consumer Products and CPG
+Crunchbase,Gift Exchange,Commerce and Shopping
+Crunchbase,Gift Registry,Consumer Products and CPG
+Crunchbase,Gift Registry,Commerce and Shopping
+Crunchbase,Golf,Sports
+Crunchbase,Google,Media and Entertainment
+Crunchbase,Google,Platforms
+Crunchbase,Google,Technology
+Crunchbase,Google,Software
+Crunchbase,Google,Mobile
+Crunchbase,Google Glass,Technology
+Crunchbase,Google Glass,Consumer Electronics
+Crunchbase,Google Glass,Hardware
+Crunchbase,Google Glass,Mobile
+Crunchbase,Google Glass,Platforms
+Crunchbase,Government,Government and Military
+Crunchbase,GovTech,Government and Military
+Crunchbase,GovTech,Information Technology
+Crunchbase,GovTech,Technology
+Crunchbase,GovTech,Software
+Crunchbase,GPS,Technology
+Crunchbase,GPS,Hardware
+Crunchbase,GPS,Navigation and Mapping
+Crunchbase,GPU,Technology
+Crunchbase,GPU,Hardware
+Crunchbase,Graphic Design,Design & Consumer Experience
+Crunchbase,Green Building,Real Estate
+Crunchbase,Green Building,Sustainability
+Crunchbase,Green Building,"Architecture, Engineering, Construction"
+Crunchbase,Green Consumer Goods,Consumer Products and CPG
+Crunchbase,Green Consumer Goods,Sustainability
+Crunchbase,GreenTech,Energy
+Crunchbase,GreenTech,Climate Tech
+Crunchbase,GreenTech,Sustainability
+Crunchbase,Grocery,Food and Beverage
+Crunchbase,Grocery,Grocery
+Crunchbase,Grocery,Business to Consumer (B2C)
+Crunchbase,Grocery,Retail
+Crunchbase,Group Buying,Retail
+Crunchbase,Group Buying,Commerce and Shopping
+Crunchbase,Guides,Media and Entertainment
+Crunchbase,Handmade,Consumer Products and CPG
+Crunchbase,Handmade,Business to Consumer (B2C)
+Crunchbase,Hardware,Technology
+Crunchbase,Hardware,Hardware
+Crunchbase,Health Care,Healthcare
+Crunchbase,Health Diagnostics,Healthcare
+Crunchbase,Health Diagnostics,Diagnostics
+Crunchbase,Health Insurance,Healthcare
+Crunchbase,Health Insurance,Financial Services
+Crunchbase,Health Insurance,Payers
+Crunchbase,Health Insurance,Insurance
+Crunchbase,Heating Ventilation and Air Conditioning (HVAC),Home
+Crunchbase,Heating Ventilation and Air Conditioning (HVAC),Professional Services
+Crunchbase,Hedge Funds,Financial Services
+Crunchbase,Hedge Funds,Lending and Investments
+Crunchbase,Hedge Funds,Hedge Fund
+Crunchbase,Herbs and Spices,Food and Beverage
+Crunchbase,Higher Education,Education
+Crunchbase,Higher Education,Higher Education
+Crunchbase,Hockey,Sports
+Crunchbase,Home and Garden,Home
+Crunchbase,Home and Garden,Consumer Products and CPG
+Crunchbase,Home and Garden,Business to Consumer (B2C)
+Crunchbase,Home Appliances,Home
+Crunchbase,Home Appliances,Consumer Products and CPG
+Crunchbase,Home Appliances,Business to Consumer (B2C)
+Crunchbase,Home Decor,Home
+Crunchbase,Home Decor,Consumer Products and CPG
+Crunchbase,Home Decor,Business to Consumer (B2C)
+Crunchbase,Home Health Care,Healthcare
+Crunchbase,Home Improvement,Home
+Crunchbase,Home Improvement,Consumer Services
+Crunchbase,Home Improvement,Business to Consumer (B2C)
+Crunchbase,Home Renovation,Home
+Crunchbase,Home Renovation,Consumer Services
+Crunchbase,Home Renovation,Business to Consumer (B2C)
+Crunchbase,Home Services,Home
+Crunchbase,Home Services,Consumer Services
+Crunchbase,Home Services,Business to Consumer (B2C)
+Crunchbase,Homeland Security,Government and Military
+Crunchbase,Homeland Security,Privacy and Security
+Crunchbase,Homeless Shelter,Not-for-Profit
+Crunchbase,Homeless Shelter,Consumer Services
+Crunchbase,Horticulture,Agriculture and Farming
+Crunchbase,Hospital,Healthcare
+Crunchbase,Hospital,Hospitals
+Crunchbase,Hospital,Providers
+Crunchbase,Hospitality,Travel and Tourism
+Crunchbase,Hospitality,Bars and Restaurants
+Crunchbase,Hotel,Travel and Tourism
+Crunchbase,Hotel,Business to Consumer (B2C)
+Crunchbase,Housekeeping Service,Administrative Services
+Crunchbase,Housekeeping Service,Consumer Services
+Crunchbase,Human Computer Interaction,Design & Consumer Experience
+Crunchbase,Human Computer Interaction,Data and Analytics
+Crunchbase,Human Resources,Administrative Services
+Crunchbase,Humanitarian,Advocacy & Interest
+Crunchbase,Humanitarian,Community and Lifestyle
+Crunchbase,Hunting,Sports
+Crunchbase,Hydroelectric,Energy
+Crunchbase,Hydroponics,Agriculture and Farming
+Crunchbase,IaaS,Technology
+Crunchbase,IaaS,Cloud Services
+Crunchbase,IaaS,Software
+Crunchbase,Identity Management,Technology
+Crunchbase,Identity Management,Information Technology
+Crunchbase,Identity Management,Privacy and Security
+Crunchbase,Image Recognition,Artificial Intelligence (AI)
+Crunchbase,Image Recognition,Data and Analytics
+Crunchbase,Image Recognition,Technology
+Crunchbase,Image Recognition,Software
+Crunchbase,Impact Investing,Financial Services
+Crunchbase,Impact Investing,Lending and Investments
+Crunchbase,In-Flight Entertainment,Media and Entertainment
+Crunchbase,In-Flight Entertainment,Technology
+Crunchbase,Incubators,Startups
+Crunchbase,Incubators,Financial Services
+Crunchbase,Incubators,Lending and Investments
+Crunchbase,Independent Music,Media and Entertainment
+Crunchbase,Independent Music,Music and Audio
+Crunchbase,Indoor Positioning,Technology
+Crunchbase,Indoor Positioning,Navigation and Mapping
+Crunchbase,Industrial,Manufacturing
+Crunchbase,Industrial Automation,Manufacturing
+Crunchbase,Industrial Automation,Science and Engineering
+Crunchbase,Industrial Design,Manufacturing
+Crunchbase,Industrial Design,Design & Consumer Experience
+Crunchbase,Industrial Design,Hardware
+Crunchbase,Industrial Engineering,"Architecture, Engineering, Construction"
+Crunchbase,Industrial Engineering,Manufacturing
+Crunchbase,Industrial Engineering,Science and Engineering
+Crunchbase,Industrial Manufacturing,Manufacturing
+Crunchbase,Information and Communications Technology (ICT),Technology
+Crunchbase,Information and Communications Technology (ICT),Information Technology
+Crunchbase,Information and Communications Technology (ICT),Messaging and Telecommunications
+Crunchbase,Information Services,Information Technology
+Crunchbase,Information Technology,Information Technology
+Crunchbase,Infrastructure,"Architecture, Engineering, Construction"
+Crunchbase,Innovation Management,Professional Services
+Crunchbase,Insurance,Financial Services
+Crunchbase,Insurance,Insurance
+Crunchbase,InsurTech,Financial Services
+Crunchbase,InsurTech,Insurance
+Crunchbase,InsurTech,InsurTech
+Crunchbase,InsurTech,Technology
+Crunchbase,Intellectual Property,Professional Services
+Crunchbase,Intelligent Systems,Artificial Intelligence (AI)
+Crunchbase,Intelligent Systems,Science and Engineering
+Crunchbase,Intelligent Systems,Data and Analytics
+Crunchbase,Intelligent Systems,Technology
+Crunchbase,Interior Design,Home
+Crunchbase,Interior Design,Design & Consumer Experience
+Crunchbase,Interior Design,Real Estate
+Crunchbase,Internet,Internet Services
+Crunchbase,Internet of Things,Technology
+Crunchbase,Internet of Things,Internet Services
+Crunchbase,Internet of Things,Internet of Things (IoT)
+Crunchbase,Internet Radio,Media and Entertainment
+Crunchbase,Internet Radio,Music and Audio
+Crunchbase,Intrusion Detection,Technology
+Crunchbase,Intrusion Detection,Information Technology
+Crunchbase,Intrusion Detection,Privacy and Security
+Crunchbase,iOS,Technology
+Crunchbase,iOS,Mobile
+Crunchbase,iOS,Platforms
+Crunchbase,iOS,Software
+Crunchbase,ISP,Technology
+Crunchbase,ISP,Internet Services
+Crunchbase,ISP,Messaging and Telecommunications
+Crunchbase,IT Infrastructure,Technology
+Crunchbase,IT Infrastructure,Information Technology
+Crunchbase,IT Management,Technology
+Crunchbase,IT Management,Information Technology
+Crunchbase,Janitorial Service,Real Estate
+Crunchbase,Janitorial Service,Administrative Services
+Crunchbase,Jewelry,Consumer Products and CPG
+Crunchbase,Jewelry,Business to Consumer (B2C)
+Crunchbase,Journalism,Media and Entertainment
+Crunchbase,Journalism,Content and Publishing
+Crunchbase,Knowledge Management,Administrative Services
+Crunchbase,Landscaping,Home
+Crunchbase,Landscaping,Real Estate
+Crunchbase,Landscaping,Consumer Services
+Crunchbase,Language Learning,Education
+Crunchbase,Laser,Technology
+Crunchbase,Laser,Hardware
+Crunchbase,Laser,Science and Engineering
+Crunchbase,Last Mile Transportation,Logistics
+Crunchbase,Last Mile Transportation,Transportation
+Crunchbase,Laundry and Dry-cleaning,Home
+Crunchbase,Laundry and Dry-cleaning,Clothing and Apparel
+Crunchbase,Laundry and Dry-cleaning,Consumer Services
+Crunchbase,Law Enforcement,Government and Military
+Crunchbase,Law Enforcement,Privacy and Security
+Crunchbase,Lead Generation,Sales and Marketing
+Crunchbase,Lead Management,Sales and Marketing
+Crunchbase,Leasing,Real Estate
+Crunchbase,Leasing,Financial Services
+Crunchbase,Legal,Professional Services
+Crunchbase,Legal,Legal Services
+Crunchbase,Legal Tech,Professional Services
+Crunchbase,Legal Tech,Legal Tech
+Crunchbase,Legal Tech,Technology
+Crunchbase,Legal Tech,Software
+Crunchbase,Legal Tech,Legal Services
+Crunchbase,Leisure,Community and Lifestyle
+Crunchbase,Lending,Financial Services
+Crunchbase,LGBT,Community and Lifestyle
+Crunchbase,Life Insurance,Financial Services
+Crunchbase,Life Insurance,Insurance
+Crunchbase,Life Science,Science and Engineering
+Crunchbase,Life Science,Biotechnology
+Crunchbase,Life Science,Life Science
+Crunchbase,Lifestyle,Community and Lifestyle
+Crunchbase,Lighting,Home
+Crunchbase,Lighting,Hardware
+Crunchbase,Lighting,Consumer Products and CPG
+Crunchbase,Lighting,Business to Consumer (B2C)
+Crunchbase,Limousine Service,Transportation
+Crunchbase,Lingerie,Consumer Products and CPG
+Crunchbase,Lingerie,Clothing and Apparel
+Crunchbase,Lingerie,Business to Consumer (B2C)
+Crunchbase,Linux,Technology
+Crunchbase,Linux,Platforms
+Crunchbase,Linux,Software
+Crunchbase,Livestock,Agriculture and Farming
+Crunchbase,Local,Sales and Marketing
+Crunchbase,Local Advertising,Advertising
+Crunchbase,Local Advertising,Sales and Marketing
+Crunchbase,Local Business,"Local, Small and Medium Business"
+Crunchbase,Local Business,Sales and Marketing
+Crunchbase,Local Shopping,Retail
+Crunchbase,Local Shopping,Commerce and Shopping
+Crunchbase,Location Based Services,Technology
+Crunchbase,Location Based Services,Data and Analytics
+Crunchbase,Location Based Services,Internet Services
+Crunchbase,Location Based Services,Navigation and Mapping
+Crunchbase,Logistics,Logistics
+Crunchbase,Logistics,Transportation
+Crunchbase,Loyalty Programs,Business to Consumer (B2C)
+Crunchbase,Loyalty Programs,Sales and Marketing
+Crunchbase,Machine Learning,Artificial Intelligence (AI)
+Crunchbase,Machine Learning,Software
+Crunchbase,Machine Learning,Technology
+Crunchbase,Machinery Manufacturing,Manufacturing
+Crunchbase,macOS,Technology
+Crunchbase,macOS,Platforms
+Crunchbase,macOS,Software
+Crunchbase,Made to Order,Manufacturing
+Crunchbase,Made to Order,Commerce and Shopping
+Crunchbase,Management Consulting,Professional Services
+Crunchbase,Management Consulting,Business Consulting
+Crunchbase,Management Information Systems,Technology
+Crunchbase,Management Information Systems,Information Technology
+Crunchbase,Manufacturing,Manufacturing
+Crunchbase,Mapping Services,Technology
+Crunchbase,Mapping Services,Navigation and Mapping
+Crunchbase,Marine Technology,Ocean Technology
+Crunchbase,Marine Technology,Science and Engineering
+Crunchbase,Marine Technology,Technology
+Crunchbase,Marine Transportation,Logistics
+Crunchbase,Marine Transportation,Transportation
+Crunchbase,Market Research,Data and Analytics
+Crunchbase,Market Research,Design & Consumer Experience
+Crunchbase,Marketing,Sales and Marketing
+Crunchbase,Marketing Automation,Sales and Marketing
+Crunchbase,Marketing Automation,Software
+Crunchbase,Marketing Automation,MarTech
+Crunchbase,Marketplace,Business to Consumer (B2C)
+Crunchbase,Marketplace,Commerce and Shopping
+Crunchbase,Meat and Poultry,Food and Beverage
+Crunchbase,Mechanical Design,"Architecture, Engineering, Construction"
+Crunchbase,Mechanical Design,Design & Consumer Experience
+Crunchbase,Mechanical Design,Hardware
+Crunchbase,Mechanical Engineering,"Architecture, Engineering, Construction"
+Crunchbase,Mechanical Engineering,Science and Engineering
+Crunchbase,Media and Entertainment,Media and Entertainment
+Crunchbase,Medical,Healthcare
+Crunchbase,Medical Device,Healthcare
+Crunchbase,Medical Device,Science and Engineering
+Crunchbase,Medical Device,Hardware
+Crunchbase,Medical Device,HealthTech
+Crunchbase,Medical Device,Technology
+Crunchbase,Meeting Software,Technology
+Crunchbase,Meeting Software,Messaging and Telecommunications
+Crunchbase,Meeting Software,Software
+Crunchbase,Men's,Demographic
+Crunchbase,Men's,Community and Lifestyle
+Crunchbase,Mental Health,Healthcare
+Crunchbase,Messaging,Technology
+Crunchbase,Messaging,Information Technology
+Crunchbase,Messaging,Internet Services
+Crunchbase,Messaging,Messaging and Telecommunications
+Crunchbase,Metaverse,Metaverse
+Crunchbase,Metaverse,Technology
+Crunchbase,mHealth,Healthcare
+Crunchbase,mHealth,Mobile
+Crunchbase,Micro Lending,Financial Services
+Crunchbase,Micro Lending,Lending and Investments
+Crunchbase,Military,Government and Military
+Crunchbase,Military,Information Technology
+Crunchbase,Millennials,Demographic
+Crunchbase,Mineral,Natural Resources
+Crunchbase,Mining,Natural Resources
+Crunchbase,Mining Technology,Natural Resources
+Crunchbase,Mining Technology,Technology
+Crunchbase,MMO Games,Media and Entertainment
+Crunchbase,MMO Games,Gaming
+Crunchbase,Mobile,Technology
+Crunchbase,Mobile,Mobile
+Crunchbase,Mobile Advertising,Advertising
+Crunchbase,Mobile Advertising,Sales and Marketing
+Crunchbase,Mobile Advertising,Mobile
+Crunchbase,Mobile Advertising,AdTech
+Crunchbase,Mobile Advertising,MarTech
+Crunchbase,Mobile Apps,Technology
+Crunchbase,Mobile Apps,Apps
+Crunchbase,Mobile Apps,Mobile
+Crunchbase,Mobile Apps,Software
+Crunchbase,Mobile Devices,Technology
+Crunchbase,Mobile Devices,Consumer Electronics
+Crunchbase,Mobile Devices,Hardware
+Crunchbase,Mobile Devices,Mobile
+Crunchbase,Mobile Payments,Financial Services
+Crunchbase,Mobile Payments,Mobile
+Crunchbase,Mobile Payments,Payments
+Crunchbase,Mobile Payments,Software
+Crunchbase,Mobile Payments,FinTech
+Crunchbase,MOOC,Education
+Crunchbase,MOOC,Software
+Crunchbase,MOOC,EdTech
+Crunchbase,Mortgage,Financial Services
+Crunchbase,Motion Capture,Media and Entertainment
+Crunchbase,Motion Capture,Video
+Crunchbase,Motorsports,Sports
+Crunchbase,Multi-level Marketing,Sales and Marketing
+Crunchbase,Museums and Historical Sites,Travel and Tourism
+Crunchbase,Museums and Historical Sites,Not-for-Profit
+Crunchbase,Museums and Historical Sites,Art & Culture
+Crunchbase,Music,Media and Entertainment
+Crunchbase,Music,Music and Audio
+Crunchbase,Music Education,Education
+Crunchbase,Music Education,Media and Entertainment
+Crunchbase,Music Education,Music and Audio
+Crunchbase,Music Label,Media and Entertainment
+Crunchbase,Music Label,Music and Audio
+Crunchbase,Music Streaming,Internet Services
+Crunchbase,Music Streaming,Media and Entertainment
+Crunchbase,Music Streaming,Music and Audio
+Crunchbase,Music Venues,Media and Entertainment
+Crunchbase,Musical Instruments,Media and Entertainment
+Crunchbase,Musical Instruments,Music and Audio
+Crunchbase,Nanotechnology,Science and Engineering
+Crunchbase,National Security,Government and Military
+Crunchbase,Native Advertising,Advertising
+Crunchbase,Native Advertising,AdTech
+Crunchbase,Natural Language Processing,Artificial Intelligence (AI)
+Crunchbase,Natural Language Processing,Software
+Crunchbase,Natural Language Processing,Technology
+Crunchbase,Natural Resources,Natural Resources
+Crunchbase,Natural Resources,Sustainability
+Crunchbase,Navigation,Technology
+Crunchbase,Navigation,Navigation and Mapping
+Crunchbase,Network Hardware,Technology
+Crunchbase,Network Hardware,Hardware
+Crunchbase,Network Security,Technology
+Crunchbase,Network Security,Information Technology
+Crunchbase,Network Security,Privacy and Security
+Crunchbase,Network Security,Digital Security
+Crunchbase,Neuroscience,Biotechnology
+Crunchbase,Neuroscience,Science and Engineering
+Crunchbase,News,Content and Publishing
+Crunchbase,News,Media and Entertainment
+Crunchbase,NFC,Technology
+Crunchbase,NFC,Hardware
+Crunchbase,Nightclubs,Bars and Restaurants
+Crunchbase,Nightclubs,Events
+Crunchbase,Nightlife,Bars and Restaurants
+Crunchbase,Nightlife,Events
+Crunchbase,Nintendo,Media and Entertainment
+Crunchbase,Nintendo,Consumer Electronics
+Crunchbase,Nintendo,Hardware
+Crunchbase,Nintendo,Platforms
+Crunchbase,Nintendo,Business to Consumer (B2C)
+Crunchbase,Non Profit,Not-for-Profit
+Crunchbase,Non-Fungible Token (NFT),Technology
+Crunchbase,Non-Fungible Token (NFT),Blockchain
+Crunchbase,Nuclear,Energy
+Crunchbase,Nuclear,Science and Engineering
+Crunchbase,Nursing and Residential Care,Healthcare
+Crunchbase,Nutraceutical,Healthcare
+Crunchbase,Nutrition,Healthcare
+Crunchbase,Nutrition,Food and Beverage
+Crunchbase,Nutrition,Community and Lifestyle
+Crunchbase,Office Administration,Administrative Services
+Crunchbase,Office Supplies,Business to Business (B2B)
+Crunchbase,Office Supplies,Supplier
+Crunchbase,Office Supplies,Commerce and Shopping
+Crunchbase,Office Supplies,Retail
+Crunchbase,Oil and Gas,Energy
+Crunchbase,Oil and Gas,Natural Resources
+Crunchbase,Oncology,Healthcare
+Crunchbase,Online Auctions,Business to Consumer (B2C)
+Crunchbase,Online Auctions,Commerce and Shopping
+Crunchbase,Online Auctions,Internet Services
+Crunchbase,Online Forums,Community and Lifestyle
+Crunchbase,Online Forums,Internet Services
+Crunchbase,Online Forums,Social Media
+Crunchbase,Online Games,Media and Entertainment
+Crunchbase,Online Games,Gaming
+Crunchbase,Online Games,Business to Consumer (B2C)
+Crunchbase,Online Portals,Media and Entertainment
+Crunchbase,Online Portals,Internet Services
+Crunchbase,Open Source,Technology
+Crunchbase,Open Source,Software
+Crunchbase,Operating Systems,Technology
+Crunchbase,Operating Systems,Platforms
+Crunchbase,Operating Systems,Software
+Crunchbase,Optical Communication,Technology
+Crunchbase,Optical Communication,Hardware
+Crunchbase,Optical Communication,Messaging and Telecommunications
+Crunchbase,Organic,Food and Beverage
+Crunchbase,Organic,Sustainability
+Crunchbase,Organic Food,Food and Beverage
+Crunchbase,Organic Food,Business to Consumer (B2C)
+Crunchbase,Organic Food,Consumer Products and CPG
+Crunchbase,Outdoor Advertising,Advertising
+Crunchbase,Outdoor Advertising,Sales and Marketing
+Crunchbase,Outdoors,Home
+Crunchbase,Outdoors,Sports
+Crunchbase,Outdoors,Community and Lifestyle
+Crunchbase,Outpatient Care,Healthcare
+Crunchbase,Outsourcing,Professional Services
+Crunchbase,PaaS,Technology
+Crunchbase,PaaS,Software
+Crunchbase,PaaS,Cloud Services
+Crunchbase,Packaging Services,Logistics
+Crunchbase,Packaging Services,Administrative Services
+Crunchbase,Paper Manufacturing,Manufacturing
+Crunchbase,Parenting,Home
+Crunchbase,Parenting,Community and Lifestyle
+Crunchbase,Parking,Transportation
+Crunchbase,Parks,Travel and Tourism
+Crunchbase,Payments,Financial Services
+Crunchbase,Payments,Payments
+Crunchbase,PC Games,Media and Entertainment
+Crunchbase,PC Games,Gaming
+Crunchbase,PC Games,Business to Consumer (B2C)
+Crunchbase,Peer to Peer,Technology
+Crunchbase,Penetration Testing,Technology
+Crunchbase,Penetration Testing,Information Technology
+Crunchbase,Penetration Testing,Privacy and Security
+Crunchbase,Performing Arts,Art & Culture
+Crunchbase,Performing Arts,Media and Entertainment
+Crunchbase,Personal Branding,Professional Services
+Crunchbase,Personal Branding,Sales and Marketing
+Crunchbase,Personal Care and Hygiene,Consumer Products and CPG
+Crunchbase,Personal Care and Hygiene,Business to Consumer (B2C)
+Crunchbase,Personal Development,Professional Services
+Crunchbase,Personal Development,Education
+Crunchbase,Personal Finance,Financial Services
+Crunchbase,Personal Finance,Business to Consumer (B2C)
+Crunchbase,Personal Health,Healthcare
+Crunchbase,Personalization,Design & Consumer Experience
+Crunchbase,Personalization,Commerce and Shopping
+Crunchbase,Pet,Home
+Crunchbase,Pet,Community and Lifestyle
+Crunchbase,Pharmaceutical,Healthcare
+Crunchbase,Pharmaceutical,Pharma
+Crunchbase,Photo Editing,Content and Publishing
+Crunchbase,Photo Sharing,Content and Publishing
+Crunchbase,Photo Sharing,Media and Entertainment
+Crunchbase,Photography,Content and Publishing
+Crunchbase,Physical Security,Administrative Services
+Crunchbase,Physical Security,Privacy and Security
+Crunchbase,Plant-Based Foods,Food and Beverage
+Crunchbase,Plastics and Rubber Manufacturing,Manufacturing
+Crunchbase,Playstation,Media and Entertainment
+Crunchbase,Playstation,Consumer Electronics
+Crunchbase,Playstation,Hardware
+Crunchbase,Playstation,Platforms
+Crunchbase,Playstation,Gaming
+Crunchbase,Playstation,Business to Consumer (B2C)
+Crunchbase,Podcast,Media and Entertainment
+Crunchbase,Podcast,Music and Audio
+Crunchbase,Podcast,Business to Consumer (B2C)
+Crunchbase,Point of Sale,Technology
+Crunchbase,Point of Sale,Commerce and Shopping
+Crunchbase,Point of Sale,Point of Sale (PoS)
+Crunchbase,Politics,Government and Military
+Crunchbase,Pollution Control,Sustainability
+Crunchbase,Ports and Harbors,Logistics
+Crunchbase,Ports and Harbors,Transportation
+Crunchbase,Power Grid,Energy
+Crunchbase,Precious Metals,Natural Resources
+Crunchbase,Precision Medicine,Healthcare
+Crunchbase,Prediction Markets,Financial Services
+Crunchbase,Predictive Analytics,Technology
+Crunchbase,Predictive Analytics,Artificial Intelligence (AI)
+Crunchbase,Predictive Analytics,Data and Analytics
+Crunchbase,Predictive Analytics,Software
+Crunchbase,Prepaid Cards,Financial Services
+Crunchbase,Presentation Software,Technology
+Crunchbase,Presentation Software,Software
+Crunchbase,Presentations,Professional Services
+Crunchbase,Presentations,Software
+Crunchbase,Price Comparison,Media and Entertainment
+Crunchbase,Price Comparison,Commerce and Shopping
+Crunchbase,Primary and Urgent Care,Healthcare
+Crunchbase,Primary Education,Education
+Crunchbase,Printing,Technology
+Crunchbase,Printing,Content and Publishing
+Crunchbase,Printing,Media and Entertainment
+Crunchbase,Privacy,Technology
+Crunchbase,Privacy,Privacy and Security
+Crunchbase,Private Cloud,Technology
+Crunchbase,Private Cloud,Hardware
+Crunchbase,Private Cloud,Information Technology
+Crunchbase,Private Cloud,Internet Services
+Crunchbase,Private Cloud,Software
+Crunchbase,Private Social Networking,Media and Entertainment
+Crunchbase,Private Social Networking,Community and Lifestyle
+Crunchbase,Private Social Networking,Social Media
+Crunchbase,Procurement,Logistics
+Crunchbase,Procurement,Transportation
+Crunchbase,Product Design,Design & Consumer Experience
+Crunchbase,Product Management,Design & Consumer Experience
+Crunchbase,Product Research,Data and Analytics
+Crunchbase,Product Search,Internet Services
+Crunchbase,Productivity Tools,Software
+Crunchbase,Professional Networking,Community and Lifestyle
+Crunchbase,Professional Networking,Media and Entertainment
+Crunchbase,Professional Services,Professional Services
+Crunchbase,Project Management,Administrative Services
+Crunchbase,Property Development,Real Estate
+Crunchbase,Property Insurance,Financial Services
+Crunchbase,Property Insurance,Insurance
+Crunchbase,Property Management,Real Estate
+Crunchbase,PropTech,Real Estate
+Crunchbase,PropTech,Technology
+Crunchbase,Psychology,Healthcare
+Crunchbase,Public Relations,Sales and Marketing
+Crunchbase,Public Safety,Government and Military
+Crunchbase,Public Transportation,Transportation
+Crunchbase,Publishing,Content and Publishing
+Crunchbase,Publishing,Media and Entertainment
+Crunchbase,Q&A,Community and Lifestyle
+Crunchbase,QR Codes,Technology
+Crunchbase,QR Codes,Software
+Crunchbase,QR Codes,Mobile
+Crunchbase,Quality Assurance,Professional Services
+Crunchbase,Quantified Self,Technology
+Crunchbase,Quantified Self,Biotechnology
+Crunchbase,Quantified Self,Data and Analytics
+Crunchbase,Quantified Self,Internet of Things (IoT)
+Crunchbase,Quantum Computing,Technology
+Crunchbase,Quantum Computing,Science and Engineering
+Crunchbase,Racing,Sports
+Crunchbase,Railroad,Transportation
+Crunchbase,Reading Apps,Technology
+Crunchbase,Reading Apps,Apps
+Crunchbase,Reading Apps,Software
+Crunchbase,Reading Apps,Mobile
+Crunchbase,Reading Apps,Books and Magazines
+Crunchbase,Real Estate,Real Estate
+Crunchbase,Real Estate Brokerage,Real Estate
+Crunchbase,Real Estate Investment,Real Estate
+Crunchbase,Real Estate Investment,Lending and Investments
+Crunchbase,Real Time,Technology
+Crunchbase,Recipes,Food and Beverage
+Crunchbase,Recipes,Business to Consumer (B2C)
+Crunchbase,Recreation,Home
+Crunchbase,Recreation,Sports
+Crunchbase,Recreational Vehicles,Auto
+Crunchbase,Recreational Vehicles,Transportation
+Crunchbase,Recruiting,Professional Services
+Crunchbase,Recruiting,Staffing and Recruiting
+Crunchbase,Recruiting,Business to Business (B2B)
+Crunchbase,Recycling,Sustainability
+Crunchbase,Rehabilitation,Healthcare
+Crunchbase,Religion,Community and Lifestyle
+Crunchbase,Remote Sensing,Technology
+Crunchbase,Remote Sensing,Navigation and Mapping
+Crunchbase,Renewable Energy,Energy
+Crunchbase,Renewable Energy,Climate Tech
+Crunchbase,Renewable Energy,Sustainability
+Crunchbase,Rental,Real Estate
+Crunchbase,Rental,Commerce and Shopping
+Crunchbase,Rental Property,Real Estate
+Crunchbase,Reputation,Professional Services
+Crunchbase,Reservations,Travel and Tourism
+Crunchbase,Reservations,Events
+Crunchbase,Reservations,Media and Entertainment
+Crunchbase,Residential,Real Estate
+Crunchbase,Resorts,Travel and Tourism
+Crunchbase,Restaurants,Bars and Restaurants
+Crunchbase,Restaurants,Retail
+Crunchbase,Retail,Retail
+Crunchbase,Retail,Commerce and Shopping
+Crunchbase,Retail,Business to Consumer (B2C)
+Crunchbase,Retail Technology,Retail
+Crunchbase,Retail Technology,Commerce and Shopping
+Crunchbase,Retail Technology,Software
+Crunchbase,Retirement,Community and Lifestyle
+Crunchbase,RFID,Technology
+Crunchbase,RFID,Hardware
+Crunchbase,RFID,Navigation and Mapping
+Crunchbase,Ride Sharing,Sharing Economy
+Crunchbase,Ride Sharing,Transportation
+Crunchbase,Ride Sharing,Business to Consumer (B2C)
+Crunchbase,RISC,Technology
+Crunchbase,RISC,Hardware
+Crunchbase,Risk Management,Professional Services
+Crunchbase,Robotic Process Automation (RPA),Enterprise Software
+Crunchbase,Robotic Process Automation (RPA),Software
+Crunchbase,Robotic Process Automation (RPA),Artificial Intelligence (AI)
+Crunchbase,Robotic Process Automation (RPA),Logistics
+Crunchbase,Robotics,Artificial Intelligence (AI)
+Crunchbase,Robotics,Hardware
+Crunchbase,Robotics,Software
+Crunchbase,Robotics,Technology
+Crunchbase,Roku,Technology
+Crunchbase,Roku,Consumer Electronics
+Crunchbase,Roku,Hardware
+Crunchbase,Roku,Platforms
+Crunchbase,Roku,Smart TV
+Crunchbase,Rugby,Sports
+Crunchbase,SaaS,Software as a Service (SaaS)
+Crunchbase,SaaS,Software
+Crunchbase,Sailing,Sports
+Crunchbase,Sales,Sales and Marketing
+Crunchbase,Sales Automation,Sales and Marketing
+Crunchbase,Sales Automation,Information Technology
+Crunchbase,Sales Automation,Software
+Crunchbase,Sales Enablement,Sales and Marketing
+Crunchbase,Same Day Delivery,Logistics
+Crunchbase,Same Day Delivery,Transportation
+Crunchbase,Same Day Delivery,Business to Consumer (B2C)
+Crunchbase,Satellite Communication,Technology
+Crunchbase,Satellite Communication,Hardware
+Crunchbase,Satellite Communication,Messaging and Telecommunications
+Crunchbase,Scheduling,Information Technology
+Crunchbase,Scheduling,Software
+Crunchbase,Scheduling,Technology
+Crunchbase,Seafood,Food and Beverage
+Crunchbase,Search Engine,Internet Services
+Crunchbase,Search Engine,Technology
+Crunchbase,Secondary Education,Education
+Crunchbase,Secondhand Goods,Retail
+Crunchbase,Secondhand Goods,Business to Consumer (B2C)
+Crunchbase,Security,Technology
+Crunchbase,Security,Privacy and Security
+Crunchbase,Self-Storage,Real Estate
+Crunchbase,SEM,Sales and Marketing
+Crunchbase,SEM,Advertising
+Crunchbase,SEM,Internet Services
+Crunchbase,Semantic Search,Internet Services
+Crunchbase,Semantic Web,Internet Services
+Crunchbase,Semiconductor,Technology
+Crunchbase,Semiconductor,Hardware
+Crunchbase,Semiconductor,Science and Engineering
+Crunchbase,Semiconductor,Semiconductor
+Crunchbase,Sensor,Technology
+Crunchbase,Sensor,Hardware
+Crunchbase,SEO,Internet Services
+Crunchbase,SEO,Sales and Marketing
+Crunchbase,SEO,Content and Publishing
+Crunchbase,Serious Games,Media and Entertainment
+Crunchbase,Serious Games,Gaming
+Crunchbase,Serious Games,Business to Consumer (B2C)
+Crunchbase,Service Industry,Consumer Services
+Crunchbase,Sex Industry,Community and Lifestyle
+Crunchbase,Sex Tech,Community and Lifestyle
+Crunchbase,Sex Tech,Hardware
+Crunchbase,Sex Tech,Software
+Crunchbase,Sharing Economy,Sharing Economy
+Crunchbase,Sharing Economy,Business to Consumer (B2C)
+Crunchbase,Shipping,Logistics
+Crunchbase,Shipping,Transportation
+Crunchbase,Shipping Broker,Logistics
+Crunchbase,Shipping Broker,Transportation
+Crunchbase,Shoes,Apparel & Fashion
+Crunchbase,Shoes,Clothing and Apparel
+Crunchbase,Shoes,Consumer Products and CPG
+Crunchbase,Shoes,Business to Consumer (B2C)
+Crunchbase,Shopping,Retail
+Crunchbase,Shopping,Commerce and Shopping
+Crunchbase,Shopping,Business to Consumer (B2C)
+Crunchbase,Shopping Mall,Retail
+Crunchbase,Shopping Mall,Commerce and Shopping
+Crunchbase,Shopping Mall,Business to Consumer (B2C)
+Crunchbase,Simulation,Technology
+Crunchbase,Simulation,Software
+Crunchbase,Skiing,Sports
+Crunchbase,Skill Assessment,Education
+Crunchbase,Small and Medium Businesses,"Local, Small and Medium Business"
+Crunchbase,Smart Building,Real Estate
+Crunchbase,Smart Building,Technology
+Crunchbase,Smart Building,Internet of Things (IoT)
+Crunchbase,Smart Cities,Real Estate
+Crunchbase,Smart Cities,Technology
+Crunchbase,Smart Contracts,Financial Services
+Crunchbase,Smart Contracts,FinTech
+Crunchbase,Smart Home,Technology
+Crunchbase,Smart Home,Consumer Electronics
+Crunchbase,Smart Home,Real Estate
+Crunchbase,Smart Home,Internet of Things (IoT)
+Crunchbase,SMS,Technology
+Crunchbase,SMS,Internet Services
+Crunchbase,SMS,Messaging and Telecommunications
+Crunchbase,SMS,Mobile
+Crunchbase,Snack Food,Food and Beverage
+Crunchbase,Snack Food,Consumer Products and CPG
+Crunchbase,Snack Food,Business to Consumer (B2C)
+Crunchbase,SNS,Media and Entertainment
+Crunchbase,SNS,Software
+Crunchbase,SNS,Social Media
+Crunchbase,Soccer,Sports
+Crunchbase,Social,Community and Lifestyle
+Crunchbase,Social Assistance,Government and Military
+Crunchbase,Social Bookmarking,Content and Publishing
+Crunchbase,Social CRM,Information Technology
+Crunchbase,Social CRM,Sales and Marketing
+Crunchbase,Social CRM,Software
+Crunchbase,Social Entrepreneurship,Community and Lifestyle
+Crunchbase,Social Impact,Community and Lifestyle
+Crunchbase,Social Media,Media and Entertainment
+Crunchbase,Social Media,Social Media
+Crunchbase,Social Media,Business to Consumer (B2C)
+Crunchbase,Social Media Advertising,Advertising
+Crunchbase,Social Media Advertising,Sales and Marketing
+Crunchbase,Social Media Advertising,Social Media
+Crunchbase,Social Media Management,Internet Services
+Crunchbase,Social Media Management,Sales and Marketing
+Crunchbase,Social Media Management,Social Media
+Crunchbase,Social Media Marketing,Sales and Marketing
+Crunchbase,Social Media Marketing,Social Media
+Crunchbase,Social Network,Media and Entertainment
+Crunchbase,Social Network,Internet Services
+Crunchbase,Social Network,Social Media
+Crunchbase,Social News,Media and Entertainment
+Crunchbase,Social News,Social Media
+Crunchbase,Social Recruiting,Staffing and Recruiting
+Crunchbase,Social Recruiting,Professional Services
+Crunchbase,Social Recruiting,Social Media
+Crunchbase,Social Shopping,Retail
+Crunchbase,Social Shopping,Commerce and Shopping
+Crunchbase,Social Shopping,Social Media
+Crunchbase,Software,Technology
+Crunchbase,Software,Software
+Crunchbase,Software Engineering,Technology
+Crunchbase,Software Engineering,Science and Engineering
+Crunchbase,Software Engineering,Software
+Crunchbase,Solar,Energy
+Crunchbase,Solar,Natural Resources
+Crunchbase,Solar,Sustainability
+Crunchbase,Space Travel,Air and Space
+Crunchbase,Space Travel,Transportation
+Crunchbase,Spam Filtering,Technology
+Crunchbase,Spam Filtering,Information Technology
+Crunchbase,Special Education,Education
+Crunchbase,Speech Recognition,Artificial Intelligence (AI)
+Crunchbase,Speech Recognition,Data and Analytics
+Crunchbase,Speech Recognition,Software
+Crunchbase,Speech Recognition,Technology
+Crunchbase,Sponsorship,Sales and Marketing
+Crunchbase,Sporting Goods,Consumer Products and CPG
+Crunchbase,Sporting Goods,Commerce and Shopping
+Crunchbase,Sporting Goods,Sports
+Crunchbase,Sporting Goods,Business to Consumer (B2C)
+Crunchbase,Sports,Sports
+Crunchbase,Sports Leagues and Teams,Sports
+Crunchbase,Staffing Agency,Staffing and Recruiting
+Crunchbase,Staffing Agency,Administrative Services
+Crunchbase,STEM Education,Education
+Crunchbase,STEM Education,Science and Engineering
+Crunchbase,Stock Exchanges,Financial Services
+Crunchbase,Stock Exchanges,Lending and Investments
+Crunchbase,Subscription Service,Consumer Services
+Crunchbase,Subscription Service,Software as a Service (SaaS)
+Crunchbase,Supply Chain Management,Logistics
+Crunchbase,Supply Chain Management,Transportation
+Crunchbase,Surfing,Sports
+Crunchbase,Sustainability,Sustainability
+Crunchbase,Swimming,Sports
+Crunchbase,Table Tennis,Sports
+Crunchbase,Task Management,Software
+Crunchbase,Tax Consulting,Accounting
+Crunchbase,Tax Consulting,Administrative Services
+Crunchbase,Tax Preparation,Accounting
+Crunchbase,Tax Preparation,Administrative Services
+Crunchbase,Taxi Service,Transportation
+Crunchbase,Tea,Food and Beverage
+Crunchbase,Tea,Consumer Products and CPG
+Crunchbase,Tea,Business to Consumer (B2C)
+Crunchbase,Technical Support,Customer Support
+Crunchbase,Technical Support,Information Technology
+Crunchbase,Teenagers,Demographic
+Crunchbase,Teenagers,Community and Lifestyle
+Crunchbase,Telecommunications,Technology
+Crunchbase,Telecommunications,Hardware
+Crunchbase,Telecommunications,Messaging and Telecommunications
+Crunchbase,Telehealth,Healthcare
+Crunchbase,Telehealth,HealthTech
+Crunchbase,Tennis,Sports
+Crunchbase,Test and Measurement,Data and Analytics
+Crunchbase,Text Analytics,Artificial Intelligence (AI)
+Crunchbase,Text Analytics,Data and Analytics
+Crunchbase,Text Analytics,Software
+Crunchbase,Text Analytics,Technology
+Crunchbase,Textbook,Education
+Crunchbase,Textiles,Manufacturing
+Crunchbase,Theatre,Media and Entertainment
+Crunchbase,Therapeutics,Healthcare
+Crunchbase,Ticketing,Events
+Crunchbase,Ticketing,Media and Entertainment
+Crunchbase,Timber,Natural Resources
+Crunchbase,Timeshare,Real Estate
+Crunchbase,Timeshare,Travel and Tourism
+Crunchbase,Tobacco,Consumer Products and CPG
+Crunchbase,Tobacco,Food and Beverage
+Crunchbase,Tour Operator,Travel and Tourism
+Crunchbase,Tourism,Travel and Tourism
+Crunchbase,Toys,Consumer Products and CPG
+Crunchbase,Toys,Business to Consumer (B2C)
+Crunchbase,Trade Shows,Business to Business (B2B)
+Crunchbase,Trade Shows,Administrative Services
+Crunchbase,Trading Platform,Financial Services
+Crunchbase,Trading Platform,Lending and Investments
+Crunchbase,Trading Platform,FinTech
+Crunchbase,Trading Platform,Technology
+Crunchbase,Training,Education
+Crunchbase,Transaction Processing,Financial Services
+Crunchbase,Transaction Processing,Payments
+Crunchbase,Transaction Processing,Software
+Crunchbase,Translation Service,Professional Services
+Crunchbase,Transportation,Transportation
+Crunchbase,Travel,Travel and Tourism
+Crunchbase,Travel Accommodations,Travel and Tourism
+Crunchbase,Travel Agency,Travel and Tourism
+Crunchbase,Travel Agency,Business to Consumer (B2C)
+Crunchbase,Tutoring,Education
+Crunchbase,TV,Media and Entertainment
+Crunchbase,TV,Video
+Crunchbase,TV Production,Media and Entertainment
+Crunchbase,TV Production,Video
+Crunchbase,Twitter,Media and Entertainment
+Crunchbase,Twitter,Platforms
+Crunchbase,Twitter,Business to Consumer (B2C)
+Crunchbase,Twitter,Mobile
+Crunchbase,Ultimate Frisbee,Sports
+Crunchbase,Underserved Children,Advocacy & Interest
+Crunchbase,Unified Communications,Technology
+Crunchbase,Unified Communications,Information Technology
+Crunchbase,Unified Communications,Internet Services
+Crunchbase,Unified Communications,Messaging and Telecommunications
+Crunchbase,Universities,Higher Education
+Crunchbase,Usability Testing,Design & Consumer Experience
+Crunchbase,Usability Testing,Technology
+Crunchbase,Usability Testing,Software
+Crunchbase,UX Design,Design & Consumer Experience
+Crunchbase,UX Design,Technology
+Crunchbase,UX Design,Software
+Crunchbase,Vacation Rental,Travel and Tourism
+Crunchbase,Vending and Concessions,Bars and Restaurants
+Crunchbase,Vending and Concessions,Commerce and Shopping
+Crunchbase,Venture Capital,Financial Services
+Crunchbase,Venture Capital,Lending and Investments
+Crunchbase,Venture Capital,Venture Capital
+Crunchbase,Vertical Search,Internet Services
+Crunchbase,Veterinary,Healthcare
+Crunchbase,Veterinary,Home
+Crunchbase,Video,Media and Entertainment
+Crunchbase,Video,Video
+Crunchbase,Video Advertising,Media and Entertainment
+Crunchbase,Video Advertising,Advertising
+Crunchbase,Video Advertising,Sales and Marketing
+Crunchbase,Video Advertising,AdTech
+Crunchbase,Video Advertising,Technology
+Crunchbase,Video Chat,Technology
+Crunchbase,Video Chat,Information Technology
+Crunchbase,Video Chat,Internet Services
+Crunchbase,Video Chat,Messaging and Telecommunications
+Crunchbase,Video Conferencing,Technology
+Crunchbase,Video Conferencing,Hardware
+Crunchbase,Video Conferencing,Information Technology
+Crunchbase,Video Conferencing,Internet Services
+Crunchbase,Video Conferencing,Messaging and Telecommunications
+Crunchbase,Video Editing,Media and Entertainment
+Crunchbase,Video Editing,Content and Publishing
+Crunchbase,Video Editing,Technology
+Crunchbase,Video Games,Media and Entertainment
+Crunchbase,Video Games,Gaming
+Crunchbase,Video Games,Technology
+Crunchbase,Video on Demand,Media and Entertainment
+Crunchbase,Video on Demand,Video
+Crunchbase,Video on Demand,Technology
+Crunchbase,Video Streaming,Media and Entertainment
+Crunchbase,Video Streaming,Content and Publishing
+Crunchbase,Video Streaming,Video
+Crunchbase,Video Streaming,Technology
+Crunchbase,Virtual Assistant,Artificial Intelligence (AI)
+Crunchbase,Virtual Assistant,Software
+Crunchbase,Virtual Assistant,Technology
+Crunchbase,Virtual Currency,Metaverse
+Crunchbase,Virtual Currency,Financial Services
+Crunchbase,Virtual Currency,Payments
+Crunchbase,Virtual Currency,Software
+Crunchbase,Virtual Currency,Technology
+Crunchbase,Virtual Desktop,Technology
+Crunchbase,Virtual Desktop,Software
+Crunchbase,Virtual Goods,Metaverse
+Crunchbase,Virtual Goods,Commerce and Shopping
+Crunchbase,Virtual Goods,Software
+Crunchbase,Virtual Goods,Technology
+Crunchbase,Virtual Reality,Internet Services
+Crunchbase,Virtual Reality,Hardware
+Crunchbase,Virtual Reality,Software
+Crunchbase,Virtual Reality,Technology
+Crunchbase,Virtual Workforce,Remote Workforce
+Crunchbase,Virtual Workforce,Administrative Services
+Crunchbase,Virtual Workforce,Technology
+Crunchbase,Virtual World,Metaverse
+Crunchbase,Virtual World,Community and Lifestyle
+Crunchbase,Virtual World,Media and Entertainment
+Crunchbase,Virtual World,Software
+Crunchbase,Virtual World,Technology
+Crunchbase,Virtualization,Technology
+Crunchbase,Virtualization,Hardware
+Crunchbase,Virtualization,Information Technology
+Crunchbase,Virtualization,Software
+Crunchbase,Visual Search,Artificial Intelligence (AI)
+Crunchbase,Visual Search,Internet Services
+Crunchbase,Visual Search,Technology
+Crunchbase,Vocational Education,Education
+Crunchbase,VoIP,Technology
+Crunchbase,VoIP,Information Technology
+Crunchbase,VoIP,Internet Services
+Crunchbase,VoIP,Messaging and Telecommunications
+Crunchbase,Volley Ball,Sports
+Crunchbase,Warehouse Automation,Logistics
+Crunchbase,Warehousing,Real Estate
+Crunchbase,Warehousing,Transportation
+Crunchbase,Warehousing,Logistics
+Crunchbase,Waste Management,Waste Management and Remediation
+Crunchbase,Waste Management,Sustainability
+Crunchbase,Water,Food and Beverage
+Crunchbase,Water,Natural Resources
+Crunchbase,Water Purification,Utilities
+Crunchbase,Water Purification,Sustainability
+Crunchbase,Water Transportation,Transportation
+Crunchbase,Wealth Management,Financial Services
+Crunchbase,Wearables,Technology
+Crunchbase,Wearables,Consumer Electronics
+Crunchbase,Wearables,Hardware
+Crunchbase,Wearables,Internet of Things (IoT)
+Crunchbase,Wearables,Business to Consumer (B2C)
+Crunchbase,Wearables,Consumer Products and CPG
+Crunchbase,Web Apps,Internet Services
+Crunchbase,Web Apps,Apps
+Crunchbase,Web Apps,Software
+Crunchbase,Web Apps,Technology
+Crunchbase,Web Browsers,Internet Services
+Crunchbase,Web Browsers,Software
+Crunchbase,Web Browsers,Technology
+Crunchbase,Web Design,Internet Services
+Crunchbase,Web Design,Design & Consumer Experience
+Crunchbase,Web Design,Technology
+Crunchbase,Web Development,Internet Services
+Crunchbase,Web Development,Software
+Crunchbase,Web Development,Technology
+Crunchbase,Web Hosting,Internet Services
+Crunchbase,Web Hosting,Technology
+Crunchbase,Web3,Technology
+Crunchbase,Web3,Blockchain
+Crunchbase,WebOS,Technology
+Crunchbase,WebOS,Platforms
+Crunchbase,WebOS,Smart TV
+Crunchbase,Wedding,Home
+Crunchbase,Wedding,Community and Lifestyle
+Crunchbase,Wedding,Events
+Crunchbase,Wedding,Business to Consumer (B2C)
+Crunchbase,Wellness,"Wellness, Nutrition and Fitness"
+Crunchbase,Wholesale,Commerce and Shopping
+Crunchbase,Wholesale,Retail
+Crunchbase,Wholesale,Supplier
+Crunchbase,Wholesale,Business to Business (B2B)
+Crunchbase,Wildlife Conservation,Natural Resources
+Crunchbase,Wind Energy,Energy
+Crunchbase,Wind Energy,Natural Resources
+Crunchbase,Wind Energy,Sustainability
+Crunchbase,Windows,Manufacturing
+Crunchbase,Windows,"Architecture, Engineering, Construction"
+Crunchbase,Windows Phone,Technology
+Crunchbase,Windows Phone,Consumer Electronics
+Crunchbase,Windows Phone,Hardware
+Crunchbase,Windows Phone,Mobile
+Crunchbase,Windows Phone,Platforms
+Crunchbase,Wine And Spirits,Alcohol
+Crunchbase,Wine And Spirits,Food and Beverage
+Crunchbase,Winery,Alcohol
+Crunchbase,Winery,Food and Beverage
+Crunchbase,Wired Telecommunications,Technology
+Crunchbase,Wired Telecommunications,Messaging and Telecommunications
+Crunchbase,Wireless,Technology
+Crunchbase,Wireless,Hardware
+Crunchbase,Wireless,Mobile
+Crunchbase,Wireless,Messaging and Telecommunications
+Crunchbase,Women's,Demographic
+Crunchbase,Women's,Community and Lifestyle
+Crunchbase,Wood Processing,Manufacturing
+Crunchbase,Xbox,Media and Entertainment
+Crunchbase,Xbox,Consumer Electronics
+Crunchbase,Xbox,Hardware
+Crunchbase,Xbox,Platforms
+Crunchbase,Young Adults,Demographic
+Crunchbase,Young Adults,Community and Lifestyle
+Crunchbase (Investor),accelerator,Accelerator
+Crunchbase (Investor),angel,Angel Investor
+Crunchbase (Investor),angel_group,Angel Group
+Crunchbase (Investor),co_working_space,Co-Working Space
+Crunchbase (Investor),corporate_venture_capital,Corporate Venture Capital
+Crunchbase (Investor),entrepreneurship_program,Entrepreneurship Program
+Crunchbase (Investor),family_investment_office,Family Investment Office
+Crunchbase (Investor),fund_of_funds,Fund of Funds
+Crunchbase (Investor),government_office,Government Office
+Crunchbase (Investor),hedge_fund,Financial Services
+Crunchbase (Investor),hedge_fund,Lending and Investments
+Crunchbase (Investor),hedge_fund,Hedge Fund
+Crunchbase (Investor),incubator,Startups
+Crunchbase (Investor),incubator,Financial Services
+Crunchbase (Investor),incubator,Lending and Investments
+Crunchbase (Investor),investment_bank,Investment Bank
+Crunchbase (Investor),investment_partner,Investment Partnership
+Crunchbase (Investor),pension_funds,Pension Fund
+Crunchbase (Investor),private_equity_firm,Private Equity
+Crunchbase (Investor),secondary_purchaser,Secondary Purchaser
+Crunchbase (Investor),syndicate,Syndicate
+Crunchbase (Investor),venture_capital,Venture Capital
+Crunchbase (Investor),venture_debt,Venture Debt
+LinkedIn,Abrasives and Nonmetallic Minerals Manufacturing,Manufacturing
+LinkedIn,Abrasives and Nonmetallic Minerals Manufacturing,Industrials
+LinkedIn,Accessible Architecture and Design,"Architecture, Engineering, Construction"
+LinkedIn,Accessible Architecture and Design,Design & Consumer Experience
+LinkedIn,Accessible Hardware Manufacturing,Manufacturing
+LinkedIn,Accessible Hardware Manufacturing,Hardware
+LinkedIn,Accommodation Services,Travel and Tourism
+LinkedIn,Accounting,Accounting
+LinkedIn,Accounting,Financial Services
+LinkedIn,Administration of Justice,Government and Military
+LinkedIn,Administrative and Support Services,Administrative Services
+LinkedIn,Administrative and Support Services,Professional Services
+LinkedIn,Advertising Services,Advertising
+LinkedIn,Agricultural Chemical Manufacturing,Manufacturing
+LinkedIn,Agricultural Chemical Manufacturing,Agriculture and Farming
+LinkedIn,"Agriculture, Construction, Mining Machinery Manufacturing",Manufacturing
+LinkedIn,"Agriculture, Construction, Mining Machinery Manufacturing",Industrials
+LinkedIn,"Agriculture, Construction, Mining Machinery Manufacturing",Agriculture and Farming
+LinkedIn,"Air, Water, and Waste Program Management",Sustainability
+LinkedIn,"Air, Water, and Waste Program Management",Government and Military
+LinkedIn,Airlines and Aviation,Air and Space
+LinkedIn,Airlines and Aviation,Transportation
+LinkedIn,Airlines/Aviation,Air and Space
+LinkedIn,Airlines/Aviation,Transportation
+LinkedIn,Alternative Dispute Resolution,Professional Services
+LinkedIn,Alternative Dispute Resolution,Legal Services
+LinkedIn,Alternative Fuel Vehicle Manufacturing,Manufacturing
+LinkedIn,Alternative Fuel Vehicle Manufacturing,Electric Vehicles (EV)
+LinkedIn,Alternative Medicine,Healthcare
+LinkedIn,Alternative Medicine,"Wellness, Nutrition and Fitness"
+LinkedIn,Ambulance Services,Healthcare
+LinkedIn,Amusement Parks and Arcades,Media and Entertainment
+LinkedIn,Amusement Parks and Arcades,Travel and Tourism
+LinkedIn,Animal Feed Manufacturing,Manufacturing
+LinkedIn,Animal Feed Manufacturing,Agriculture and Farming
+LinkedIn,Animation,Media and Entertainment
+LinkedIn,Animation,Gaming
+LinkedIn,Animation and Post-production,Media and Entertainment
+LinkedIn,Animation and Post-production,Art & Culture
+LinkedIn,Apparel & Fashion,Apparel & Fashion
+LinkedIn,Apparel & Fashion,Retail
+LinkedIn,Apparel and Fashion,Apparel & Fashion
+LinkedIn,Apparel and Fashion,Retail
+LinkedIn,Apparel Manufacturing,Manufacturing
+LinkedIn,Apparel Manufacturing,Apparel & Fashion
+LinkedIn,"Appliances, Electrical, and Electronics Manufacturing",Manufacturing
+LinkedIn,"Appliances, Electrical, and Electronics Manufacturing",Hardware
+LinkedIn,Architectural and Structural Metal Manufacturing,Manufacturing
+LinkedIn,Architectural and Structural Metal Manufacturing,"Architecture, Engineering, Construction"
+LinkedIn,Architecture & Planning,"Architecture, Engineering, Construction"
+LinkedIn,Architecture & Planning,Design & Consumer Experience
+LinkedIn,Architecture and Planning,"Architecture, Engineering, Construction"
+LinkedIn,Architecture and Planning,Design & Consumer Experience
+LinkedIn,Armed Forces,Government and Military
+LinkedIn,Artificial Rubber and Synthetic Fiber Manufacturing,Manufacturing
+LinkedIn,Artificial Rubber and Synthetic Fiber Manufacturing,Industrials
+LinkedIn,Artists and Writers,Art & Culture
+LinkedIn,Artists and Writers,Content and Publishing
+LinkedIn,Arts & Crafts,Art & Culture
+LinkedIn,Arts & Crafts,Community and Lifestyle
+LinkedIn,Arts and Crafts,Art & Culture
+LinkedIn,Arts and Crafts,Community and Lifestyle
+LinkedIn,Audio and Video Equipment Manufacturing,Manufacturing
+LinkedIn,Audio and Video Equipment Manufacturing,Consumer Electronics
+LinkedIn,Automation Machinery Manufacturing,Manufacturing
+LinkedIn,Automation Machinery Manufacturing,Industrials
+LinkedIn,Automotive,Auto
+LinkedIn,Automotive,Transportation
+LinkedIn,Aviation & Aerospace,Air and Space
+LinkedIn,Aviation & Aerospace,Transportation
+LinkedIn,Aviation and Aerospace Component Manufacturing,Air and Space
+LinkedIn,Aviation and Aerospace Component Manufacturing,Manufacturing
+LinkedIn,Baked Goods Manufacturing,Manufacturing
+LinkedIn,Baked Goods Manufacturing,Food and Beverage
+LinkedIn,Banking,Financial Services
+LinkedIn,"Bars, Taverns, and Nightclubs",Bars and Restaurants
+LinkedIn,"Bars, Taverns, and Nightclubs",Food and Beverage
+LinkedIn,"Bed-and-Breakfasts, Hostels, Homestays",Travel and Tourism
+LinkedIn,Beverage Manufacturing,Manufacturing
+LinkedIn,Beverage Manufacturing,Food and Beverage
+LinkedIn,Biotechnology,Biotechnology
+LinkedIn,Biotechnology,HealthTech
+LinkedIn,Biotechnology Research,Biotechnology
+LinkedIn,Biotechnology Research,Science and Engineering
+LinkedIn,Blockchain Services,Blockchain
+LinkedIn,Blockchain Services,Information Technology
+LinkedIn,Blogs,Content and Publishing
+LinkedIn,Blogs,Media and Entertainment
+LinkedIn,"Boilers, Tanks, and Shipping Container Manufacturing",Manufacturing
+LinkedIn,"Boilers, Tanks, and Shipping Container Manufacturing",Industrials
+LinkedIn,Book and Periodical Publishing,Content and Publishing
+LinkedIn,Book and Periodical Publishing,Books and Magazines
+LinkedIn,Book Publishing,Content and Publishing
+LinkedIn,Book Publishing,Books and Magazines
+LinkedIn,Breweries,Alcohol
+LinkedIn,Breweries,Food and Beverage
+LinkedIn,Broadcast Media,Media and Entertainment
+LinkedIn,Broadcast Media,Content and Publishing
+LinkedIn,Broadcast Media Production and Distribution,Media and Entertainment
+LinkedIn,Broadcast Media Production and Distribution,Content and Publishing
+LinkedIn,Building Construction,"Architecture, Engineering, Construction"
+LinkedIn,Building Equipment Contractors,"Architecture, Engineering, Construction"
+LinkedIn,Building Finishing Contractors,"Architecture, Engineering, Construction"
+LinkedIn,Building Materials,Manufacturing
+LinkedIn,Building Materials,"Architecture, Engineering, Construction"
+LinkedIn,Building Structure and Exterior Contractors,"Architecture, Engineering, Construction"
+LinkedIn,Business Consulting and Services,Business Consulting
+LinkedIn,Business Consulting and Services,Professional Services
+LinkedIn,Business Content,Content and Publishing
+LinkedIn,Business Content,Business to Business (B2B)
+LinkedIn,Business Intelligence Platforms,Data and Analytics
+LinkedIn,Business Intelligence Platforms,Software
+LinkedIn,Business Supplies & Equipment,Business to Business (B2B)
+LinkedIn,Business Supplies & Equipment,Supplier
+LinkedIn,Business Supplies and Equipment,Business to Business (B2B)
+LinkedIn,Business Supplies and Equipment,Supplier
+LinkedIn,Cable and Satellite Programming,Media and Entertainment
+LinkedIn,Cable and Satellite Programming,Content and Publishing
+LinkedIn,Capital Markets,Lending and Investments
+LinkedIn,Capital Markets,Financial Services
+LinkedIn,Caterers,Food and Beverage
+LinkedIn,Caterers,Events
+LinkedIn,Chemical Manufacturing,Manufacturing
+LinkedIn,Chemical Manufacturing,Industrials
+LinkedIn,Chemical Raw Materials Manufacturing,Manufacturing
+LinkedIn,Chemical Raw Materials Manufacturing,Industrials
+LinkedIn,Chemicals,Industrials
+LinkedIn,Chemicals,Science and Engineering
+LinkedIn,Child Day Care Services,Consumer Services
+LinkedIn,Child Day Care Services,Education
+LinkedIn,Chiropractors,Healthcare
+LinkedIn,Chiropractors,"Wellness, Nutrition and Fitness"
+LinkedIn,Circuses and Magic Shows,Media and Entertainment
+LinkedIn,Circuses and Magic Shows,Art & Culture
+LinkedIn,Civic & Social Organization,Community and Lifestyle
+LinkedIn,Civic & Social Organization,Not-for-Profit
+LinkedIn,Civic and Social Organizations,Community and Lifestyle
+LinkedIn,Civic and Social Organizations,Not-for-Profit
+LinkedIn,Civil Engineering,"Architecture, Engineering, Construction"
+LinkedIn,Civil Engineering,Science and Engineering
+LinkedIn,"Claims Adjusting, Actuarial Services",Insurance
+LinkedIn,"Claims Adjusting, Actuarial Services",Financial Services
+LinkedIn,Clay and Refractory Products Manufacturing,Manufacturing
+LinkedIn,Clay and Refractory Products Manufacturing,Industrials
+LinkedIn,Climate Data and Analytics,Climate Tech
+LinkedIn,Climate Data and Analytics,Data and Analytics
+LinkedIn,Climate Technology Product Manufacturing,Manufacturing
+LinkedIn,Climate Technology Product Manufacturing,Climate Tech
+LinkedIn,Coal Mining,Natural Resources
+LinkedIn,Coal Mining,Energy
+LinkedIn,Collection Agencies,Financial Services
+LinkedIn,Commercial and Industrial Equipment Rental,Industrials
+LinkedIn,Commercial and Industrial Equipment Rental,Business to Business (B2B)
+LinkedIn,Commercial and Industrial Machinery Maintenance,Industrials
+LinkedIn,Commercial and Industrial Machinery Maintenance,Manufacturing
+LinkedIn,Commercial and Service Industry Machinery Manufacturing,Manufacturing
+LinkedIn,Commercial and Service Industry Machinery Manufacturing,Industrials
+LinkedIn,Commercial Real Estate,Real Estate
+LinkedIn,Commercial Real Estate,Business to Business (B2B)
+LinkedIn,Communications Equipment Manufacturing,Manufacturing
+LinkedIn,Communications Equipment Manufacturing,Messaging and Telecommunications
+LinkedIn,Community Development and Urban Planning,Government and Military
+LinkedIn,Community Development and Urban Planning,Real Estate
+LinkedIn,Community Services,Community and Lifestyle
+LinkedIn,Community Services,Not-for-Profit
+LinkedIn,Computer & Network Security,Privacy and Security
+LinkedIn,Computer & Network Security,Information Technology
+LinkedIn,Computer and Network Security,Privacy and Security
+LinkedIn,Computer and Network Security,Information Technology
+LinkedIn,Computer Games,Gaming
+LinkedIn,Computer Games,Software
+LinkedIn,Computer Hardware,Hardware
+LinkedIn,Computer Hardware,Information Technology
+LinkedIn,Computer Hardware Manufacturing,Hardware
+LinkedIn,Computer Hardware Manufacturing,Manufacturing
+LinkedIn,Computer Networking,Information Technology
+LinkedIn,Computer Networking,Internet Services
+LinkedIn,Computer Networking Products,Information Technology
+LinkedIn,Computer Networking Products,Hardware
+LinkedIn,Computer Software,Software
+LinkedIn,Computer Software,Information Technology
+LinkedIn,Computers and Electronics Manufacturing,Hardware
+LinkedIn,Computers and Electronics Manufacturing,Manufacturing
+LinkedIn,Conservation Programs,Sustainability
+LinkedIn,Conservation Programs,Not-for-Profit
+LinkedIn,Construction,"Architecture, Engineering, Construction"
+LinkedIn,Construction,Manufacturing
+LinkedIn,Construction Hardware Manufacturing,Manufacturing
+LinkedIn,Construction Hardware Manufacturing,"Architecture, Engineering, Construction"
+LinkedIn,Consumer Electronics,Consumer Electronics
+LinkedIn,Consumer Electronics,Hardware
+LinkedIn,Consumer Goods,Retail
+LinkedIn,Consumer Goods,Consumer Products and CPG
+LinkedIn,Consumer Goods Rental,Consumer Services
+LinkedIn,Consumer Goods Rental,Retail
+LinkedIn,Consumer Services,Consumer Services
+LinkedIn,Consumer Services,Business to Consumer (B2C)
+LinkedIn,Cosmetics,Consumer Products and CPG
+LinkedIn,Cosmetics,"Wellness, Nutrition and Fitness"
+LinkedIn,Cosmetology and Barber Schools,Education
+LinkedIn,Cosmetology and Barber Schools,Consumer Services
+LinkedIn,Courts of Law,Government and Military
+LinkedIn,Courts of Law,Legal Services
+LinkedIn,Credit Intermediation,Financial Services
+LinkedIn,Credit Intermediation,Lending and Investments
+LinkedIn,Cutlery and Handtool Manufacturing,Manufacturing
+LinkedIn,Cutlery and Handtool Manufacturing,Consumer Products and CPG
+LinkedIn,Dairy,Food and Beverage
+LinkedIn,Dairy,Agriculture and Farming
+LinkedIn,Dairy Product Manufacturing,Manufacturing
+LinkedIn,Dairy Product Manufacturing,Food and Beverage
+LinkedIn,Dance Companies,Art & Culture
+LinkedIn,Dance Companies,Media and Entertainment
+LinkedIn,Data Infrastructure and Analytics,Data and Analytics
+LinkedIn,Data Infrastructure and Analytics,Information Technology
+LinkedIn,Data Security Software Products,Privacy and Security
+LinkedIn,Data Security Software Products,Software
+LinkedIn,Death Care Services,Consumer Services
+LinkedIn,Defense & Space,Government and Military
+LinkedIn,Defense & Space,Air and Space
+LinkedIn,Defense and Space Manufacturing,Government and Military
+LinkedIn,Defense and Space Manufacturing,Air and Space
+LinkedIn,Defense and Space Manufacturing,Manufacturing
+LinkedIn,Dentists,Healthcare
+LinkedIn,Design,Design & Consumer Experience
+LinkedIn,Design,Art & Culture
+LinkedIn,Design Services,Design & Consumer Experience
+LinkedIn,Desktop Computing Software Products,Software
+LinkedIn,Digital Accessibility Services,Information Technology
+LinkedIn,Digital Accessibility Services,Professional Services
+LinkedIn,Distilleries,Alcohol
+LinkedIn,Distilleries,Food and Beverage
+LinkedIn,E-learning,EdTech
+LinkedIn,E-learning,Education
+LinkedIn,E-Learning,EdTech
+LinkedIn,E-Learning,Education
+LinkedIn,E-Learning Providers,EdTech
+LinkedIn,E-Learning Providers,Education
+LinkedIn,Economic Programs,Government and Military
+LinkedIn,Economic Programs,Financial Services
+LinkedIn,Education,Education
+LinkedIn,Education Administration Programs,Education
+LinkedIn,Education Management,Education
+LinkedIn,Electric Lighting Equipment Manufacturing,Manufacturing
+LinkedIn,Electric Lighting Equipment Manufacturing,Hardware
+LinkedIn,Electric Power Generation,Energy
+LinkedIn,Electric Power Generation,Utilities
+LinkedIn,"Electric Power Transmission, Control, and Distribution",Energy
+LinkedIn,"Electric Power Transmission, Control, and Distribution",Utilities
+LinkedIn,Electrical & Electronic Manufacturing,Manufacturing
+LinkedIn,Electrical & Electronic Manufacturing,Hardware
+LinkedIn,Electrical Equipment Manufacturing,Manufacturing
+LinkedIn,Electrical Equipment Manufacturing,Hardware
+LinkedIn,Electronic and Precision Equipment Maintenance,Industrials
+LinkedIn,Electronic and Precision Equipment Maintenance,Hardware
+LinkedIn,Embedded Software Products,Software
+LinkedIn,Embedded Software Products,Hardware
+LinkedIn,Emergency and Relief Services,Government and Military
+LinkedIn,Emergency and Relief Services,Not-for-Profit
+LinkedIn,Energy Technology,Energy
+LinkedIn,Energy Technology,Technology
+LinkedIn,Engineering Services,Manufacturing
+LinkedIn,Engineering Services,Science and Engineering
+LinkedIn,Engineering Services,Industrials
+LinkedIn,Engines and Power Transmission Equipment Manufacturing,Manufacturing
+LinkedIn,Engines and Power Transmission Equipment Manufacturing,Industrials
+LinkedIn,Entertainment,Media and Entertainment
+LinkedIn,Entertainment,Art & Culture
+LinkedIn,Entertainment Providers,Media and Entertainment
+LinkedIn,Entertainment Providers,Art & Culture
+LinkedIn,Environmental Quality Programs,Sustainability
+LinkedIn,Environmental Quality Programs,Government and Military
+LinkedIn,Environmental Services,Sustainability
+LinkedIn,Environmental Services,Waste Management and Remediation
+LinkedIn,Equipment Rental Services,Consumer Services
+LinkedIn,Equipment Rental Services,Industrials
+LinkedIn,Events Services,Events
+LinkedIn,Executive Office,Business Consulting
+LinkedIn,Executive Office,Administrative Services
+LinkedIn,Executive Offices,Business Consulting
+LinkedIn,Executive Offices,Administrative Services
+LinkedIn,Executive Search Services,Human Resources
+LinkedIn,Executive Search Services,Staffing and Recruiting
+LinkedIn,Fabricated Metal Products,Manufacturing
+LinkedIn,Fabricated Metal Products,Industrials
+LinkedIn,Facilities Services,Administrative Services
+LinkedIn,Facilities Services,Logistics
+LinkedIn,Farming,Agriculture and Farming
+LinkedIn,Farming,Natural Resources
+LinkedIn,"Farming, Ranching, Forestry",Agriculture and Farming
+LinkedIn,"Farming, Ranching, Forestry",Natural Resources
+LinkedIn,Fashion Accessories Manufacturing,Manufacturing
+LinkedIn,Fashion Accessories Manufacturing,Apparel & Fashion
+LinkedIn,Financial Services,Financial Services
+LinkedIn,Fine Art,Art & Culture
+LinkedIn,Fine Art,Media and Entertainment
+LinkedIn,Fine Arts Schools,Education
+LinkedIn,Fine Arts Schools,Art & Culture
+LinkedIn,Fire Protection,Government and Military
+LinkedIn,Fire Protection,Consumer Services
+LinkedIn,Fisheries,Agriculture and Farming
+LinkedIn,Fisheries,Natural Resources
+LinkedIn,Fishery,Agriculture and Farming
+LinkedIn,Fishery,Natural Resources
+LinkedIn,Flight Training,Education
+LinkedIn,Flight Training,Air and Space
+LinkedIn,Food & Beverages,Food and Beverage
+LinkedIn,Food & Beverages,Consumer Products and CPG
+LinkedIn,Food and Beverage Manufacturing,Food and Beverage
+LinkedIn,Food and Beverage Manufacturing,Manufacturing
+LinkedIn,Food and Beverage Retail,Retail
+LinkedIn,Food and Beverage Retail,Food and Beverage
+LinkedIn,Food and Beverage Services,Food and Beverage
+LinkedIn,Food and Beverage Services,Bars and Restaurants
+LinkedIn,Food Production,Food and Beverage
+LinkedIn,Food Production,Agriculture and Farming
+LinkedIn,Footwear and Leather Goods Repair,Consumer Services
+LinkedIn,Footwear and Leather Goods Repair,Apparel & Fashion
+LinkedIn,Footwear Manufacturing,Manufacturing
+LinkedIn,Footwear Manufacturing,Apparel & Fashion
+LinkedIn,Forestry and Logging,Natural Resources
+LinkedIn,Forestry and Logging,Agriculture and Farming
+LinkedIn,Fossil Fuel Electric Power Generation,Energy
+LinkedIn,Fossil Fuel Electric Power Generation,Petroleum and Coal
+LinkedIn,Freight and Package Transportation,Logistics
+LinkedIn,Freight and Package Transportation,Transportation
+LinkedIn,Fuel Cell Manufacturing,Manufacturing
+LinkedIn,Fuel Cell Manufacturing,Energy
+LinkedIn,Fundraising,Not-for-Profit
+LinkedIn,Fundraising,Financial Services
+LinkedIn,Funds and Trusts,Financial Services
+LinkedIn,Funds and Trusts,Lending and Investments
+LinkedIn,Funeral Services,Consumer Services
+LinkedIn,Furniture,Home
+LinkedIn,Furniture,Manufacturing
+LinkedIn,Furniture and Home Furnishings Manufacturing,Manufacturing
+LinkedIn,Furniture and Home Furnishings Manufacturing,Home
+LinkedIn,Gambling & Casinos,Gaming
+LinkedIn,Gambling Facilities and Casinos,Gaming
+LinkedIn,Geothermal Electric Power Generation,Energy
+LinkedIn,Geothermal Electric Power Generation,Sustainability
+LinkedIn,Glass Product Manufacturing,Manufacturing
+LinkedIn,Glass Product Manufacturing,Industrials
+LinkedIn,"Glass, Ceramics & Concrete",Manufacturing
+LinkedIn,"Glass, Ceramics & Concrete",Industrials
+LinkedIn,"Glass, Ceramics and Concrete Manufacturing",Manufacturing
+LinkedIn,"Glass, Ceramics and Concrete Manufacturing",Industrials
+LinkedIn,Golf Courses and Country Clubs,Sports
+LinkedIn,Golf Courses and Country Clubs,Community and Lifestyle
+LinkedIn,Government Administration,Government and Military
+LinkedIn,Government Relations,Government and Military
+LinkedIn,Government Relations,Advocacy & Interest
+LinkedIn,Government Relations Services,Government and Military
+LinkedIn,Government Relations Services,Advocacy & Interest
+LinkedIn,Graphic Design,Design & Consumer Experience
+LinkedIn,Graphic Design,Art & Culture
+LinkedIn,Ground Passenger Transportation,Transportation
+LinkedIn,Health and Human Services,Healthcare
+LinkedIn,"Health, Wellness & Fitness","Wellness, Nutrition and Fitness"
+LinkedIn,"Health, Wellness and Fitness","Wellness, Nutrition and Fitness"
+LinkedIn,Higher Education,Higher Education
+LinkedIn,Higher Education,Education
+LinkedIn,"Highway, Street, and Bridge Construction","Architecture, Engineering, Construction"
+LinkedIn,Historical Sites,Art & Culture
+LinkedIn,Historical Sites,Travel and Tourism
+LinkedIn,Holding Companies,Financial Services
+LinkedIn,Holding Companies,Lending and Investments
+LinkedIn,Home Health Care Services,Healthcare
+LinkedIn,Home Health Care Services,Consumer Services
+LinkedIn,Horticulture,Agriculture and Farming
+LinkedIn,Horticulture,Natural Resources
+LinkedIn,Hospital & Health Care,Healthcare
+LinkedIn,Hospital & Health Care,Hospitals
+LinkedIn,Hospitality,Travel and Tourism
+LinkedIn,Hospitality,Commerce and Shopping
+LinkedIn,Hospitals,Hospitals
+LinkedIn,Hospitals,Healthcare
+LinkedIn,Hospitals and Health Care,Healthcare
+LinkedIn,Hospitals and Health Care,Hospitals
+LinkedIn,Hotels and Motels,Travel and Tourism
+LinkedIn,Household and Institutional Furniture Manufacturing,Manufacturing
+LinkedIn,Household and Institutional Furniture Manufacturing,Home
+LinkedIn,Household Appliance Manufacturing,Manufacturing
+LinkedIn,Household Appliance Manufacturing,Consumer Electronics
+LinkedIn,Household Services,Consumer Services
+LinkedIn,Household Services,Home
+LinkedIn,Housing and Community Development,Real Estate
+LinkedIn,Housing and Community Development,Government and Military
+LinkedIn,Housing Programs,Government and Military
+LinkedIn,Housing Programs,Real Estate
+LinkedIn,Human Resources,Human Resources
+LinkedIn,Human Resources Services,Human Resources
+LinkedIn,Human Resources Services,Staffing and Recruiting
+LinkedIn,HVAC and Refrigeration Equipment Manufacturing,Manufacturing
+LinkedIn,HVAC and Refrigeration Equipment Manufacturing,Industrials
+LinkedIn,Hydroelectric Power Generation,Energy
+LinkedIn,Hydroelectric Power Generation,Sustainability
+LinkedIn,Import & Export,Logistics
+LinkedIn,Import & Export,Business to Business (B2B)
+LinkedIn,Import and Export,Logistics
+LinkedIn,Import and Export,Business to Business (B2B)
+LinkedIn,Individual & Family Services,Advocacy & Interest
+LinkedIn,Individual & Family Services,Healthcare
+LinkedIn,Individual and Family Services,Advocacy & Interest
+LinkedIn,Individual and Family Services,Healthcare
+LinkedIn,Industrial Automation,Industrials
+LinkedIn,Industrial Automation,Technology
+LinkedIn,Industrial Machinery Manufacturing,Manufacturing
+LinkedIn,Industrial Machinery Manufacturing,Industrials
+LinkedIn,Industry Associations,Advocacy & Interest
+LinkedIn,Industry Associations,Not-for-Profit
+LinkedIn,Information Services,Information Technology
+LinkedIn,Information Services,Data and Analytics
+LinkedIn,Information Technology & Services,Information Technology
+LinkedIn,Information Technology & Services,Professional Services
+LinkedIn,Information Technology & Services,Software
+LinkedIn,Information Technology and Services,Information Technology
+LinkedIn,Information Technology and Services,Software
+LinkedIn,Insurance,Insurance
+LinkedIn,Insurance Agencies and Brokerages,Insurance
+LinkedIn,Insurance Agencies and Brokerages,Financial Services
+LinkedIn,Insurance and Employee Benefit Funds,Insurance
+LinkedIn,Insurance and Employee Benefit Funds,Financial Services
+LinkedIn,Insurance Carriers,Insurance
+LinkedIn,Interior Design,Design & Consumer Experience
+LinkedIn,Interior Design,Home
+LinkedIn,International Affairs,Government and Military
+LinkedIn,International Affairs,Advocacy & Interest
+LinkedIn,International Trade & Development,Logistics
+LinkedIn,International Trade & Development,Business Consulting
+LinkedIn,International Trade and Development,Logistics
+LinkedIn,International Trade and Development,Business Consulting
+LinkedIn,Internet,Internet Services
+LinkedIn,Internet,Technology
+LinkedIn,Internet Marketplace Platforms,Marketplace
+LinkedIn,Internet Marketplace Platforms,Internet Services
+LinkedIn,Internet Marketplace Platforms,e-commerce
+LinkedIn,Internet News,Media and Entertainment
+LinkedIn,Internet News,Content and Publishing
+LinkedIn,Internet Publishing,Content and Publishing
+LinkedIn,Internet Publishing,Media and Entertainment
+LinkedIn,Investment Advice,Lending and Investments
+LinkedIn,Investment Advice,Financial Services
+LinkedIn,Investment Banking,Lending and Investments
+LinkedIn,Investment Banking,Financial Services
+LinkedIn,Investment Banking/Venture,Lending and Investments
+LinkedIn,Investment Banking/Venture,Angel and Venture Capital (VC)
+LinkedIn,Investment Banking/Venture,Financial Services
+LinkedIn,Investment Management,Lending and Investments
+LinkedIn,Investment Management,Financial Services
+LinkedIn,IT Services and IT Consulting,Information Technology
+LinkedIn,IT Services and IT Consulting,Professional Services
+LinkedIn,IT Services and IT Consulting,Software
+LinkedIn,IT System Custom Software Development,Information Technology
+LinkedIn,IT System Custom Software Development,Software
+LinkedIn,IT System Data Services,Information Technology
+LinkedIn,IT System Data Services,Data and Analytics
+LinkedIn,IT System Design Services,Information Technology
+LinkedIn,IT System Design Services,Software
+LinkedIn,IT System Operations and Maintenance,Information Technology
+LinkedIn,IT System Operations and Maintenance,Software
+LinkedIn,IT System Testing and Evaluation,Information Technology
+LinkedIn,IT System Testing and Evaluation,Software
+LinkedIn,IT System Training and Support,Information Technology
+LinkedIn,IT System Training and Support,Education
+LinkedIn,Janitorial Services,Consumer Services
+LinkedIn,Janitorial Services,Administrative Services
+LinkedIn,Judiciary,Government and Military
+LinkedIn,Landscaping Services,Consumer Services
+LinkedIn,Landscaping Services,Home
+LinkedIn,Language Schools,Education
+LinkedIn,Laundry and Drycleaning Services,Consumer Services
+LinkedIn,Law Enforcement,Government and Military
+LinkedIn,Law Enforcement,Privacy and Security
+LinkedIn,Law Practice,Professional Services
+LinkedIn,Law Practice,Legal Services
+LinkedIn,Leasing Non-residential Real Estate,Real Estate
+LinkedIn,Leasing Non-residential Real Estate,Business to Business (B2B)
+LinkedIn,Leasing Residential Real Estate,Real Estate
+LinkedIn,Leather Product Manufacturing,Manufacturing
+LinkedIn,Leather Product Manufacturing,Apparel & Fashion
+LinkedIn,Legal Services,Professional Services
+LinkedIn,Legal Services,Legal Services
+LinkedIn,Legislative Office,Government and Military
+LinkedIn,Legislative Office,Advocacy & Interest
+LinkedIn,Legislative Offices,Government and Military
+LinkedIn,Legislative Offices,Advocacy & Interest
+LinkedIn,Leisure & Travel,Travel and Tourism
+LinkedIn,Leisure & Travel,Community and Lifestyle
+LinkedIn,"Leisure, Travel & Tourism",Travel and Tourism
+LinkedIn,"Leisure, Travel & Tourism",Community and Lifestyle
+LinkedIn,Libraries,Education
+LinkedIn,Libraries,Content and Publishing
+LinkedIn,Loan Brokers,Financial Services
+LinkedIn,Loan Brokers,Lending and Investments
+LinkedIn,Logistics & Supply Chain,Logistics
+LinkedIn,Logistics & Supply Chain,Transportation
+LinkedIn,Luxury Goods & Jewelry,Retail
+LinkedIn,Luxury Goods & Jewelry,Consumer Products and CPG
+LinkedIn,Luxury Goods and Jewelry,Retail
+LinkedIn,Luxury Goods and Jewelry,Consumer Products and CPG
+LinkedIn,Machinery,Manufacturing
+LinkedIn,Machinery,Industrials
+LinkedIn,Machinery Manufacturing,Manufacturing
+LinkedIn,Machinery Manufacturing,Industrials
+LinkedIn,Management Consulting,Business Consulting
+LinkedIn,Management Consulting,Administrative Services
+LinkedIn,Manufacturing,Manufacturing
+LinkedIn,Maritime,Transportation
+LinkedIn,Maritime,Logistics
+LinkedIn,Maritime Transportation,Transportation
+LinkedIn,Maritime Transportation,Logistics
+LinkedIn,Market Research,Data and Analytics
+LinkedIn,Market Research,Marketing
+LinkedIn,Marketing & Advertising,Marketing
+LinkedIn,Marketing & Advertising,Advertising
+LinkedIn,Marketing and Advertising,Marketing
+LinkedIn,Marketing and Advertising,Advertising
+LinkedIn,Marketing Services,Marketing
+LinkedIn,Marketing Services,Professional Services
+LinkedIn,Mattress and Blinds Manufacturing,Manufacturing
+LinkedIn,Mattress and Blinds Manufacturing,Home
+LinkedIn,Measuring and Control Instrument Manufacturing,Manufacturing
+LinkedIn,Measuring and Control Instrument Manufacturing,Science and Engineering
+LinkedIn,Meat Products Manufacturing,Manufacturing
+LinkedIn,Meat Products Manufacturing,Food and Beverage
+LinkedIn,Mechanical or Industrial Engineering,Industrials
+LinkedIn,Mechanical or Industrial Engineering,"Architecture, Engineering, Construction"
+LinkedIn,Media & Telecommunications,Media and Entertainment
+LinkedIn,Media & Telecommunications,Messaging and Telecommunications
+LinkedIn,Media Production,Media and Entertainment
+LinkedIn,Media Production,Content and Publishing
+LinkedIn,Medical and Diagnostic Laboratories,Healthcare
+LinkedIn,Medical and Diagnostic Laboratories,Diagnostics
+LinkedIn,Medical Device,Healthcare
+LinkedIn,Medical Device,Biotechnology
+LinkedIn,Medical Devices,Healthcare
+LinkedIn,Medical Devices,Biotechnology
+LinkedIn,Medical Equipment Manufacturing,Healthcare
+LinkedIn,Medical Equipment Manufacturing,Manufacturing
+LinkedIn,Medical Practice,Healthcare
+LinkedIn,Medical Practice,Hospitals
+LinkedIn,Medical Practices,Healthcare
+LinkedIn,Medical Practices,Hospitals
+LinkedIn,Mental Health Care,Healthcare
+LinkedIn,Metal Ore Mining,Natural Resources
+LinkedIn,Metal Ore Mining,Industrials
+LinkedIn,Metal Treatments,Manufacturing
+LinkedIn,Metal Treatments,Industrials
+LinkedIn,"Metal Valve, Ball, and Roller Manufacturing",Manufacturing
+LinkedIn,"Metal Valve, Ball, and Roller Manufacturing",Industrials
+LinkedIn,Metalworking Machinery Manufacturing,Manufacturing
+LinkedIn,Metalworking Machinery Manufacturing,Industrials
+LinkedIn,Military,Government and Military
+LinkedIn,Military,Air and Space
+LinkedIn,Military and International Affairs,Government and Military
+LinkedIn,Mining,Natural Resources
+LinkedIn,Mining,Industrials
+LinkedIn,Mining & Metals,Natural Resources
+LinkedIn,Mining & Metals,Industrials
+LinkedIn,Mobile Computing Software Products,Software
+LinkedIn,Mobile Computing Software Products,Mobile
+LinkedIn,Mobile Food Services,Food and Beverage
+LinkedIn,Mobile Food Services,Bars and Restaurants
+LinkedIn,Mobile Gaming Apps,Gaming
+LinkedIn,Mobile Gaming Apps,Mobile
+LinkedIn,Motion Pictures & Film,Media and Entertainment
+LinkedIn,Motion Pictures & Film,Art & Culture
+LinkedIn,Motor Vehicle Manufacturing,Auto
+LinkedIn,Motor Vehicle Manufacturing,Manufacturing
+LinkedIn,Motor Vehicle Parts Manufacturing,Manufacturing
+LinkedIn,Motor Vehicle Parts Manufacturing,Auto
+LinkedIn,Movies and Sound Recording,Media and Entertainment
+LinkedIn,Movies and Sound Recording,Art & Culture
+LinkedIn,"Movies, Videos and Sound",Media and Entertainment
+LinkedIn,"Movies, Videos and Sound",Art & Culture
+LinkedIn,Museums,Art & Culture
+LinkedIn,Museums,Travel and Tourism
+LinkedIn,Museums,Not-for-Profit
+LinkedIn,Museums & Institutions,Art & Culture
+LinkedIn,Museums & Institutions,Higher Education
+LinkedIn,Museums & Institutions,Travel and Tourism
+LinkedIn,Museums & Institutions,Not-for-Profit
+LinkedIn,"Museums, Historical Sites, and Zoos",Art & Culture
+LinkedIn,"Museums, Historical Sites, and Zoos",Travel and Tourism
+LinkedIn,"Museums, Historical Sites, and Zoos",Not-for-Profit
+LinkedIn,Music,Music and Audio
+LinkedIn,Music,Media and Entertainment
+LinkedIn,Musicians,Music and Audio
+LinkedIn,Musicians,Media and Entertainment
+LinkedIn,Nanotechnology,Science and Engineering
+LinkedIn,Nanotechnology,Technology
+LinkedIn,Nanotechnology Research,Science and Engineering
+LinkedIn,Nanotechnology Research,Technology
+LinkedIn,Natural Gas Distribution,Energy
+LinkedIn,Natural Gas Distribution,Utilities
+LinkedIn,Natural Gas Extraction,Energy
+LinkedIn,Natural Gas Extraction,Natural Resources
+LinkedIn,Newspaper Publishing,Media and Entertainment
+LinkedIn,Newspaper Publishing,Content and Publishing
+LinkedIn,Newspapers,Media and Entertainment
+LinkedIn,Newspapers,Content and Publishing
+LinkedIn,Non-profit Organization Management,Not-for-Profit
+LinkedIn,Non-profit Organization Management,Business Consulting
+LinkedIn,Non-profit Organizations,Not-for-Profit
+LinkedIn,Nonmetallic Mineral Mining,Natural Resources
+LinkedIn,Nonmetallic Mineral Mining,Industrials
+LinkedIn,Nonprofit Organization Management,Not-for-Profit
+LinkedIn,Nonprofit Organization Management,Business Consulting
+LinkedIn,Nonresidential Building Construction,"Architecture, Engineering, Construction"
+LinkedIn,Nuclear Electric Power Generation,Energy
+LinkedIn,Nuclear Electric Power Generation,Utilities
+LinkedIn,Nursing Homes and Residential Care Facilities,Healthcare
+LinkedIn,Nursing Homes and Residential Care Facilities,Consumer Services
+LinkedIn,Office Administration,Administrative Services
+LinkedIn,Office Furniture and Fixtures Manufacturing,Manufacturing
+LinkedIn,Office Furniture and Fixtures Manufacturing,Home
+LinkedIn,Oil & Energy,Energy
+LinkedIn,Oil & Energy,Petroleum and Coal
+LinkedIn,Oil and Gas,Energy
+LinkedIn,Oil and Gas,Petroleum and Coal
+LinkedIn,Oil Extraction,Petroleum and Coal
+LinkedIn,Oil Extraction,Energy
+LinkedIn,"Oil, Gas, and Mining",Energy
+LinkedIn,"Oil, Gas, and Mining",Petroleum and Coal
+LinkedIn,"Oil, Gas, and Mining",Natural Resources
+LinkedIn,Online and Mail Order Retail,Retail
+LinkedIn,Online and Mail Order Retail,e-commerce
+LinkedIn,Online Audio and Video Media,Media and Entertainment
+LinkedIn,Online Audio and Video Media,Content and Publishing
+LinkedIn,Online Media,Media and Entertainment
+LinkedIn,Online Media,Content and Publishing
+LinkedIn,Online Publishing,Content and Publishing
+LinkedIn,Online Publishing,Media and Entertainment
+LinkedIn,Operations Consulting,Business Consulting
+LinkedIn,Operations Consulting,Professional Services
+LinkedIn,Optometrists,Healthcare
+LinkedIn,Outpatient Care Centers,Healthcare
+LinkedIn,Outpatient Care Centers,Hospitals
+LinkedIn,Outsourcing and Offshoring Consulting,Administrative Services
+LinkedIn,Outsourcing and Offshoring Consulting,Business Consulting
+LinkedIn,Outsourcing/Offshoring,Administrative Services
+LinkedIn,Outsourcing/Offshoring,Business Consulting
+LinkedIn,Package/Freight Delivery,Logistics
+LinkedIn,Package/Freight Delivery,Transportation
+LinkedIn,Packaging & Containers,Consumer Products and CPG
+LinkedIn,Packaging & Containers,Manufacturing
+LinkedIn,Packaging and Containers,Manufacturing
+LinkedIn,Packaging and Containers,Consumer Products and CPG
+LinkedIn,Packaging and Containers Manufacturing,Manufacturing
+LinkedIn,Packaging and Containers Manufacturing,Consumer Products and CPG
+LinkedIn,"Paint, Coating, and Adhesive Manufacturing",Manufacturing
+LinkedIn,"Paint, Coating, and Adhesive Manufacturing",Industrials
+LinkedIn,Paper & Forest Products,Natural Resources
+LinkedIn,Paper & Forest Products,Manufacturing
+LinkedIn,Paper and Forest Product Manufacturing,Manufacturing
+LinkedIn,Paper and Forest Product Manufacturing,Natural Resources
+LinkedIn,Paper and Forest Products,Natural Resources
+LinkedIn,Paper and Forest Products,Manufacturing
+LinkedIn,Parts Distribution,Logistics
+LinkedIn,Parts Distribution,Business to Business (B2B)
+LinkedIn,Pension Funds,Financial Services
+LinkedIn,Pension Funds,Lending and Investments
+LinkedIn,Performing Arts,Art & Culture
+LinkedIn,Performing Arts,Media and Entertainment
+LinkedIn,Performing Arts and Spectator Sports,Art & Culture
+LinkedIn,Performing Arts and Spectator Sports,Media and Entertainment
+LinkedIn,Periodical Publishing,Content and Publishing
+LinkedIn,Periodical Publishing,Books and Magazines
+LinkedIn,Personal and Laundry Services,Consumer Services
+LinkedIn,Personal Care Product Manufacturing,Manufacturing
+LinkedIn,Personal Care Product Manufacturing,Consumer Products and CPG
+LinkedIn,Personal Care Services,Consumer Services
+LinkedIn,Personal Care Services,"Wellness, Nutrition and Fitness"
+LinkedIn,Pet Services,Consumer Services
+LinkedIn,Pharmaceutical Manufacturing,Pharma
+LinkedIn,Pharmaceutical Manufacturing,Manufacturing
+LinkedIn,Pharmaceuticals,Pharma
+LinkedIn,Philanthropic Fundraising Services,Not-for-Profit
+LinkedIn,Philanthropic Fundraising Services,Advocacy & Interest
+LinkedIn,Philanthropy,Not-for-Profit
+LinkedIn,Philanthropy,Advocacy & Interest
+LinkedIn,Photography,Art & Culture
+LinkedIn,"Physical, Occupational and Speech Therapists",Healthcare
+LinkedIn,"Physical, Occupational and Speech Therapists","Wellness, Nutrition and Fitness"
+LinkedIn,Physicians,Healthcare
+LinkedIn,Plastics,Manufacturing
+LinkedIn,Plastics,Industrials
+LinkedIn,Plastics and Rubber Product Manufacturing,Manufacturing
+LinkedIn,Plastics and Rubber Product Manufacturing,Industrials
+LinkedIn,Plastics Manufacturing,Manufacturing
+LinkedIn,Plastics Manufacturing,Industrials
+LinkedIn,Political Organization,Advocacy & Interest
+LinkedIn,Political Organization,Government and Military
+LinkedIn,Political Organizations,Advocacy & Interest
+LinkedIn,Political Organizations,Government and Military
+LinkedIn,Primary and Secondary Education,Education
+LinkedIn,Primary Metal Manufacturing,Manufacturing
+LinkedIn,Primary Metal Manufacturing,Industrials
+LinkedIn,Primary/Secondary,Education
+LinkedIn,Printing,Books and Magazines
+LinkedIn,Printing,Manufacturing
+LinkedIn,Printing Services,Books and Magazines
+LinkedIn,Printing Services,Manufacturing
+LinkedIn,Professional Organizations,Advocacy & Interest
+LinkedIn,Professional Organizations,Professional Services
+LinkedIn,Professional Services,Professional Services
+LinkedIn,Professional Training,Education
+LinkedIn,Professional Training and Coaching,Education
+LinkedIn,Program Development,Software
+LinkedIn,Program Development,Information Technology
+LinkedIn,Public Assistance Programs,Government and Military
+LinkedIn,Public Assistance Programs,Not-for-Profit
+LinkedIn,Public Health,Healthcare
+LinkedIn,Public Health,Government and Military
+LinkedIn,Public Policy,Advocacy & Interest
+LinkedIn,Public Policy,Government and Military
+LinkedIn,Public Policy Offices,Advocacy & Interest
+LinkedIn,Public Policy Offices,Government and Military
+LinkedIn,Public Relations,Marketing
+LinkedIn,Public Relations,Professional Services
+LinkedIn,Public Relations and Communications Services,Marketing
+LinkedIn,Public Relations and Communications Services,Professional Services
+LinkedIn,Public Safety,Government and Military
+LinkedIn,Public Safety,Privacy and Security
+LinkedIn,Publishing,Content and Publishing
+LinkedIn,Publishing,Media and Entertainment
+LinkedIn,Racetracks,Sports
+LinkedIn,Racetracks,Media and Entertainment
+LinkedIn,Radio and Television Broadcasting,Media and Entertainment
+LinkedIn,Radio and Television Broadcasting,Content and Publishing
+LinkedIn,Rail Transportation,Transportation
+LinkedIn,Rail Transportation,Logistics
+LinkedIn,Railroad Equipment Manufacturing,Manufacturing
+LinkedIn,Railroad Equipment Manufacturing,Transportation
+LinkedIn,Railroad Manufacture,Manufacturing
+LinkedIn,Railroad Manufacture,Transportation
+LinkedIn,Ranching,Agriculture and Farming
+LinkedIn,Ranching,Natural Resources
+LinkedIn,Real Estate,Real Estate
+LinkedIn,Real Estate Agents and Brokers,Real Estate
+LinkedIn,Real Estate and Equipment Rental Services,Real Estate
+LinkedIn,Real Estate and Equipment Rental Services,Consumer Services
+LinkedIn,Recreational Facilities,Travel and Tourism
+LinkedIn,Recreational Facilities,Community and Lifestyle
+LinkedIn,Recreational Facilities & Services,Travel and Tourism
+LinkedIn,Recreational Facilities & Services,Community and Lifestyle
+LinkedIn,Regenerative Design,Sustainability
+LinkedIn,Regenerative Design,Design & Consumer Experience
+LinkedIn,Religious Institutions,Not-for-Profit
+LinkedIn,Religious Institutions,Community and Lifestyle
+LinkedIn,Renewable Energy Equipment Manufacturing,Manufacturing
+LinkedIn,Renewable Energy Equipment Manufacturing,Energy
+LinkedIn,Renewable Energy Equipment Manufacturing,Sustainability
+LinkedIn,Renewable Energy Power Generation,Energy
+LinkedIn,Renewable Energy Power Generation,Sustainability
+LinkedIn,Renewable Energy Semiconductor Manufacturing,Energy
+LinkedIn,Renewable Energy Semiconductor Manufacturing,Sustainability
+LinkedIn,Renewable Energy Semiconductor Manufacturing,Semiconductor
+LinkedIn,Renewables & Environment,Sustainability
+LinkedIn,Repair and Maintenance,Consumer Services
+LinkedIn,Repair and Maintenance,Industrials
+LinkedIn,Research,Science and Engineering
+LinkedIn,Research,Data and Analytics
+LinkedIn,Research Services,Science and Engineering
+LinkedIn,Research Services,Data and Analytics
+LinkedIn,Residential Building Construction,"Architecture, Engineering, Construction"
+LinkedIn,Restaurants,Bars and Restaurants
+LinkedIn,Restaurants,Food and Beverage
+LinkedIn,Retail,Retail
+LinkedIn,Retail,Commerce and Shopping
+LinkedIn,Retail Apparel and Fashion,Retail
+LinkedIn,Retail Apparel and Fashion,Apparel & Fashion
+LinkedIn,"Retail Appliances, Electrical, and Electronic Equipment",Retail
+LinkedIn,"Retail Appliances, Electrical, and Electronic Equipment",Consumer Electronics
+LinkedIn,Retail Art Dealers,Retail
+LinkedIn,Retail Art Dealers,Art & Culture
+LinkedIn,Retail Art Supplies,Retail
+LinkedIn,Retail Art Supplies,Art & Culture
+LinkedIn,Retail Books and Printed News,Retail
+LinkedIn,Retail Books and Printed News,Books and Magazines
+LinkedIn,Retail Building Materials and Garden Equipment,Retail
+LinkedIn,Retail Building Materials and Garden Equipment,Home
+LinkedIn,Retail Florists,Retail
+LinkedIn,Retail Florists,Consumer Services
+LinkedIn,Retail Furniture and Home Furnishings,Retail
+LinkedIn,Retail Furniture and Home Furnishings,Home
+LinkedIn,Retail Gasoline,Retail
+LinkedIn,Retail Gasoline,Energy
+LinkedIn,Retail Groceries,Retail
+LinkedIn,Retail Groceries,Grocery
+LinkedIn,Retail Health and Personal Care Products,Retail
+LinkedIn,Retail Health and Personal Care Products,"Wellness, Nutrition and Fitness"
+LinkedIn,Retail Luxury Goods and Jewelry,Retail
+LinkedIn,Retail Luxury Goods and Jewelry,Consumer Products and CPG
+LinkedIn,Retail Motor Vehicles,Retail
+LinkedIn,Retail Motor Vehicles,Auto
+LinkedIn,Retail Musical Instruments,Retail
+LinkedIn,Retail Musical Instruments,Music and Audio
+LinkedIn,Retail Office Equipment,Retail
+LinkedIn,Retail Office Equipment,Business to Business (B2B)
+LinkedIn,Retail Office Supplies and Gifts,Retail
+LinkedIn,Retail Office Supplies and Gifts,Commerce and Shopping
+LinkedIn,Retail Pharmacies,Retail
+LinkedIn,Retail Pharmacies,Healthcare
+LinkedIn,Retail Recyclable Materials & Used Merchandise,Retail
+LinkedIn,Retail Recyclable Materials & Used Merchandise,Sustainability
+LinkedIn,Robot Manufacturing,Manufacturing
+LinkedIn,Robot Manufacturing,Science and Engineering
+LinkedIn,Robotics Engineering,Manufacturing
+LinkedIn,Robotics Engineering,Science and Engineering
+LinkedIn,Rubber Products Manufacturing,Manufacturing
+LinkedIn,Rubber Products Manufacturing,Industrials
+LinkedIn,School and Employee Bus Services,Transportation
+LinkedIn,School and Employee Bus Services,Education
+LinkedIn,Seafood Product Manufacturing,Manufacturing
+LinkedIn,Seafood Product Manufacturing,Food and Beverage
+LinkedIn,Secretarial Schools,Education
+LinkedIn,Securities and Commodity Exchanges,Financial Services
+LinkedIn,Securities and Commodity Exchanges,Lending and Investments
+LinkedIn,Security & Investigations,Privacy and Security
+LinkedIn,Security & Investigations,Professional Services
+LinkedIn,Security and Investigations,Privacy and Security
+LinkedIn,Security and Investigations,Professional Services
+LinkedIn,Security Guards and Patrol Services,Privacy and Security
+LinkedIn,Security Guards and Patrol Services,Consumer Services
+LinkedIn,Security Systems Services,Privacy and Security
+LinkedIn,Security Systems Services,Consumer Services
+LinkedIn,Semiconductor Manufacturing,Semiconductor
+LinkedIn,Semiconductor Manufacturing,Manufacturing
+LinkedIn,Semiconductors,Semiconductor
+LinkedIn,Semiconductors,Technology
+LinkedIn,Services for Renewable Energy,Energy
+LinkedIn,Services for Renewable Energy,Sustainability
+LinkedIn,Services for the Elderly and Disabled,Healthcare
+LinkedIn,Services for the Elderly and Disabled,Consumer Services
+LinkedIn,Shipbuilding,Transportation
+LinkedIn,Shipbuilding,Manufacturing
+LinkedIn,Shuttles and Special Needs Transportation Services,Transportation
+LinkedIn,Shuttles and Special Needs Transportation Services,Consumer Services
+LinkedIn,Sightseeing Transportation,Transportation
+LinkedIn,Sightseeing Transportation,Travel and Tourism
+LinkedIn,Skiing Facilities,Sports
+LinkedIn,Skiing Facilities,Travel and Tourism
+LinkedIn,Smart Meter Manufacturing,Manufacturing
+LinkedIn,Smart Meter Manufacturing,Utilities
+LinkedIn,Soap and Cleaning Product Manufacturing,Manufacturing
+LinkedIn,Soap and Cleaning Product Manufacturing,Consumer Products and CPG
+LinkedIn,Social Networking Platforms,Social Media
+LinkedIn,Social Networking Platforms,Internet Services
+LinkedIn,Social Networking Platforms,Technology
+LinkedIn,Software Development,Software
+LinkedIn,Software Development,Information Technology
+LinkedIn,Solar Electric Power Generation,Energy
+LinkedIn,Solar Electric Power Generation,Sustainability
+LinkedIn,Sound Recording,Music and Audio
+LinkedIn,Sound Recording,Media and Entertainment
+LinkedIn,Space Research and Technology,Air and Space
+LinkedIn,Space Research and Technology,Science and Engineering
+LinkedIn,Specialty Trade Contractors,"Architecture, Engineering, Construction"
+LinkedIn,Spectator Sports,Sports
+LinkedIn,Spectator Sports,Media and Entertainment
+LinkedIn,Sporting Goods,Retail
+LinkedIn,Sporting Goods,Sports
+LinkedIn,Sporting Goods Manufacturing,Manufacturing
+LinkedIn,Sporting Goods Manufacturing,Sports
+LinkedIn,Sports,Sports
+LinkedIn,Sports,Media and Entertainment
+LinkedIn,Sports and Recreation Instruction,Sports
+LinkedIn,Sports and Recreation Instruction,Education
+LinkedIn,Sports Teams and Clubs,Sports
+LinkedIn,Sports Teams and Clubs,Media and Entertainment
+LinkedIn,Staffing & Recruiting,Human Resources
+LinkedIn,Staffing & Recruiting,Staffing and Recruiting
+LinkedIn,Staffing and Recruiting,Human Resources
+LinkedIn,Staffing and Recruiting,Staffing and Recruiting
+LinkedIn,Strategic Management Services,Business Consulting
+LinkedIn,Subdivision of Land,Real Estate
+LinkedIn,Subdivision of Land,"Architecture, Engineering, Construction"
+LinkedIn,Sugar and Confectionery Product Manufacturing,Manufacturing
+LinkedIn,Sugar and Confectionery Product Manufacturing,Food and Beverage
+LinkedIn,Supermarkets,Grocery
+LinkedIn,Supermarkets,Retail
+LinkedIn,Surveying and Mapping Services,Navigation and Mapping
+LinkedIn,Surveying and Mapping Services,Science and Engineering
+LinkedIn,Taxi and Limousine Services,Transportation
+LinkedIn,Technical and Vocational Training,Education
+LinkedIn,"Technology, Information and Internet",Information Technology
+LinkedIn,"Technology, Information and Internet",Internet Services
+LinkedIn,"Technology, Information and Internet",Technology
+LinkedIn,"Technology, Information and Media",Information Technology
+LinkedIn,"Technology, Information and Media",Media and Entertainment
+LinkedIn,"Technology, Information and Media",Technology
+LinkedIn,Telecommunications,Messaging and Telecommunications
+LinkedIn,Telecommunications,Information Technology
+LinkedIn,Telecommunications Carriers,Messaging and Telecommunications
+LinkedIn,Telephone Call Centers,Customer Support
+LinkedIn,Telephone Call Centers,Administrative Services
+LinkedIn,Temporary Help Services,Staffing and Recruiting
+LinkedIn,Temporary Help Services,Human Resources
+LinkedIn,Textile Manufacturing,Manufacturing
+LinkedIn,Textile Manufacturing,Consumer Products and CPG
+LinkedIn,Textiles,Manufacturing
+LinkedIn,Textiles,Consumer Products and CPG
+LinkedIn,Theater Companies,Art & Culture
+LinkedIn,Theater Companies,Media and Entertainment
+LinkedIn,Think Tanks,Not-for-Profit
+LinkedIn,Think Tanks,Advocacy & Interest
+LinkedIn,Tobacco,Consumer Products and CPG
+LinkedIn,Tobacco Manufacturing,Manufacturing
+LinkedIn,Tobacco Manufacturing,Consumer Products and CPG
+LinkedIn,Translation & Localization,Professional Services
+LinkedIn,Translation & Localization,Community and Lifestyle
+LinkedIn,Translation and Localization,Professional Services
+LinkedIn,Translation and Localization,Community and Lifestyle
+LinkedIn,Transportation Equipment Manufacturing,Manufacturing
+LinkedIn,Transportation Equipment Manufacturing,Transportation
+LinkedIn,Transportation Programs,Transportation
+LinkedIn,Transportation Programs,Government and Military
+LinkedIn,"Transportation, Logistics, Supply Chain and Storage",Transportation
+LinkedIn,"Transportation, Logistics, Supply Chain and Storage",Logistics
+LinkedIn,Transportation/Trucking/Railroad,Transportation
+LinkedIn,Transportation/Trucking/Railroad,Logistics
+LinkedIn,Travel Arrangements,Travel and Tourism
+LinkedIn,Truck Transportation,Transportation
+LinkedIn,Truck Transportation,Logistics
+LinkedIn,Trusts and Estates,Financial Services
+LinkedIn,Trusts and Estates,Legal Services
+LinkedIn,Turned Products and Fastener Manufacturing,Manufacturing
+LinkedIn,Turned Products and Fastener Manufacturing,Industrials
+LinkedIn,Urban Transit Services,Transportation
+LinkedIn,Utilities,Utilities
+LinkedIn,Utilities,Energy
+LinkedIn,Utilities Administration,Utilities
+LinkedIn,Utilities Administration,Government and Military
+LinkedIn,Utility System Construction,"Architecture, Engineering, Construction"
+LinkedIn,Utility System Construction,Utilities
+LinkedIn,Vehicle Repair and Maintenance,Auto
+LinkedIn,Vehicle Repair and Maintenance,Consumer Services
+LinkedIn,Venture Capital,Angel and Venture Capital (VC)
+LinkedIn,Venture Capital,Financial Services
+LinkedIn,Venture Capital & Private Equity,Angel and Venture Capital (VC)
+LinkedIn,Venture Capital & Private Equity,Financial Services
+LinkedIn,Venture Capital and Private Equity Principals,Angel and Venture Capital (VC)
+LinkedIn,Venture Capital and Private Equity Principals,Financial Services
+LinkedIn,Veterinary,Healthcare
+LinkedIn,Veterinary,"Wellness, Nutrition and Fitness"
+LinkedIn,Veterinary Services,Healthcare
+LinkedIn,Veterinary Services,"Wellness, Nutrition and Fitness"
+LinkedIn,Vocational Rehabilitation Services,Healthcare
+LinkedIn,Vocational Rehabilitation Services,Education
+LinkedIn,Warehousing,Logistics
+LinkedIn,Warehousing,Transportation
+LinkedIn,Warehousing and Storage,Logistics
+LinkedIn,Warehousing and Storage,Transportation
+LinkedIn,Waste Collection,Waste Management and Remediation
+LinkedIn,Waste Treatment and Disposal,Waste Management and Remediation
+LinkedIn,Waste Treatment and Disposal,Sustainability
+LinkedIn,Water Supply and Irrigation Systems,Utilities
+LinkedIn,Water Supply and Irrigation Systems,Sustainability
+LinkedIn,"Water, Waste, Steam, and Air Conditioning Services",Utilities
+LinkedIn,"Water, Waste, Steam, and Air Conditioning Services",Sustainability
+LinkedIn,Wellness and Fitness Services,"Wellness, Nutrition and Fitness"
+LinkedIn,Wholesale,Business to Business (B2B)
+LinkedIn,Wholesale,Retail
+LinkedIn,Wholesale Alcoholic Beverages,Business to Business (B2B)
+LinkedIn,Wholesale Alcoholic Beverages,Alcohol
+LinkedIn,Wholesale Apparel and Sewing Supplies,Business to Business (B2B)
+LinkedIn,Wholesale Apparel and Sewing Supplies,Apparel & Fashion
+LinkedIn,"Wholesale Appliances, Electrical, and Electronics",Business to Business (B2B)
+LinkedIn,"Wholesale Appliances, Electrical, and Electronics",Hardware
+LinkedIn,Wholesale Building Materials,Business to Business (B2B)
+LinkedIn,Wholesale Building Materials,"Architecture, Engineering, Construction"
+LinkedIn,Wholesale Chemical and Allied Products,Business to Business (B2B)
+LinkedIn,Wholesale Chemical and Allied Products,Industrials
+LinkedIn,Wholesale Computer Equipment,Business to Business (B2B)
+LinkedIn,Wholesale Computer Equipment,Hardware
+LinkedIn,Wholesale Drugs and Sundries,Business to Business (B2B)
+LinkedIn,Wholesale Drugs and Sundries,Pharma
+LinkedIn,Wholesale Food and Beverage,Business to Business (B2B)
+LinkedIn,Wholesale Food and Beverage,Food and Beverage
+LinkedIn,Wholesale Footwear,Business to Business (B2B)
+LinkedIn,Wholesale Footwear,Apparel & Fashion
+LinkedIn,Wholesale Furniture and Home Furnishings,Business to Business (B2B)
+LinkedIn,Wholesale Furniture and Home Furnishings,Home
+LinkedIn,"Wholesale Hardware, Plumbing, Heating Equipment",Business to Business (B2B)
+LinkedIn,"Wholesale Hardware, Plumbing, Heating Equipment",Industrials
+LinkedIn,Wholesale Import and Export,Logistics
+LinkedIn,Wholesale Import and Export,Business to Business (B2B)
+LinkedIn,Wholesale Luxury Goods and Jewelry,Business to Business (B2B)
+LinkedIn,Wholesale Luxury Goods and Jewelry,Consumer Products and CPG
+LinkedIn,Wholesale Machinery,Business to Business (B2B)
+LinkedIn,Wholesale Machinery,Industrials
+LinkedIn,Wholesale Metals and Minerals,Business to Business (B2B)
+LinkedIn,Wholesale Metals and Minerals,Natural Resources
+LinkedIn,Wholesale Motor Vehicles and Parts,Business to Business (B2B)
+LinkedIn,Wholesale Motor Vehicles and Parts,Auto
+LinkedIn,Wholesale Paper Products,Business to Business (B2B)
+LinkedIn,Wholesale Paper Products,Manufacturing
+LinkedIn,Wholesale Petroleum and Petroleum Products,Business to Business (B2B)
+LinkedIn,Wholesale Petroleum and Petroleum Products,Petroleum and Coal
+LinkedIn,Wholesale Photography Equipment and Supplies,Business to Business (B2B)
+LinkedIn,Wholesale Photography Equipment and Supplies,Art & Culture
+LinkedIn,Wholesale Raw Farm Products,Business to Business (B2B)
+LinkedIn,Wholesale Raw Farm Products,Agriculture and Farming
+LinkedIn,Wholesale Recyclable Materials,Business to Business (B2B)
+LinkedIn,Wholesale Recyclable Materials,Sustainability
+LinkedIn,Wind Electric Power Generation,Energy
+LinkedIn,Wind Electric Power Generation,Sustainability
+LinkedIn,Wine & Spirits,Alcohol
+LinkedIn,Wine & Spirits,Food and Beverage
+LinkedIn,Wine and Spirits,Alcohol
+LinkedIn,Wine and Spirits,Food and Beverage
+LinkedIn,Wineries,Alcohol
+LinkedIn,Wineries,Food and Beverage
+LinkedIn,Wireless,Messaging and Telecommunications
+LinkedIn,Wireless,Technology
+LinkedIn,Wireless Services,Messaging and Telecommunications
+LinkedIn,Wireless Services,Technology
+LinkedIn,Wood Product Manufacturing,Manufacturing
+LinkedIn,Wood Product Manufacturing,Natural Resources
+LinkedIn,Writing & Editing,Content and Publishing
+LinkedIn,Writing & Editing,Professional Services
+LinkedIn,Writing and Editing,Content and Publishing
+LinkedIn,Zoos and Botanical Gardens,Travel and Tourism
+LinkedIn,Zoos and Botanical Gardens,Not-for-Profit

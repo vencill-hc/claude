@@ -1,0 +1,238 @@
+keyword,function
+recruiter,Human Resources
+recruiting,Human Resources
+talent acquisition,Human Resources
+engineer,Engineering
+developer,Engineering
+chief architect,Engineering
+cto,Engineering
+chief technology,Engineering
+technology officer,Engineering
+data science,Engineering
+data scientist,Engineering
+programmer,Engineering
+software,Engineering
+machine learning,Engineering
+ml,Engineering
+innovation officer,Engineering
+technical staff,Engineering
+entrepreneur,Entrepreneurship
+founder,Entrepreneurship
+cofounder,Entrepreneurship
+owner,Entrepreneurship
+administrative assistant,Administrative
+executive assistant,Administrative
+office assistant,Administrative
+personal assistant,Administrative
+secretary,Administrative
+receptionist,Administrative
+_assistant_,Administrative
+accountant,Accounting
+accounting,Accounting
+cpa,Accounting
+controller,Accounting
+tax,Accounting
+audit,Accounting
+sales,Sales
+sdr,Sales
+cro,Sales
+revenue,Sales
+account,Sales
+_sales_,Sales
+partnerships,Sales
+cmo,Marketing
+marketing,Marketing
+marketer,Marketing
+brand,Marketing
+social media,Marketing
+quality,Quality Assurance
+test,Quality Assurance
+qa,Quality Assurance
+inspector,Quality Assurance
+lawyer,Legal
+arbitrator,Legal
+attorney,Legal
+legal,Legal
+mediator,Legal
+paralegal,Legal
+court,Legal
+judge,Legal
+litigation,Legal
+general counsel,Legal
+intellectual property,Legal
+compliance,Legal
+regulatory,Legal
+contract management,Legal
+ip,Legal
+patent,Legal
+cfo,Finance
+finance,Finance
+financial,Finance
+economist,Finance
+payroll,Finance
+cfa,Finance
+banking,Finance
+wealth,Finance
+investment,Finance
+design,Design
+ui,Design
+ux,Design
+consultant,Consulting
+consulting,Consulting
+customer service,Customer Service
+customer success,Customer Service
+customer support,Customer Service
+client service,Customer Service
+client success,Customer Service
+customer engagement,Customer Service
+customer experience,Customer Service
+csm,Customer Service
+research scientist,Science
+research,Research
+r&d,Research
+real estate,Real Estate
+realtor,Real Estate
+property,Real Estate
+hr,Human Resources
+people,Human Resources
+talent,Human Resources
+human resources,Human Resources
+chro,Human Resources
+program,Project Management
+project,Project Management
+product manager,Product Management
+product management,Product Management
+cpo,Product Management
+cpto,Product Management
+pm,Product Management
+coo,Operations
+operations,Operations
+operating,Operations
+chief of staff,Operations
+associate,Operations
+security officer,Military & Protective Services
+security guard,Military & Protective Services
+correctional officer,Military & Protective Services
+police,Military & Protective Services
+law enforcement,Military & Protective Services
+firefighter,Military & Protective Services
+army,Military & Protective Services
+military,Military & Protective Services
+navy,Military & Protective Services
+marines,Military & Protective Services
+coast guard,Military & Protective Services
+air force,Military & Protective Services
+doctor,Healthcare Services
+medical,Healthcare Services
+healthcare,Healthcare Services
+nurse,Healthcare Services
+nursing,Healthcare Services
+physician,Healthcare Services
+pharmacy,Healthcare Services
+pharmacist,Healthcare Services
+clinical,Healthcare Services
+dental,Healthcare Services
+radiology,Healthcare Services
+radiologist,Healthcare Services
+therapist,Healthcare Services
+therapy,Healthcare Services
+business analyst,Data / Analytics
+data analyst,Data / Analytics
+teacher,Education
+professor,Education
+academic,Education
+dean,Education
+coach,Education
+educator,Education
+librarian,Education
+intern,Education
+student,Education
+cxo,Management
+ceo,Management
+partner,Management
+chief executive officer,Management
+president,Management
+board member,Management
+managing dir,Management
+steering committee,Management
+artist,Arts and Creative
+animator,Arts and Creative
+creative,Arts and Creative
+business development,Business Development
+bdr,Business Development
+gm,Business Development
+general manager,Business Development
+growth,Business Development
+media,Media & Communications
+journalist,Media & Communications
+communication,Media & Communications
+publisher,Media & Communications
+editor,Media & Communications
+social work,Community & Social Services
+community service,Community & Social Services
+counselor,Community & Social Services
+social services,Community & Social Services
+advertising,Advertising
+ads,Advertising
+distribution,Distribution
+logistics,Distribution
+distributor,Distribution
+general business,General Business
+bizops,General Business
+business ops,General Business
+manufacturing,Manufacturing
+maintenance,Manufacturing
+public relations,Public Relations
+image management,Public Relations
+publicity,Public Relations
+production,Production
+machinist,Production
+assembly,Production
+weld,Production
+science,Science
+scientist,Science
+scientific,Science
+procurement,Merchandising
+purchasing,Merchandising
+buyer,Merchandising
+sourcing,Merchandising
+materials,Merchandising
+planning,Strategy / Planning
+planner,Strategy / Planning
+strategy,Strategy / Planning
+strategist,Strategy / Planning
+supply chain,Supply Chain
+global supply,Supply Chain
+fulfilment,Supply Chain
+training,Training
+trainer,Training
+learning,Training
+l&d,Training
+facilitator,Training
+author,Writing / Editing
+editing,Writing / Editing
+writer,Writing / Editing
+copywriter,Writing / Editing
+it,IT
+security analyst,IT
+security specialist,IT
+security advisor,IT
+information,IT
+technology,IT
+application support,IT
+database administrator,IT
+desktop support,IT
+help desk,IT
+system administrator,IT
+network administrator,IT
+cio,IT
+ciso,IT
+product,Product Management
+artificial intelligence,Engineering
+ai,Engineering
+web,Engineering
+data,Engineering
+law,Legal
+support,Customer Service
+art,Arts and Creative
+pr,Media & Communications
