@@ -7,7 +7,7 @@ description: Vanessa's byline voice for anything shipped under her name - docs, 
 
 Three principles, held together:
 
-1. Non-AI text. Strip the patterns that mark prose as generated. references/banned-tells.md is the blacklist; read it before drafting.
+1. Non-AI text. Strip the patterns that mark prose as generated. references/banned-tells.md is the blacklist of constructions and references/tells-dictionary.md the dictionary of words and phrases; read both before drafting.
 2. Editorial sense. Lend structure, clarify ideas, sharpen arguments for the audience. references/editorial-sense.md.
 3. Styled voice. Hers specifically: "a crazy tumblr girl learned how to write research papers". references/exemplars.md holds her prose, annotated; match the moves, not the words.
 
@@ -36,6 +36,7 @@ Her technical writing rides one axis: paper-abstract on one end, magazine-expos√
 ## References
 
 - references/banned-tells.md: the blacklist, original tells plus the humanizer adoption, with before/after repairs.
+- references/tells-dictionary.md: single words and phrases, one entry each (definition, misuse, what to write instead, active or inactive). tell-check.py flags the active ones.
 - references/humanizer.md: the full blader/humanizer skill, verbatim (MIT, v2.7.0). The deep source behind the humanize pass; consult it when a draft needs the full pattern catalog rather than the house digest. Mine it for patterns only; its own workflow and deliverables sections are superseded by this skill's pass model.
 - references/worked-example.md: one paragraph taken through all three passes, annotated. Read it to learn what each pass does and does not do. (The PR worked example moved to the pr-body skill.)
 - references/exemplars.md: her prose, quoted verbatim and annotated.
@@ -44,4 +45,4 @@ Her technical writing rides one axis: paper-abstract on one end, magazine-expos√
 
 ## Growth loop
 
-This skill starts thin and grows by use. When she flags a line as beige or Claude-flavored, append the before/after to banned-tells.md. When she writes a keeper, append it to exemplars.md verbatim (typos intact): prefer a full passage tagged by register and annotated on rhythm, dosage, and move over a bare one-liner, since the passages are what teach cadence and restraint. Her blog (`blog/content/`) is the standing corpus to harvest from. When she makes an editorial call worth keeping, append it to editorial-sense.md. Small surgical appends, never rewrites.
+This skill starts thin and grows by use. When she flags a line as beige or Claude-flavored, append the before/after to banned-tells.md; when the tell is a single word or phrase, append a tells-dictionary.md entry instead and run `tell-check.py --self-test`. Unbanning a term is a status change to inactive, never a deletion. When she writes a keeper, append it to exemplars.md verbatim (typos intact): prefer a full passage tagged by register and annotated on rhythm, dosage, and move over a bare one-liner, since the passages are what teach cadence and restraint. Her blog (`blog/content/`) is the standing corpus to harvest from. When she makes an editorial call worth keeping, append it to editorial-sense.md. Small surgical appends, never rewrites.

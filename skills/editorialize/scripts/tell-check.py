@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 """Deterministic tell scan for the editorialize skill.
 
-Flags banned constructions from references/banned-tells.md with line numbers.
+Flags banned constructions from references/banned-tells.md, and the active
+terms of references/tells-dictionary.md, with line numbers.
 A first pass only: single hits prove nothing, clusters convict. The judgment
 passes (voice, editorial) still happen after this.
 
 Usage:
     tell-check.py <file> [<file> ...]
     cat draft.md | tell-check.py -
+    tell-check.py --self-test    # dictionary patterns vs their Before/After lines
 """
 import re
 import sys
+from pathlib import Path
 
 # (name, compiled regex). Lexical patterns only; judgment stays with the reader.
 PATTERNS = [
@@ -19,15 +22,15 @@ PATTERNS = [
         r"\bnot just\b|\bisn't just\b|\bnot only\b.{0,40}\bbut\b|"
         r"\bit'?s not about\b.{0,60}\bit'?s about\b", re.I)),
     ("corrective reframe", re.compile(
-        r"\bthat'?s not (?:a |an |the )?\w+[,;]? (?:that'?s|it'?s)\b|"
-        r"\bis not (?:a |an |the )?\w+[,;]? it'?s (?:actually )?\b", re.I)),
+        r"\bthat'?s not (?:a |an |the )?\w+(?: \w+)?[,;]? (?:that'?s|it'?s)\b|"
+        r"\b(?:is not|isn'?t) (?:a |an |the )?\w+(?: \w+)?[,;]? it'?s (?:actually )?\b", re.I)),
     ("copula avoidance", re.compile(
         r"\bserves? as\b|\bfunctions? as\b|\bacts? as\b|\bstands? as a testament\b", re.I)),
     ("AI vocabulary", re.compile(
         r"\b(?:delve[sd]?|delving|pivotal|tapestry|vibrant|testament|"
         r"underscor(?:e[sd]?|ing)|boasts?|foster(?:s|ing)?|showcas(?:e[sd]?|ing)|"
         r"realm|multifaceted|ever-evolving|crucial|comprehensive|seamless(?:ly)?|"
-        r"robust|load-bearing|leverag(?:e[sd]?|ing))\b", re.I)),
+        r"robust|leverag(?:e[sd]?|ing))\b", re.I)),
     ("throat-clearing", re.compile(
         r"\bit'?s worth noting\b|^\s*importantly,|\bhere'?s the thing\b|"
         r"\bthe reality is\b|\blet'?s unpack\b|\blet'?s dive\b|"
@@ -57,6 +60,42 @@ PATTERNS = [
 ]
 
 
+DICTIONARY = Path(__file__).resolve().parent.parent / "references" / "tells-dictionary.md"
+FIELD = re.compile(r"^(status|pattern|Before|After): (.+)$", re.M)
+
+
+def load_dictionary(path=DICTIONARY):
+    """Entries of the tells dictionary as dicts: term, status, pattern, Before, After."""
+    entries = []
+    for chunk in re.split(r"^## ", path.read_text(encoding="utf-8"), flags=re.M)[1:]:
+        entry = {"term": chunk.split("\n", 1)[0].strip()}
+        entry.update(FIELD.findall(chunk))
+        entry["status"] = entry.get("status", "").split(" ")[0]
+        if entry["status"] not in ("active", "inactive"):
+            sys.exit(f"tells-dictionary: {entry['term']!r} needs status: active or inactive")
+        if "pattern" in entry:
+            try:
+                entry["pattern"] = re.compile(entry["pattern"].strip("`"), re.I)
+            except re.error as e:
+                sys.exit(f"tells-dictionary: bad pattern for {entry['term']!r}: {e}")
+        entries.append(entry)
+    return entries
+
+
+def self_test(entries):
+    """Every pattern must match its entry's Before line and miss its After line."""
+    bad = [e["term"] for e in entries if "pattern" in e and "Before" in e and (
+        not e["pattern"].search(e["Before"]) or e["pattern"].search(e.get("After", "")))]
+    for term in bad:
+        print(f"tells-dictionary: pattern for {term!r} misses its Before or hits its After")
+    print(f"{len(entries)} entries, {len(bad)} failing.")
+    return 1 if bad else 0
+
+
+ENTRIES = load_dictionary()
+PATTERNS += [(e["term"], e["pattern"]) for e in ENTRIES if e["status"] == "active" and "pattern" in e]
+
+
 # Provenance footers (the 🤖 generated-with and 🦋 revised-by lines) are disclosure,
 # not prose; exempt from the emoji rule. See the pr-body skill, footer conventions.
 PROVENANCE_FOOTER = re.compile(r"^\s*>?\s*[\U0001F916\U0001F98B]")
@@ -67,6 +106,7 @@ def scan(name, text):
     for lineno, line in enumerate(text.splitlines(), 1):
         if PROVENANCE_FOOTER.match(line):
             continue
+        line = line.replace("’", "'")  # typeset drafts use curly apostrophes
         for pname, rx in PATTERNS:
             for m in rx.finditer(line):
                 snippet = m.group(0)[:60]
@@ -78,6 +118,8 @@ def main(argv):
     if len(argv) < 2:
         print(__doc__.strip())
         return 2
+    if argv[1:] == ["--self-test"]:
+        return self_test(ENTRIES)
     total = 0
     by_pattern = {}
     for path in argv[1:]:
