@@ -180,6 +180,13 @@ Review PR for code comment compliance:
 - Read modified files
 - Check for TODO comments, warnings, documented patterns
 - Verify changes follow comment guidance
+- Read references/reviewer-taste.md first: it holds the reviewer's
+  recurring asks, quoted, each turned into a rule. Check every added
+  comment, docstring, test file and new test against those rules.
+- Flag decision or review dates in added comments and docstrings
+  (`(2026-09-25)`, `ruled 2026-09-24`, `the 2026-09-11 split`). A date on
+  its own is not material; the comment should carry the nuance the code or
+  list does not show, and the date belongs in the commit or the PR.
 
 Return issues with:
 - Issue description

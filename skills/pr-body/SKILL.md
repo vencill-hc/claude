@@ -23,7 +23,7 @@ Headers are part of the form: `### Summary` (opening, causes, class table, total
 2. Root causes, numbered, when there is more than one. Example sets stack as bullets under their cause, never serial parentheticals.
 3. The change table: the inventory, one field per row. When the delta is measured, an impact column (rows moved, latency, cost) on every row.
 4. The total, with its decomposition as bullets.
-5. Movements worth calling out by name: consequences a reviewer would want flagged, each carrying a fact the table does not (the largest single flip, a precedence the table already claimed).
+5. Movements worth calling out by name: consequences a reviewer would want flagged, each carrying a fact the table does not (the largest single flip, a precedence the table already claimed). Any commit that is not the PR's headline (a perf change in a labeling PR, a refactor beside a fix) gets one sentence here on why it is in this PR at all; a surprise in the diff with no sentence in the body draws "what exactly does this do" (#608). The reviewer's other recurring asks are in `pr-code-review/references/reviewer-taste.md`; read it before the draft.
 6. Footer: `---`, then `Tags: SUP-420/SUP-539`, then provenance lines. Ticket ids are citations, never the headline.
 
 Sections that don't apply to a given PR are skipped, not padded; a feature PR may have no root causes and no measured delta, and its skeleton collapses to opening, table, footer.
