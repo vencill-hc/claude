@@ -161,3 +161,24 @@ Appended 2026-08-20, flagged on the Function Labeling Answers doc. In shared rep
 
 Before: "Your 544 is a correct count of a stale artifact. I'll regenerate the workbook."
 After: "The 544 is a correct count of a stale artifact. The workbook will be regenerated from the current spec."
+
+## Terse adjective-noun-participle titles
+
+Appended 2026-10-01, flagged on the Vote Rollout Sketchbook. Titles built as a clipped phrase that names a thing and tacks a past participle or adverb on the end: "One Company Up Close", "Every Strategy Compared", "Labels Kept and Removed", "The Three Rollouts". Her read: vague, empty-calorie, terse to the point of silly, and it specifies what is already implied ("Every" strategy: comparing them already means all of them). Name the activity the section does, plainly, as a gerund phrase.
+
+Before: "One Company Up Close", "Every Strategy Compared"
+After: "Examining Companies", "Comparing Strategies"
+
+## Euphemistic status for a failure
+
+Appended 2026-10-04, flagged on the ledger-entry Tools page. A heading or status that describes a failure by what the system politely refrained from doing: "Left As They Were", "left as it was", "nothing was changed", "kept as is". Her ruling: a Claudism. State the outcome in the operation's own verb, negated.
+
+Before: "## Left As They Were" over the files a sort could not reorder; "01_2026.ledger: left as it was"
+After: "## Not Sorted"; "01_2026.ledger: not sorted"
+
+## Day-month dates
+
+Appended 2026-10-06, flagged on the DAT-75 PR body. "1 October" and "6 October" read as British or as a log line; she writes month first with an ordinal day, which reads more naturally. Add the year with a comma when it matters: "October 1st, 2026". Ordinals stay on the baseline, never superscripted (typography). ISO dates (2026-10-01) are fine where the content is data: file names, SQL, tables of runs, workpod logs.
+
+Before: "the 1,000th organization on each measure on 1 October"; "Counted over every organization on 6 October."
+After: "the 1,000th organization on each measure on October 1st"; "Counted over every organization on October 6th."

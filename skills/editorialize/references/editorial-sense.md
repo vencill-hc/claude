@@ -91,3 +91,10 @@ Flagged on the Compound Title Walk artifact, after ~20 copy edits on a page that
 > Often the first draft of an artifact has much much much too much text, but the solution isn't to just remove text, it's to sharpen the ideas so only the relevant concepts are surfaced and highlighted, to make sure the reader is trained to view the visuals with the right lens
 
 Deletion is the wrong tool because it leaves the surviving sentences unchanged, and the surviving sentences were usually describing the visual rather than teaching how to read it. The pass is: for each sentence, name the concept it exists to surface; if the figure or the layout already surfaces it, the sentence goes; if not, rewrite the sentence until it states the mechanism in the page's own vocabulary and nothing else. What remains is the lens. The concrete checks live in artifact-narrative-review § 5b; the reader contract above (every opening a promise) is the same law applied to a page where the figures are the payoff.
+
+## Name the guarantee, not the walkthrough
+
+Appended 2026-10-06, her rewrite of a PR #625 notes bullet. A reviewer-facing note about a design safeguard states the guarantee in plain terms (what the rule reads, what it never reads, the failure it prevents, by name) and points at the test. It does not walk a hypothetical through the mechanism or open with the counterfactual, which reads as if the failure happens.
+
+Before: "The industry bar counts the industries the records’ claims map to, never the industries the organization holds, so the vote’s own output cannot move an organization across the bar. An organization the vote cuts from 25 industries to 3 still counts 25 on its next run and keeps the vote; `test_…` relabels on the first run’s output to hold it there."
+After: "The industry threshold always used the raw records, never the result of industry labeling, so the output cannot move an organization between methods, avoiding churn and/or thrashing. A test verifies this behavior at `test_…`."
