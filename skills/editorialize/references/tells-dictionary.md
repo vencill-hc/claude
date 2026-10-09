@@ -359,7 +359,7 @@ Before: "Both artifacts are byte-identical."
 After: "The two files are exactly the same."
 
 ## freeze the binding
-status: active · added: 2026-10-09 · source: claudish
+status: inactive (binding is a Data Universe term) · added: 2026-10-09 · source: claudish
 also: frozen binding
 pattern: `\bfreeze the \w+ binding\b|\bfrozen binding\b`
 
