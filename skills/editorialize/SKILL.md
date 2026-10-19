@@ -1,5 +1,6 @@
 ---
 name: editorialize
+model: fable
 description: Vanessa's byline voice for anything shipped under her name - docs, design writeups, README prose, review comments - and prose-mode conversation (references/conversational-register.md). PR bodies layer pr-body on this. Use when drafting prose she will sign, or on "humanize this", "de-AI this", "make this sound like me", "edit this prose", "this reads like AI", "beige", LLM-flavored, "not mine". NOT for technical Q&A, debugging, data queries, code, or commit messages.
 ---
 

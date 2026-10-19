@@ -1,5 +1,6 @@
 ---
 name: artifact-narrative-review
+model: fable
 description: Critical review of a data-narrative artifact against three axes, narrative cohesion, data-visualization craft, and voice/style. Answers "does this artifact tell a cohesive story a cold reader can act on". Use when the user says "review this artifact", "does this artifact tell a cohesive narrative", "is the story clear", "narrative review", "check the artifact reads well", "is this discoverable", "audit this artifact for clarity", or shares an artifact link asking for feedback on the story or visuals rather than the code. Do NOT use for building the artifact (that is artifact-design + dataviz), do NOT use for a bare correctness check of the underlying numbers, do NOT use for prose the user is signing outside an artifact (editorialize governs those).
 ---
 

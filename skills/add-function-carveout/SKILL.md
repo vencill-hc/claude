@@ -1,5 +1,6 @@
 ---
 name: add-function-carveout
+model: opus
 description: Add a keyword carve-out to the job-function taxonomy spec in data-universe-pipelines - measure the title-shape split, write Band-1 keys in post-normalization space, tests, docs ruling row, volume rerun. Use on "carve out X to Y", "should X route to a different function", "bring X back", or any spec-keyword judgment (SUP-571-style tickets, EZ review rulings). Not for adding whole function values (enum change, cross-repo).
 ---
 

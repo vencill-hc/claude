@@ -1,5 +1,6 @@
 ---
 name: code-style-review
+model: opus
 description: Full-pass readability review of one source file - organization, docstrings, naming, comments, regex and table presentation - gated by ruff + pyright + tests and shipped as phase-scoped commits. Use on "style review", "full pass revision", "is this file well organized", "review the docstrings", "clean up this module", or after a refactor lands and before the PR goes back to reviewers. Not for bugs (code-review), over-engineering (ponytail-review), or PR-wide review (pr-code-review).
 ---
 

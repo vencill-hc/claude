@@ -1,5 +1,6 @@
 ---
 name: pr-code-review
+model: opus
 description: Comprehensive code review for GitHub pull requests using parallel agents. Checks bugs, CLAUDE.md compliance, git history, previous PR patterns, and code comments. Use when reviewing PRs, doing code review, or when user mentions "review PR", "check PR", or provides a PR number.
 ---
 

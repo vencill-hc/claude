@@ -1,5 +1,6 @@
 ---
 name: pr-body
+model: fable
 description: "Use when drafting or revising a pull request description or title: 'write the PR body', 'draft the PR description', a finished branch needs its PR opened, or a body already live on GitHub needs editing. Not for review comments, commit messages, or general prose (editorialize governs those)."
 ---
 

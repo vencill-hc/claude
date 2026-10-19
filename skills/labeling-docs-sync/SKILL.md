@@ -1,5 +1,6 @@
 ---
 name: labeling-docs-sync
+model: sonnet
 description: Use after merging any labeling change in data-universe-pipelines - job function keywords, seniority parsing, industry mappings, person highlights, funding-stage bands, board-seat rules - or on "update the mappings sheet", "is the mappings doc current", "regenerate the field mappings", "publish the mapping workbook", "what changed in labeling since". Also before reviewers consume the mappings folder. Not for the taxonomy review workbook (taxonomy-workbook-regen) or spec edits (add-function-carveout).
 ---
 

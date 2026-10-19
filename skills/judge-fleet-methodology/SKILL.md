@@ -1,5 +1,6 @@
 ---
 name: judge-fleet-methodology
+model: fable
 description: 'Methodology checklist for LLM-judge agent fleets whose numbers feed a decision, deliverable, or slide. Use BEFORE writing the fleet prompt or study plan, and to review such plans for rigor ("is this defensible"). Triggers: "grounding fleet", "review fleet", "LLM as judge", "agent verdicts", "precision study", "vendor comparison", "double review", "judge rubric".'
 ---
 

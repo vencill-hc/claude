@@ -1,5 +1,6 @@
 ---
 name: external-review-reply
+model: fable
 description: Answer a PM/client review question set (Zain, Jacqueline, EZ rounds) about GDU taxonomies, workbooks, or counts. Triggers - "answer these questions", "working through this doc", "Zain's questions", "question set", "the counts don't reconcile". NOT for regenerating the workbook (taxonomy-workbook-regen) or Drive mechanics (drive-deliverables).
 ---
 
