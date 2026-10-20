@@ -384,12 +384,12 @@ After: "The string looks like a credential but may not be valid."
 
 ## what lands
 status: active · added: 2026-10-20 · source: VV, on the HelloSky Linear ticket drafts (pr-body table header "Piece / What lands")
-also: lands in, lands on, lands with, landing
-pattern: `\bwhat lands\b|\blands? (\w+ )?(in|on|with|behind|as)\b|\blanding (shape|step)\b`
+also: lands in, landed in, lands on, lands with, lands as, lands behind, landing shape, landing step
+pattern: `\bwhat lands\b|\bland(?:s|ed)? (?:\w+ ){0,2}(?:in|on|with|behind|as)\b|\blanding (?:shape|step)\b`
 
-Means: arrives, is delivered, is merged, is written to a table.
-Misuse: one coinage verb standing in for ship, merge, write, deliver, add and schedule, so a reader cannot tell which one happened. As a table header ("What lands") it names nothing: a scope table lists deliverables, a change table lists changes.
-Instead: the plain verb for the event. Header a scope table "Deliverable" or "Change". Aviation and Beam senses stay ("the file is landed in the bucket" is pipeline vocabulary; use it for that only).
+Means: arrives. In software prose, is merged, delivered, or written somewhere.
+Misuse: one verb standing in for ship, merge, write, copy, move, deliver, add and schedule, so the reader cannot tell which happened. As a table header ("What lands") it names nothing: a scope table lists deliverables, a change table lists changes.
+Instead: the specific verb and the destination: merged to main, written to the table, copied to the bucket. Title the column "Deliverable" or "Change". No pipeline carve-out: "the file is landed in the bucket" is "the file is written to the bucket". The checker also flags the plane and the calendar date; keep those by hand.
 
 Before: "This ticket ports the crawler and lands it as the source of the ingestion job."
 After: "This ticket ports the crawler and makes it the source of the ingestion job."

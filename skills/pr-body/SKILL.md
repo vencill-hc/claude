@@ -37,7 +37,7 @@ Numbers appear once. Summing or decomposing the table is not repetition; re-narr
 
 ## What gets cut
 
-The test for process content: does it scope what the reviewer reviews, or assure them the work was done diligently? Scoping stays ("re-lands #123 on main; the dedup commits stay with #99"). Assurance goes: measurement methodology, commit hygiene, test discipline, "nothing here touches the schemas". Methodology earns a place only when it is itself the code under review.
+The test for process content: does it scope what the reviewer reviews, or assure them the work was done diligently? Scoping stays ("re-applies #123 on main; the dedup commits stay with #99"). Assurance goes: measurement methodology, commit hygiene, test discipline, "nothing here touches the schemas". Methodology earns a place only when it is itself the code under review.
 
 Also cut:
 
